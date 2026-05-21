@@ -1,0 +1,16 @@
+.FFC2B35-10-T :1 ;10 Position FFC, FPC Connector Contacts, Bottom 0.020" (0.50mm) Surface Mount, Right Angle
+FFC2B3510T
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="MP1" 12="MP2"
+*MXP 12
+*DFN FFC2B35-10-T
+~!Mouser Part Number (640-FFC2B35-10-T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/GCT/FFC2B35-10-T?qs=Li%252BoUPsLEnvL34Nnr1m37A%3D%3D)
+~!Manufacturer_Name (GCT (GLOBAL CONNECTOR TECHNOLOGY))
+~!Manufacturer_Part_Number (FFC2B35-10-T)
+~!Link Datasheet (https://gct.co/files/drawings/ffc2b35.pdf)
+~!Height (2.2mm)
+~!3D_Model (FFC2B35-10-T)
+FFC2B35-10-T
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 

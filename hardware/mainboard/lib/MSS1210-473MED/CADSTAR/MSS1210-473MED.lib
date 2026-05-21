@@ -1,0 +1,16 @@
+.MSS1210-473MED :1 ;INDUCTOR, 47UH, 4.6A, 20%, PWR, 6MHZ
+INDPM120120X1020N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MSS1210-473MED
+~!Mouser Part Number (994-MSS1210-473MED)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Coilcraft/MSS1210-473MED?qs=zCSbvcPd3paxXLuSYyP%252Bhg%3D%3D)
+~!Manufacturer_Name (COILCRAFT)
+~!Manufacturer_Part_Number (MSS1210-473MED)
+~!Link Datasheet (https://www.coilcraft.com/getmedia/f1a1bc5f-bdff-42f8-9ca8-1a0fb1d5094f/MSS1210.pdf)
+~!Height (10.2mm)
+~!3D_Model (MSS1210-473MED)
+MSS1210-473MED
+1.1!U 2.1!U 

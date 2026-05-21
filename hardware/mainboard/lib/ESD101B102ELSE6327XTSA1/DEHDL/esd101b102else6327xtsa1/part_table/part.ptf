@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESD101B102ELSE6327XTSA1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "ESD101B102ELSE6327XTSA1" (!) = "", "ESD207B102ELE6327", "Other", "726-ESD101B102ELSE63", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/ESD101B102ELSE6327XTSA1?qs=wqPJ3MBjhrhYgaXAaMnHlw%3D%3D", "TVS Diode ESD 14KV Bi-directional TSLP2", "https://www.infineon.com/dgdl/Infineon-ESD101_B1-DS-v01_04-EN.pdf?fileId=db3a30433e9d5d11013e9d6619a20002", "0 mm"
+END_PART
+
+END.

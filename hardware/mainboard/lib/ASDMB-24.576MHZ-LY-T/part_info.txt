@@ -1,0 +1,9 @@
+Manufacturer=ABRACON
+PartNumber=ASDMB-24.576MHZ-LY-T
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=4
+Version=4.1
+Released=2023-04-21 03:43:13
+Downloaded=2026-05-20 18:03:01
+3D=Y

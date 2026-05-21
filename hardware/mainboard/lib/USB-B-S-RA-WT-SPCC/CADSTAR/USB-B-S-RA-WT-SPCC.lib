@@ -1,0 +1,16 @@
+.USB-B-S-RA-WT-SPCC :1 ;USB-B (USB TYPE-B) Receptacle Connector 4 Position Through Hole, Right Angle
+USBBSRAWTSPCC
+*STM J
+*NGS
+*PLB 1="VBUS" 2="D-" 3="D+" 4="GND" 5="MH_1" 6="MH_2"
+*MXP 6
+*DFN USB-B-S-RA-WT-SPCC
+~!Mouser Part Number (737-USBBSRAWTSPCC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Adam-Tech/USB-B-S-RA-WT-SPCC?qs=HoCaDK9Nz5cHxCm3vWfCRw%3D%3D)
+~!Manufacturer_Name (Adam Tech)
+~!Manufacturer_Part_Number (USB-B-S-RA-WT-SPCC)
+~!Link Datasheet (https://www.mouser.co.uk/ProductDetail/Adam-Tech/USB-B-S-RA-WT-SPCC?qs=HoCaDK9Nz5cHxCm3vWfCRw%3D%3D)
+~!Height (11.43mm)
+~!3D_Model (USB-B-S-RA-WT-SPCC)
+USB-B-S-RA-WT-SPCC
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

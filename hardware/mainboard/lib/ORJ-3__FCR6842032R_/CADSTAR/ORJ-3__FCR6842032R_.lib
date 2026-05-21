@@ -1,0 +1,15 @@
+.ORJ-3__FCR6842032R_ :1 ;Fiber Optic Receiver Optical 16Mbps -24dBm 2.7V ~ 5.5V 6.5 mA
+ORJ3FCR6842032R
+*STM U
+*NGS
+*PLB 1="VOUT" 2="GND" 3="VCC"
+*MXP 5
+*DFN ORJ-3__FCR6842032R_
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (CLIFF ELECTRONIC COMPONENTS)
+~!Manufacturer_Part_Number (ORJ-3 (FCR6842032R))
+~!Link Datasheet (rmnndx00)
+~!Height (11.7mm)
+ORJ-3__FCR6842032R_
+1.1!U 2.1!U 3.1!U 

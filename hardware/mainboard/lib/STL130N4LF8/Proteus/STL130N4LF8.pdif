@@ -1,0 +1,137 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "STL130N4LF8"
+   (description "N-channel logic level 40 V, 2.3 m max., 124 A, STripFET F8 Power MOSFET in a PowerFLAT 3.3x3.3 package")
+   (family "TRX")
+   (package "STL9P4LF6AG")
+   (attribute "Datasheet Link" "https://www.st.com/resource/en/datasheet/stl130n4lf8.pdf")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "STL130N4LF8")
+   (gate
+    (symbol "STL130N4LF8")
+    (pin "S_1" 1 PS)
+    (pin "S_2" 2 PS)
+    (pin "S_3" 3 PS)
+    (pin "G" 4 PS)
+    (pin "D_1" 5 PS)
+    (pin "D_2" 6 PS)
+    (pin "D_3" 7 PS)
+   )
+  )
+  (symbol "STL130N4LF8"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 400) (pt 800 400) (pt 800 -400) (pt 200 -400) (pt 200 400) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 300 -600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 400 -600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 -600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 -600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 600) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "STL9P4LF6AG"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.575 1.5)
+      (pt 1.575 1.5)
+      (pt 1.575 -1.5)
+      (pt -1.575 -1.5)
+      (pt -1.575 1.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.775 2.9)
+      (pt 2.775 2.9)
+      (pt 2.775 -2.9)
+      (pt -2.775 -2.9)
+      (pt -2.775 2.9))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.975 -2.3)
+      (arc (pt -0.975 -2.300) (pt -1.025 -2.400) (pt -0.925 -2.300) (start 180.0) (sweep 90.0))
+      (pt -0.975 -2.4)
+      (arc (pt -0.975 -2.400) (pt -1.025 -2.400) (pt -0.925 -2.300) (start 180.0) (sweep -90.0))
+      (pt -0.975 -2.3)
+      (arc (pt -0.975 -2.300) (pt -1.025 -2.400) (pt -0.925 -2.300) (start 180.0) (sweep 90.0))
+      (pt -0.975 -2.4))))
+   (leg 1 (pt -0.975 -1.525) (padstack 0))
+   (leg 2 (pt -0.325 -1.525) (padstack 0))
+   (leg 3 (pt 0.325 -1.525) (padstack 0))
+   (leg 4 (pt 0.975 -1.525) (padstack 0))
+   (leg 5 (pt 0.000 0.700) (padstack 5))
+   (leg 6 (pt 1.490 0.000) (padstack 6))
+   (leg 7 (pt -1.490 0.000) (padstack 7))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 0.750 0 0 90.000))
+   )
+   (padstack 5
+    (plated false)
+    (pad (layer TCOP) (rectf 2.400 2.450 0 0 0.000))
+   )
+   (padstack 6
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 0.530 0 0 0.000))
+   )
+   (padstack 7
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 0.530 0 0 0.000))
+   )
+   (model "STL130N4LF8.stp"
+    (euler 0 90 0)
+    (offset 0 0 0.05000000074505806)
+   )
+  )
+ )
+)

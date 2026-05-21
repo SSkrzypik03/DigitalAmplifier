@@ -1,0 +1,16 @@
+.DR125-330-R :1 ;Eaton, , 0125 Shielded Wire-wound SMD Inductor with a Ferrite Core, 33 uH +/-20% Wire-Wound 3.84A Idc
+INDPM125125X600N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN DR125-330-R
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (Eaton)
+~!Manufacturer_Part_Number (DR125-330-R)
+~!Link Datasheet (https://www.mouser.de/datasheet/2/87/eaton_dr_high_power_density_high_efficiency_shield-1608690.pdf)
+~!Height (6mm)
+~!3D_Model (DR125-330-R)
+DR125-330-R
+1.1!U 2.1!U 

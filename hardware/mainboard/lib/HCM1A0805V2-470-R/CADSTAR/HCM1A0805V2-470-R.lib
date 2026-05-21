@@ -1,0 +1,16 @@
+.HCM1A0805V2-470-R :1 ;47 H Shielded Inductor 2.5 A 137mOhm Max Nonstandard
+INDPM8180X540N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN HCM1A0805V2-470-R
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (Eaton)
+~!Manufacturer_Part_Number (HCM1A0805V2-470-R)
+~!Link Datasheet (https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-hcm1a0805v2-automotive-power-inductor-data-sheet.pdf)
+~!Height (5.4mm)
+~!3D_Model (HCM1A0805V2-470-R)
+HCM1A0805V2-470-R
+1.1!U 2.1!U 

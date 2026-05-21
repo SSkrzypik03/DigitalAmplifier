@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DR125-330-R
+#/5292438/1447319/2.50/2/2/Inductor
+DEF DR125-330-R L 0 30 Y Y 1 F N
+F0 "L" 650 250 50 H V L CNN
+F1 "DR125-330-R" 650 150 50 H V L CNN
+F2 "INDPM125125X600N" 650 50 50 H I L CNN
+F3 "https://www.mouser.de/datasheet/2/87/eaton_dr_high_power_density_high_efficiency_shield-1608690.pdf" 650 -50 50 H I L CNN
+F4 "Eaton, , 0125 Shielded Wire-wound SMD Inductor with a Ferrite Core, 33 uH +/-20% Wire-Wound 3.84A Idc" 650 -150 50 H I L CNN "Description"
+F5 "6" 650 -250 50 H I L CNN "Height"
+F6 "" 650 -350 50 H I L CNN "TME Electronic Components Part Number"
+F7 "" 650 -450 50 H I L CNN "TME Electronic Components Price/Stock"
+F8 "Eaton" 650 -550 50 H I L CNN "Manufacturer_Name"
+F9 "DR125-330-R" 650 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 800 0 200 L 50 50 0 0 P
+A 250 -2 50 1777 -23 0 1 6 N 300 0 200 0
+A 350 -2 50 1777 -23 0 1 6 N 400 0 300 0
+A 450 -2 50 1777 -23 0 1 6 N 500 0 400 0
+A 550 -2 50 1777 -23 0 1 6 N 600 0 500 0
+ENDDRAW
+ENDDEF
+#
+#End Library

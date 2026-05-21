@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPA3255DDV
+PartCategory=Hardware
+PackageCategory=Small Outline Packages
+PinCount=44
+Version=2.1
+Released=2017-04-18 11:13:40
+Downloaded=2025-12-26 23:00:30
+3D=Y

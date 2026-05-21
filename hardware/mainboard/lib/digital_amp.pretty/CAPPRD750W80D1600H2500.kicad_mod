@@ -1,0 +1,138 @@
+(footprint "CAPPRD750W80D1600H2500"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.95 -9.335 0)
+		(layer "F.SilkS")
+		(uuid "53e69ffe-c382-4770-a8ca-79f83c48652a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CAPPRD750W80D1600H2500"
+		(at 9.845 9.315 0)
+		(layer "F.Fab")
+		(uuid "d7c0ac6e-7bac-493b-adc6-e80629385583")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9f5fc8e2-2b9d-408e-9122-5c62a076720d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e9890b0-e9f1-412e-a8f4-f4285f0f0c05")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center -8.75 0)
+		(end -8.65 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "41392a7d-383d-470e-adfd-5735682e0d9e")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 8 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "fa9c5f03-bfc5-47b1-903a-cb7bc85b1fc4")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 8.25 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "1253a5ad-dba8-40be-bf26-4d84c4fb679b")
+	)
+	(fp_circle
+		(center -8.75 0)
+		(end -8.65 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "158f9643-69f4-4aa6-a7bb-40208b7f416b")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 8 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "1edf0a9c-4893-458c-93c7-e65dc9e714bf")
+	)
+	(pad "N" thru_hole circle
+		(at 3.75 0)
+		(size 1.4 1.4)
+		(drill 1.05)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "41b7ac8b-6d37-4c08-886f-0aa64dcfffe6")
+	)
+	(pad "P" thru_hole rect
+		(at -3.75 0)
+		(size 1.4 1.4)
+		(drill 1.05)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "1a72d7a1-c6ad-45d1-8d14-1708b189f990")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/cap_el_tht_16x25mm/EEUFC1E272E.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=DCP3601CDMR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=2.1
+Released=2025-04-02 02:38:13
+Downloaded=2025-12-15 12:26:25
+3D=Y

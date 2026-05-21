@@ -1,0 +1,16 @@
+.744032121 :1 ;WE-LQ SMT Inductor Size 1210; L = 120 H +/- 5%; IR = 0.095 A; Isat = 0.18 A; RDC = 7 
+WE-LQ_M49
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 744032121
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (744032121)
+~!Link Datasheet (https://www.we-online.com/catalog/datasheet/744032121.pdf)
+~!Height (2mm)
+~!3D_Model (744032121)
+"744032121"
+1.1!U 2.1!U 

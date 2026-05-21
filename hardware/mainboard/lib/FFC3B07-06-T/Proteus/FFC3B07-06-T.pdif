@@ -1,0 +1,137 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "FFC3B07-06-T"
+   (description "06W, 1.0MM FFC CONN, R/A,BOT CON")
+   (family "CON")
+   (package "FFC3B0706T")
+   (attribute "Datasheet Link" "https://gct.co/connector/ffc3b07")
+   (attribute "Geometry.Height" "2.65mm")
+   (attribute "TME Electronic Components Part Number" "")
+   (attribute "TME Electronic Components Price/Stock" "")
+   (attribute "Manufacturer_Name" "GCT (GLOBAL CONNECTOR TECHNOLOGY)")
+   (attribute "Manufacturer_Part_Number" "FFC3B07-06-T")
+   (gate
+    (symbol "FFC3B07-06-T")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+    (pin "MP1" MP1 PS)
+    (pin "MP2" MP2 PS)
+   )
+  )
+  (symbol "FFC3B07-06-T"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "FFC3B0706T"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.5 2.65)
+      (pt 6.5 2.65)
+      (pt 6.5 -2.65)
+      (pt -6.5 -2.65)
+      (pt -6.5 2.65))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -7.5 5.55)
+      (pt 7.5 5.55)
+      (pt 7.5 -3.65)
+      (pt -7.5 -3.65)
+      (pt -7.5 5.55))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -6.5 -0.975)
+      (pt -6.5 -2.65)
+      (pt 6.5 -2.65)
+      (pt 6.5 -0.975))))
+   (leg 1 (pt -2.500 3.750) (padstack 0))
+   (leg 2 (pt -1.500 3.750) (padstack 0))
+   (leg 3 (pt -0.500 3.750) (padstack 0))
+   (leg 4 (pt 0.500 3.750) (padstack 0))
+   (leg 5 (pt 1.500 3.750) (padstack 0))
+   (leg 6 (pt 2.500 3.750) (padstack 0))
+   (leg MP1 (pt -5.250 1.300) (padstack 7))
+   (leg MP2 (pt 5.250 1.300) (padstack 8))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.600 1.700 0 0 90.000))
+   )
+   (padstack 7
+    (plated false)
+    (pad (layer TCOP) (rectf 2.500 2.800 0 0 90.000))
+   )
+   (padstack 8
+    (plated false)
+    (pad (layer TCOP) (rectf 2.500 2.800 0 0 90.000))
+   )
+   (model "FFC3B07-06-T.stp"
+    (euler 90 0 0)
+    (offset 0 -2.4700000286102295 0)
+   )
+  )
+ )
+)

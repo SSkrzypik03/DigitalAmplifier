@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FFC2B35-10-T
+D 10 Position FFC, FPC Connector Contacts, Bottom 0.020" (0.50mm) Surface Mount, Right Angle
+K
+F https://gct.co/files/drawings/ffc2b35.pdf
+$ENDCMP
+#
+#End Doc Library

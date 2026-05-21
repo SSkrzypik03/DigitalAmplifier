@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FFC2B35-10-T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-07-05-05:50:36)
+    (mountForm default
+        (footprintRef "FFC2B3510T")
+        (spec "System")
+    )
+)

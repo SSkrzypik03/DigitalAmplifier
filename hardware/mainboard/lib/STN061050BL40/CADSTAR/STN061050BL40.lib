@@ -1,0 +1,16 @@
+.STN061050BL40 :1 ;23V Clamp 5A (8/20s) Ipp Tvs Diode Surface Mount DFN0603-2L
+STN061050BL40
+*STM D
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN STN061050BL40
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (Eaton)
+~!Manufacturer_Part_Number (STN061050BL40)
+~!Link Datasheet (https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-stn061050bl40-tvs-diode-esd-suppressor-data-sheet.pdf)
+~!Height (0.33mm)
+~!3D_Model (STN061050BL40)
+STN061050BL40
+1.1!U 2.1!U 

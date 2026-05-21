@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ORJ_3__FCR6842032R_'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CLIFF ELECTRONIC COMPONENTS", "ORJ-3 (FCR6842032R)" (!) = "", "ORJ3FCR6842032R", "Other", "", "", "Fiber Optic Receiver Optical 16Mbps -24dBm 2.7V ~ 5.5V 6.5 mA", "rmnndx00", "11.7 mm"
+END_PART
+
+END.

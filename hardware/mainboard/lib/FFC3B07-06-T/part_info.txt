@@ -1,0 +1,9 @@
+Manufacturer=GCT (GLOBAL CONNECTOR TECHNOLOGY)
+PartNumber=FFC3B07-06-T
+PartCategory=Connector
+PackageCategory=Other
+PinCount=8
+Version=1.5
+Released=2021-04-20 07:29:22
+Downloaded=2026-03-28 09:47:48
+3D=Y

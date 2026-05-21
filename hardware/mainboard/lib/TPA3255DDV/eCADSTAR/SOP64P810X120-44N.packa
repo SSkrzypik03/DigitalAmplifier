@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TPA3255DDV"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-08-26-10:34:51)
+    (mountForm default
+        (footprintRef "SOP64P810X120-44N")
+        (spec "System")
+    )
+)

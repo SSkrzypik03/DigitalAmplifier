@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "WE-LQ_M49"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "WE-LQ_M49")
+        (spec "default")
+    )
+)

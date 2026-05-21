@@ -1,0 +1,235 @@
+(footprint "MA5172AE"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "MA5172-AE-2")
+	(tags "Inductor")
+	(property "Reference" "L**"
+		(at 5 0 0)
+		(layer "F.SilkS")
+		(uuid "459afdde-6f75-45b9-bc1b-499e679d306a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "MA5172AE"
+		(at 5 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2a028dd5-b266-41d6-be4e-4370c68a1a82")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "428fb060-cb75-4d81-8202-bd221655f927")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fe8431a9-9a16-41a1-9c25-7b515696287a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.15 -14.3)
+		(end 11.15 -14.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3e5f1f0b-a673-4438-90f4-184956e6761b")
+	)
+	(fp_line
+		(start -1.15 -1)
+		(end -1.15 -14.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cfa0ecca-c33f-4e96-80de-c425af81e7a9")
+	)
+	(fp_line
+		(start -1.15 1)
+		(end -1.15 14.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "69c06649-c373-4b34-b9b5-39318f889756")
+	)
+	(fp_line
+		(start -1.15 14.3)
+		(end 11.15 14.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "061dade3-5ed6-41ea-9945-d87bc8176bbe")
+	)
+	(fp_line
+		(start 11.15 -14.3)
+		(end 11.15 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8b7db8e1-75bf-4591-973f-0ca483dfc2b6")
+	)
+	(fp_line
+		(start 11.15 14.3)
+		(end 11.15 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7c0bd3e7-2dcd-4d16-a3d8-ac2eb1666fd8")
+	)
+	(fp_line
+		(start -2.15 -15.3)
+		(end 12.15 -15.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "56c93d18-27db-495a-a6ab-90530dc8cda2")
+	)
+	(fp_line
+		(start -2.15 15.3)
+		(end -2.15 -15.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "81d4fbfd-b941-4fd4-98d4-abe1edc80054")
+	)
+	(fp_line
+		(start 12.15 -15.3)
+		(end 12.15 15.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "56447c94-8f23-488d-b00f-af83ad16aa0f")
+	)
+	(fp_line
+		(start 12.15 15.3)
+		(end -2.15 15.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a38b2b11-85cb-41fe-b72d-5bd59342d272")
+	)
+	(fp_line
+		(start -1.15 -14.3)
+		(end 11.15 -14.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "eb075a42-fe3c-414d-abb4-57eab55cf5a4")
+	)
+	(fp_line
+		(start -1.15 14.3)
+		(end -1.15 -14.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b61f5153-92ae-4ee7-9309-128f2a5e336f")
+	)
+	(fp_line
+		(start 11.15 -14.3)
+		(end 11.15 14.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f480aea1-f7e9-478a-96ad-12b00b6f64fa")
+	)
+	(fp_line
+		(start 11.15 14.3)
+		(end -1.15 14.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8dc7a24a-b4d2-4c95-844a-7c2b59d2741f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 5 0 0)
+		(layer "F.Fab")
+		(uuid "5f0b7148-69e8-4f98-bc7d-6293a67396d1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.905 1.905)
+		(drill 1.27)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8b578af2-1a17-47bd-8573-3cd8a1544ed2")
+	)
+	(pad "2" thru_hole circle
+		(at 10 0)
+		(size 1.905 1.905)
+		(drill 1.27)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1ee4d06f-4ba4-475e-8bb1-861fdc3c836c")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/MA5172-AE/3D/MA5172-AE.stp"
+		(offset
+			(xyz 5.039999886 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+)

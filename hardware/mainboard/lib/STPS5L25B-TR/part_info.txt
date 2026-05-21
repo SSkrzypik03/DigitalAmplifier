@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STPS5L25B-TR
+PartCategory=Schottky Diode
+PackageCategory=Other
+PinCount=3
+Version=10.10
+Released=2019-12-07 21:50:52
+Downloaded=2026-03-27 21:03:46
+3D=Y

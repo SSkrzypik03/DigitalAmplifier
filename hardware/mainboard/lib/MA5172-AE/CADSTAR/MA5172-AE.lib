@@ -1,0 +1,16 @@
+.MA5172-AE :1 ;Fixed Inductors 10uH Unshld 10% 6.1A 26mOhms
+MA5172AE
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MA5172-AE
+~!Mouser Part Number (994-MA5172-AE)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Coilcraft/MA5172-AE?qs=ZYnrCdKdyedMvVvFAobk3w%3D%3D)
+~!Manufacturer_Name (COILCRAFT)
+~!Manufacturer_Part_Number (MA5172-AE)
+~!Link Datasheet (https://www.mouser.it/datasheet/2/597/ma5172-463483.pdf)
+~!Height (28.6mm)
+~!3D_Model (MA5172-AE)
+MA5172-AE
+1.1!U 2.1!U 

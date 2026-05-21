@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "STL130N4LF8"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-11-06-12:23:29)
+    (mountForm default
+        (footprintRef "STL9P4LF6AG")
+        (spec "System")
+    )
+)

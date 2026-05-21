@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 744032121
+D WE-LQ SMT Inductor Size 1210; L = 120 H +/- 5%; IR = 0.095 A; Isat = 0.18 A; RDC = 7 
+K
+F https://www.we-online.com/catalog/datasheet/744032121.pdf
+$ENDCMP
+#
+#End Doc Library

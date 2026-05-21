@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L6902D
+D L6902D, Switching Regulator, Buck Controller, 1A, Adjustable, 1.235  34 V, 275 kHz, 8-Pin SO
+K
+F https://www.st.com/resource/en/datasheet/l6902.pdf
+$ENDCMP
+#
+#End Doc Library

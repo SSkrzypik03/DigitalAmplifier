@@ -1,0 +1,16 @@
+.744045330 :1 ;WE-LQ SMT Inductor Size 1812; L = 33 H +/- 5%; IR = 0.43 A; Isat = 0.85 A; RDC = 1.1 
+WE-LQ_L49
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 744045330
+~!Mouser Part Number (710-744045330)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=710-744045330)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (744045330)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/744045330.pdf)
+~!Height (2.6mm)
+~!3D_Model (744045330)
+"744045330"
+1.1!U 2.1!U 

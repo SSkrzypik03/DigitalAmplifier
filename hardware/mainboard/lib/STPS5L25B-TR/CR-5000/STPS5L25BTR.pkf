@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "STPS5L25BTR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "STPS5L25BTR")
+        (spec "default")
+    )
+)

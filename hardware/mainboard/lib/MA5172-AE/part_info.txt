@@ -1,0 +1,9 @@
+Manufacturer=COILCRAFT
+PartNumber=MA5172-AE
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.3
+Released=2020-09-07 19:17:29
+Downloaded=2026-03-27 20:13:59
+3D=Y

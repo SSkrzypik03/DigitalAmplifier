@@ -1,0 +1,113 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "STPS5L25B-TR"
+   (description "Low drop power Schottky rectifier 5.0 Amp 25 Volt")
+   (family "DIO")
+   (package "STPS5L25BTR")
+   (attribute "Datasheet Link" "https://www.st.com/resource/en/datasheet/stps5l25.pdf")
+   (attribute "Geometry.Height" "2.63mm")
+   (attribute "Mouser Part Number" "511-STPS5L25B")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STPS5L25B-TR?qs=NDbFxHnTsWx5E0AFSTeRaQ%3D%3D")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "STPS5L25B-TR")
+   (gate
+    (symbol "STPS5L25B-TR")
+    (pin "NC" 1 NC)
+    (pin "K" 2 PS)
+    (pin "A" 3 PS)
+   )
+  )
+  (symbol "STPS5L25B-TR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "STPS5L25BTR"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.965 3.27)
+      (pt 1.13 3.27)
+      (pt 1.13 -3.27)
+      (pt -4.965 -3.27)
+      (pt -4.965 3.27))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -7.235 4.35)
+      (pt 7.465 4.35)
+      (pt 7.465 -4.35)
+      (pt -7.235 -4.35)
+      (pt -7.235 4.35))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0.8 3.27)
+      (pt 1.13 3.27)
+      (pt 1.13 -3.27)
+      (pt 0.8 -3.27))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 6.9 -2.286)
+      (arc (pt 6.900 -2.286) (pt 6.900 -2.336) (pt 7.000 -2.236) (start 180.0) (sweep 180.0))
+      (pt 7 -2.286)
+      (arc (pt 7.000 -2.286) (pt 6.900 -2.336) (pt 7.000 -2.236) (start 180.0) (sweep .0))
+      (pt 6.9 -2.286))))
+   (leg 1 (pt 4.965 -2.286) (padstack 0))
+   (leg 2 (pt -2.885 0.000) (padstack 2))
+   (leg 3 (pt 4.965 2.286) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.600 3.000 0 0 0.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (square 6.700))
+   )
+   (model "STPS5L25B-TR.stp"
+    (euler -90 180 0)
+    (offset 5.420000076293945 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,16 @@
+.43650-0217 :1 ;Micro-Fit 3.0 Vertical Header, 3.00mm Pitch, Single Row, 2 Circuits, with PCB Polarizing Peg, Glow-Wire Capable, Black
+"43650-02YY_151617"
+*STM J
+*NGS
+*PLB 1="1" 2="2"
+*MXP 4
+*DFN 43650-0217
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (43650-0217)
+~!Link Datasheet (https://www.molex.com/pdm_docs/sd/436500215_sd.pdf)
+~!Height (9.9mm)
+~!3D_Model (43650-0217)
+"43650-0217"
+1.1!U 2.1!U 

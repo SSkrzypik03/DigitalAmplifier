@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '744032121'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "744032121" (!) = "", "WE-LQ_M49", "Other", "", "", "WE-LQ SMT Inductor Size 1210; L = 120 H +/- 5%; IR = 0.095 A; Isat = 0.18 A; RDC = 7 ", "https://www.we-online.com/catalog/datasheet/744032121.pdf", "2 mm"
+END_PART
+
+END.

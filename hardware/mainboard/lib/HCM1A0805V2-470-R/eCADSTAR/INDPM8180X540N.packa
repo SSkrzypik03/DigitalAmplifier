@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "HCM1A0805V2-470-R"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-07-23-06:58:53)
+    (mountForm default
+        (footprintRef "INDPM8180X540N")
+        (spec "System")
+    )
+)

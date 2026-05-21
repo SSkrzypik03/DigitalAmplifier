@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STL130N4LF8'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "STMicroelectronics", "STL130N4LF8" (!) = "", "STL9P4LF6AG", "Other", "", "", "N-channel logic level 40 V, 2.3 m max., 124 A, STripFET F8 Power MOSFET in a PowerFLAT 3.3x3.3 package", "https://www.st.com/resource/en/datasheet/stl130n4lf8.pdf"
+END_PART
+
+END.

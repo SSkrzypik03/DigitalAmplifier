@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "STN061050BL40"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-12-06-08:11:27)
+    (mountForm default
+        (footprintRef "STN061050BL40")
+        (spec "System")
+    )
+)

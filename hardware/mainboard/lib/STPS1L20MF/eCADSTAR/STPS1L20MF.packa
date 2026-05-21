@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "STPS1L20MF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2026-01-20-18:55:42)
+    (mountForm default
+        (footprintRef "STPS1L20MF")
+        (spec "System")
+    )
+)

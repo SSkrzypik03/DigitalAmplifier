@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "STPS5L25B-TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-02-07-10:55:41)
+    (mountForm default
+        (footprintRef "STPS5L25BTR")
+        (spec "System")
+    )
+)

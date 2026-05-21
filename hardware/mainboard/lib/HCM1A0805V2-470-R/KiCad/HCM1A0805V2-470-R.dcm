@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HCM1A0805V2-470-R
+D 47 H Shielded Inductor 2.5 A 137mOhm Max Nonstandard
+K
+F https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-hcm1a0805v2-automotive-power-inductor-data-sheet.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,16 @@
+.ASDMB-24.576MHZ-LY-T :1 ;Oscillator MEMS 24.576MHz +/-10ppm (Stability) 15pF LVCMOS 55% 1.8V/2.5V/3.3V Automotive 4-Pin QFN SMD T/R.
+AbraconASDMB
+*STM Y
+*NGS
+*PLB 1="STANDBY" 2="GND" 3="OUTPUT" 4="VDD"
+*MXP 4
+*DFN ASDMB-24.576MHZ-LY-T
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (ABRACON)
+~!Manufacturer_Part_Number (ASDMB-24.576MHZ-LY-T)
+~!Link Datasheet (https://abracon.com/Oscillators/ASDMB.pdf)
+~!Height (0.9mm)
+~!3D_Model (ASDMB-24.576MHZ-LY-T)
+ASDMB-24.576MHZ-LY-T
+1.1!U 2.1!U 3.1!U 4.1!U 

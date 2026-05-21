@@ -1,0 +1,16 @@
+.STPS5L25B-TR :1 ;Low drop power Schottky rectifier 5.0 Amp 25 Volt
+STPS5L25BTR
+*STM D
+*NGS
+*PLB 1="NC" 2="K" 3="A"
+*MXP 3
+*DFN STPS5L25B-TR
+~!Mouser Part Number (511-STPS5L25B)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STPS5L25B-TR?qs=NDbFxHnTsWx5E0AFSTeRaQ%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (STPS5L25B-TR)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/stps5l25.pdf)
+~!Height (2.63mm)
+~!3D_Model (STPS5L25B-TR)
+STPS5L25B-TR
+1.1!U 2.1!U 3.1!U 

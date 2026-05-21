@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_608586"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-12-20:05:57)
+    (utime 2025-11-16-18:51:51)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "744045330")
+)
+
+
+(pinAssign "ECS_608586"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-12-20:05:57)
+    (utime 2025-11-16-18:51:51)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_608586")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "744045330")
+)
+
+
+(part "744045330"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-12-20:05:57)
+    (utime 2025-11-16-18:51:51)
+    (packageRef "744045330")
+    (pinAssignRef "ECS_608586")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "WE-LQ SMT Inductor Size 1812; L = 33 H +/- 5%; IR = 0.43 A; Isat = 0.85 A; RDC = 1.1 ")
+    (property "Mouser_Part_Number" "710-744045330")
+    (property "Mouser_Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=710-744045330")
+    (property "Manufacturer_Name" "Wurth Elektronik")
+    (property "Manufacturer_Part_Number" "744045330")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/744045330.pdf")
+    (property "compAreaTopHeight" 2.6)
+)
+
+

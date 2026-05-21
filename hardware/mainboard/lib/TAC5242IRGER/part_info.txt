@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TAC5242IRGER
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=29
+Version=1.3
+Released=2024-12-18 11:05:41
+Downloaded=2026-01-05 10:53:24
+3D=Y

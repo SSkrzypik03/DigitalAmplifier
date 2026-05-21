@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3225-25M-SR
+D Resonator: quartz; 25MHz; +/-10ppm; 9pF; SMD; 3.2x2.5x0.7mm
+K
+F https://www.tme.eu/Document/9cb2d0edad968d8543e7bc99995fd180/3235.pdf
+$ENDCMP
+#
+#End Doc Library

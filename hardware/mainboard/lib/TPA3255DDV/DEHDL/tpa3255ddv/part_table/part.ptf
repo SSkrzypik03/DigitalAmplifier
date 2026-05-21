@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPA3255DDV'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPA3255DDV" (!) = "", "SOP64P810X120-44N", "Small Outline Packages", "595-TPA3255DDV", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPA3255DDV?qs=KuuZdrM3jLyQC3GnfUDTEw%3D%3D", "Audio Amplifiers 325-W Stereo High-Performance, High-Definition, Class-D Amplifier 44-HTSSOP 0 to 70", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-23/444296.pdf", "1.2 mm"
+END_PART
+
+END.

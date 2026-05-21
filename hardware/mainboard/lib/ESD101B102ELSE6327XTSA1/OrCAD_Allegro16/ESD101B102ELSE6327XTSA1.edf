@@ -1,0 +1,135 @@
+
+(EDIF
+  (rename &ESD101B102ELSE6327XTSA1 "ESD101B102ELSE6327XTSA1")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2026 04 07 13 38 07)
+      (dataOrigin "619059/1447319/2.50/2/4/TVS Diode (Bi-directional)")
+      (program "SamacSys ECAD Model ESD101B102ELSE6327XTSA1"
+        (version "1.2"))))
+  (library
+  (rename &ESD101B102ELSE6327XTSA1 "ESD101B102ELSE6327XTSA1")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &ESD101B102ELSE6327XTSA1 "ESD101B102ELSE6327XTSA1")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "D")
+          (property (rename PACKAGENAME "PackageName") (string "ESD101B102ELSE6327XTSA1"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "ESD207B102ELE6327"))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "726-ESD101B102ELSE63"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/ESD101B102ELSE6327XTSA1?qs=wqPJ3MBjhrhYgaXAaMnHlw%3D%3D"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "Infineon"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "ESD101B102ELSE6327XTSA1"))
+          (property (rename &Description "Description") (string "TVS Diode ESD 14KV Bi-directional TSLP2"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://www.infineon.com/dgdl/Infineon-ESD101_B1-DS-v01_04-EN.pdf?fileId=db3a30433e9d5d11013e9d6619a20002"))
+          (property (rename &Height "Height") (string "0 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "ESD101B102ELSE6327XTSA1"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &1)
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -100) (pt 0 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -100))))
+            )
+            (portImplementation
+              (name &2)
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 400 -100) (pt 600 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt 600 -100))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 200 -100)
+                  (pt 0 -200)
+                  (pt 0 0)
+                  (pt 200 -100)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 200 -100)
+                  (pt 400 -200)
+                  (pt 400 0)
+                  (pt 200 -100)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 200 -180)
+                  (pt 200 -20)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 160 0)
+                  (pt 200 -20)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 200 -180)
+                  (pt 240 -200)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 300 180))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 300 80))))
+          )
+        )
+      )
+    )
+  )
+)

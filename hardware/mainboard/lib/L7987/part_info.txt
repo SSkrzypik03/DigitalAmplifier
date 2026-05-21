@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=L7987
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=17
+Version=3.1
+Released=2022-08-26 12:21:27
+Downloaded=2026-03-24 14:18:50
+3D=Y

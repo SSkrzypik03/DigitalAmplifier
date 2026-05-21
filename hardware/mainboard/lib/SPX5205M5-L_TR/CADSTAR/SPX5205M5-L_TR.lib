@@ -1,0 +1,16 @@
+.SPX5205M5-L_TR :1 ;LDO Voltage Regulators 150mA LOW NOISE LDO
+SOT95P280X145-5N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="EN" 4="ADJ" 5="VOUT"
+*MXP 5
+*DFN SPX5205M5-L_TR
+~!Mouser Part Number (701-SPX5205M5-L/TR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX5205M5-L-TR?qs=S%2FCBhQS5rCqlkl0UDVhMhQ%3D%3D)
+~!Manufacturer_Name (MaxLinear, Inc.)
+~!Manufacturer_Part_Number (SPX5205M5-L/TR)
+~!Link Datasheet (https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf)
+~!Height (1.45mm)
+~!3D_Model (SPX5205M5-L_TR)
+SPX5205M5-L_TR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

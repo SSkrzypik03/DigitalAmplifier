@@ -1,0 +1,160 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "USB-B-S-RA-WT-SPCC"
+   (description "USB-B (USB TYPE-B) Receptacle Connector 4 Position Through Hole, Right Angle")
+   (family "CON")
+   (package "USBBSRAWTSPCC")
+   (attribute "Datasheet Link" "https://www.mouser.co.uk/ProductDetail/Adam-Tech/USB-B-S-RA-WT-SPCC?qs=HoCaDK9Nz5cHxCm3vWfCRw%3D%3D")
+   (attribute "Geometry.Height" "11.43mm")
+   (attribute "Mouser Part Number" "737-USBBSRAWTSPCC")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Adam-Tech/USB-B-S-RA-WT-SPCC?qs=HoCaDK9Nz5cHxCm3vWfCRw%3D%3D")
+   (attribute "Manufacturer_Name" "Adam Tech")
+   (attribute "Manufacturer_Part_Number" "USB-B-S-RA-WT-SPCC")
+   (gate
+    (symbol "USB-B-S-RA-WT-SPCC")
+    (pin "VBUS" 1 PS)
+    (pin "D-" 2 PS)
+    (pin "D+" 3 PS)
+    (pin "GND" 4 PS)
+    (pin "MH_1" 5 PS)
+    (pin "MH_2" 6 PS)
+   )
+  )
+  (symbol "USB-B-S-RA-WT-SPCC"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "USBBSRAWTSPCC"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 4.77 1.51)
+      (pt -7.27 1.51)
+      (pt -7.27 -14.99)
+      (pt 4.77 -14.99)
+      (pt 4.77 1.51))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 7.495 2.51)
+      (pt -9.995 2.51)
+      (pt -9.995 -15.99)
+      (pt 7.495 -15.99)
+      (pt 7.495 2.51))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 4.77 -2.74)
+      (pt 4.77 1.51)
+      (pt -7.27 1.51)
+      (pt -7.25 -2.74))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 4.77 -6.74)
+      (pt 4.77 -14.99)
+      (pt -7.27 -14.99)
+      (pt -7.25 -6.74))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 5.4 -2)
+      (arc (pt 5.400 -2.000) (pt 5.400 -2.050) (pt 5.500 -1.950) (start 180.0) (sweep 180.0))
+      (pt 5.5 -2)
+      (arc (pt 5.500 -2.000) (pt 5.400 -2.050) (pt 5.500 -1.950) (start 180.0) (sweep .0))
+      (pt 5.4 -2))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt -2.500 0.000) (padstack 0))
+   (leg 3 (pt -2.500 -2.000) (padstack 0))
+   (leg 4 (pt 0.000 -2.000) (padstack 0))
+   (leg 5 (pt 4.770 -4.710) (padstack 5))
+   (leg 6 (pt -7.270 -4.710) (padstack 6))
+   (padstack 0
+    (hole 0.92)
+    (plated true)
+    (pad (layer TCOP) (round 1.431))
+    (pad (layer INNER) (round 1.431))
+    (pad (layer BCOP) (round 1.431))
+   )
+   (padstack 1
+    (hole 0.92)
+    (plated true)
+    (pad (layer TCOP) (square 1.431))
+    (pad (layer INNER) (round 1.431))
+    (pad (layer BCOP) (square 1.431))
+   )
+   (padstack 5
+    (hole 2.3)
+    (plated true)
+    (pad (layer TCOP) (round 3.450))
+    (pad (layer INNER) (round 3.450))
+    (pad (layer BCOP) (round 3.450))
+   )
+   (padstack 6
+    (hole 2.3)
+    (plated true)
+    (pad (layer TCOP) (round 3.450))
+    (pad (layer INNER) (round 3.450))
+    (pad (layer BCOP) (round 3.450))
+   )
+   (model "USB-B-S-RA-WT-SPCC.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

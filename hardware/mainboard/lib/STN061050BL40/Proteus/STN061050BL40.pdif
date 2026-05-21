@@ -1,0 +1,110 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "STN061050BL40"
+   (description "23V Clamp 5A (8/20s) Ipp Tvs Diode Surface Mount DFN0603-2L")
+   (family "DIO")
+   (package "STN061050BL40")
+   (attribute "Datasheet Link" "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-stn061050bl40-tvs-diode-esd-suppressor-data-sheet.pdf")
+   (attribute "Geometry.Height" "0.33mm")
+   (attribute "TME Electronic Components Part Number" "")
+   (attribute "TME Electronic Components Price/Stock" "")
+   (attribute "Manufacturer_Name" "Eaton")
+   (attribute "Manufacturer_Part_Number" "STN061050BL40")
+   (gate
+    (symbol "STN061050BL40")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "STN061050BL40"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 200 -100) (pt 200 100) (pt 400 0) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 600 -100) (pt 600 100) (pt 400 0) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 -80) (pt 400 80))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 360 100) (pt 400 80))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 -80) (pt 440 -100))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 20) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 20) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "STN061050BL40"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.305 0.158)
+      (pt 0.305 0.158)
+      (pt 0.305 -0.158)
+      (pt -0.305 -0.158)
+      (pt -0.305 0.158))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.338 1.158)
+      (pt 1.337 1.158)
+      (pt 1.337 -1.158)
+      (pt -1.338 -1.158)
+      (pt -1.338 1.158))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.8 0)
+      (arc (pt -0.800 0.000) (pt -0.900 -0.050) (pt -0.800 0.050) (start 180.0) (sweep .0))
+      (pt -0.9 0)
+      (arc (pt -0.900 0.000) (pt -0.900 -0.050) (pt -0.800 0.050) (start 180.0) (sweep 180.0))
+      (pt -0.8 0))))
+   (leg 1 (pt -0.213 0.000) (padstack 0))
+   (leg 2 (pt 0.212 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.270 0 0 90.000))
+   )
+   (model "STN061050BL40.stp"
+    (euler 0 0 0)
+    (offset 0 0 0.019999999552965164)
+   )
+  )
+ )
+)

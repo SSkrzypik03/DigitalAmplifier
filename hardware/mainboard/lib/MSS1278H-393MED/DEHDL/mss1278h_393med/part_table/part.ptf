@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MSS1278H_393MED'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "COILCRAFT", "MSS1278H-393MED" (!) = "", "INDPM120120X805N", "Inductors Precision Moulded", "994-MSS1278H-393MED", "https://www.mouser.co.uk/ProductDetail/Coilcraft/MSS1278H-393MED?qs=KUoIvG%2F9IlbbN%252BGe0LWuiw%3D%3D", "Fixed Inductors 39uH Shld 3.7A 20% DCR=53mOhms AEC-Q200", "https://www.coilcraft.com/getmedia/72ffd561-3941-457d-b0e7-bb55b1b2d1a7/MSS1278H.pdf", "8.05 mm"
+END_PART
+
+END.

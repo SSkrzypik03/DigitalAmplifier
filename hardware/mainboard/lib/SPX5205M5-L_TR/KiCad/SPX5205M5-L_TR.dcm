@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SPX5205M5-L_TR
+D LDO Voltage Regulators 150mA LOW NOISE LDO
+K
+F https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf
+$ENDCMP
+#
+#End Doc Library

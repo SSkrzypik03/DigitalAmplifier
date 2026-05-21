@@ -1,0 +1,16 @@
+.MSS1278H-393MED :1 ;Fixed Inductors 39uH Shld 3.7A 20% DCR=53mOhms AEC-Q200
+INDPM120120X805N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MSS1278H-393MED
+~!Mouser Part Number (994-MSS1278H-393MED)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Coilcraft/MSS1278H-393MED?qs=KUoIvG%2F9IlbbN%252BGe0LWuiw%3D%3D)
+~!Manufacturer_Name (COILCRAFT)
+~!Manufacturer_Part_Number (MSS1278H-393MED)
+~!Link Datasheet (https://www.coilcraft.com/getmedia/72ffd561-3941-457d-b0e7-bb55b1b2d1a7/MSS1278H.pdf)
+~!Height (8.05mm)
+~!3D_Model (MSS1278H-393MED)
+MSS1278H-393MED
+1.1!U 2.1!U 

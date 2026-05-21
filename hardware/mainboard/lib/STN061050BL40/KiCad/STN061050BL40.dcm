@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STN061050BL40
+D 23V Clamp 5A (8/20s) Ipp Tvs Diode Surface Mount DFN0603-2L
+K
+F https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-stn061050bl40-tvs-diode-esd-suppressor-data-sheet.pdf
+$ENDCMP
+#
+#End Doc Library

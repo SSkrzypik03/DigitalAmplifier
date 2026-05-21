@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SPX5205M5_L_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "MaxLinear, Inc.", "SPX5205M5-L/TR" (!) = "", "SOT95P280X145-5N", "SOT23 (5-Pin)", "701-SPX5205M5-L/TR", "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX5205M5-L-TR?qs=S%2FCBhQS5rCqlkl0UDVhMhQ%3D%3D", "LDO Voltage Regulators 150mA LOW NOISE LDO", "https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf", "1.45 mm"
+END_PART
+
+END.

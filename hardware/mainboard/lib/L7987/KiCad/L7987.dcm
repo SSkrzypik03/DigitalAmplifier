@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L7987
+D 61 V 3 A asynchronous step-down switching regulator with adjustable current limitation
+K
+F https://www.st.com/resource/en/datasheet/l7987.pdf
+$ENDCMP
+#
+#End Doc Library

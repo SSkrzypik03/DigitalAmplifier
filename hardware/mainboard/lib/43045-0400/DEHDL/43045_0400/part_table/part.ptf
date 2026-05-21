@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '43045_0400'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "43045-0400" (!) = "", "43045-04(00,01,02,10)", "Other", "", "", "Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Dual Row, 4 Circuits, with Snap-in Plastic Peg PCB Lock", "https://www.molex.com/pdm_docs/sd/430450200_sd.pdf", "9.9 mm"
+END_PART
+
+END.

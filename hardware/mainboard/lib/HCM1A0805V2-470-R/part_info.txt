@@ -1,0 +1,9 @@
+Manufacturer=Eaton
+PartNumber=HCM1A0805V2-470-R
+PartCategory=Inductor
+PackageCategory=Inductors Precision Moulded
+PinCount=2
+Version=1.1
+Released=2023-07-23 06:58:53
+Downloaded=2026-04-07 18:19:35
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STPS5L25B_TR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STPS5L25B-TR" (!) = "", "STPS5L25BTR", "Other", "511-STPS5L25B", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STPS5L25B-TR?qs=NDbFxHnTsWx5E0AFSTeRaQ%3D%3D", "Low drop power Schottky rectifier 5.0 Amp 25 Volt", "https://www.st.com/resource/en/datasheet/stps5l25.pdf", "2.63 mm"
+END_PART
+
+END.

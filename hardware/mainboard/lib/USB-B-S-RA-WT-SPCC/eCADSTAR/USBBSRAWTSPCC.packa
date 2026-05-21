@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "USB-B-S-RA-WT-SPCC"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-03-13-16:24:40)
+    (mountForm default
+        (footprintRef "USBBSRAWTSPCC")
+        (spec "System")
+    )
+)

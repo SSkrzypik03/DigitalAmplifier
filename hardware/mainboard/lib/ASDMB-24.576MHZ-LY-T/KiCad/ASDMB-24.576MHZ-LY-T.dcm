@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASDMB-24.576MHZ-LY-T
+D Oscillator MEMS 24.576MHz +/-10ppm (Stability) 15pF LVCMOS 55% 1.8V/2.5V/3.3V Automotive 4-Pin QFN SMD T/R.
+K
+F https://abracon.com/Oscillators/ASDMB.pdf
+$ENDCMP
+#
+#End Doc Library

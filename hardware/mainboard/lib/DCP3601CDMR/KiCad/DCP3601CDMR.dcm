@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DCP3601CDMR
+D Switching Voltage Regulators 36 V, 1 A synchronous step-down converter in SOT23-6L
+K
+F https://www.st.com/resource/en/datasheet/dcp3601.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESD101B102ELSE6327XTSA1
+D TVS Diode ESD 14KV Bi-directional TSLP2
+K
+F https://www.infineon.com/dgdl/Infineon-ESD101_B1-DS-v01_04-EN.pdf?fileId=db3a30433e9d5d11013e9d6619a20002
+$ENDCMP
+#
+#End Doc Library

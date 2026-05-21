@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TAC5242IRGER'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TAC5242IRGER" (!) = "", "TAC5242IRGER", "Other", "595-TAC5242IRGER", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TAC5242IRGER?qs=a2MtRaTmNORoQy1nhKqWlw%3D%3D", "Audio Interface 16 b, 24 b, 32 b DSP, I2C, I2S, PCM, SPI 24-VQFN (4x4)", "https://www.ti.com/lit/gpn/tac5242", "1 mm"
+END_PART
+
+END.

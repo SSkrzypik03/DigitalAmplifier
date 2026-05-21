@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RF2-19A-T-00-50-G
+D Conn SMA 0Hz to 18GHz 50Ohm Solder ST Thru-Hole RCP Gold
+K
+F chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.mouser.it/datasheet/2/4/rf2_19a_t_00_50_g_data_sheet-3397228.pdf
+$ENDCMP
+#
+#End Doc Library

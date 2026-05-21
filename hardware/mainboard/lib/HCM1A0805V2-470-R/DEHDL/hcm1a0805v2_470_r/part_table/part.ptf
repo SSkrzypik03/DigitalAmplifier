@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HCM1A0805V2_470_R'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Eaton", "HCM1A0805V2-470-R" (!) = "", "INDPM8180X540N", "Inductors Precision Moulded", "", "", "47 H Shielded Inductor 2.5 A 137mOhm Max Nonstandard", "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-hcm1a0805v2-automotive-power-inductor-data-sheet.pdf", "5.4 mm"
+END_PART
+
+END.

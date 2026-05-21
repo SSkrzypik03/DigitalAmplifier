@@ -1,0 +1,16 @@
+.ESD101B102ELSE6327XTSA1 :1 ;TVS Diode ESD 14KV Bi-directional TSLP2
+ESD207B102ELE6327
+*STM D
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN ESD101B102ELSE6327XTSA1
+~!Mouser Part Number (726-ESD101B102ELSE63)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/ESD101B102ELSE6327XTSA1?qs=wqPJ3MBjhrhYgaXAaMnHlw%3D%3D)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (ESD101B102ELSE6327XTSA1)
+~!Link Datasheet (https://www.infineon.com/dgdl/Infineon-ESD101_B1-DS-v01_04-EN.pdf?fileId=db3a30433e9d5d11013e9d6619a20002)
+~!Height (0mm)
+~!3D_Model (ESD101B102ELSE6327XTSA1)
+ESD101B102ELSE6327XTSA1
+1.1!U 2.1!U 

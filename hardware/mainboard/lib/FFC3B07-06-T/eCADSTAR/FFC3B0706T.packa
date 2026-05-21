@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FFC3B07-06-T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-09-14:38:50)
+    (mountForm default
+        (footprintRef "FFC3B0706T")
+        (spec "System")
+    )
+)

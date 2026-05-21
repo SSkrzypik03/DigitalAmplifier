@@ -1,0 +1,9 @@
+Manufacturer=Adam Tech
+PartNumber=USB-B-S-RA-WT-SPCC
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=1.7
+Released=2024-11-02 09:14:43
+Downloaded=2026-04-07 14:10:07
+3D=Y

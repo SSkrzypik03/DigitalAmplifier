@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MSS1278H-393MED
+D Fixed Inductors 39uH Shld 3.7A 20% DCR=53mOhms AEC-Q200
+K
+F https://www.coilcraft.com/getmedia/72ffd561-3941-457d-b0e7-bb55b1b2d1a7/MSS1278H.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,16 @@
+.L6902D :1 ;L6902D, Switching Regulator, Buck Controller, 1A, Adjustable, 1.235  34 V, 275 kHz, 8-Pin SO
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="OUT" 2="CS+" 3="CS-" 4="COMP" 5="FB" 6="VREF" 7="GND" 8="VCC"
+*MXP 8
+*DFN L6902D
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (L6902D)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/l6902.pdf)
+~!Height (1.75mm)
+~!3D_Model (L6902D)
+L6902D
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

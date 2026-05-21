@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MSS1278H-393MED"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-03-03-09:11:33)
+    (mountForm default
+        (footprintRef "INDPM120120X805N")
+        (spec "System")
+    )
+)

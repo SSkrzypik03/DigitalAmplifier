@@ -1,0 +1,9 @@
+Manufacturer=CLIFF ELECTRONIC COMPONENTS
+PartNumber=ORJ-3 (FCR6842032R)
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=3
+Version=1.8
+Released=2025-02-05 12:09:44
+Downloaded=2025-12-27 23:22:14
+3D=N

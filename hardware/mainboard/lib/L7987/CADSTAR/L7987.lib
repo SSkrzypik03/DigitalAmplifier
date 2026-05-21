@@ -1,0 +1,16 @@
+.L7987 :1 ;61 V 3 A asynchronous step-down switching regulator with adjustable current limitation
+SOP65P640X120-17N
+*STM IC
+*NGS
+*PLB 1="VBIAS" 2="VIN_1" 3="VIN_2" 4="VCC" 5="EN" 6="SS" 7="SYNCH" 8="COMP" 9="FB" 10="FSW" 11="ILIM" 12="PGOOD" 13="LX_1" 14="LX_2" 15="BOOT" 16="GND" 17="SGND"
+*MXP 17
+*DFN L7987
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (L7987)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/l7987.pdf)
+~!Height (1.2mm)
+~!3D_Model (L7987)
+L7987
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

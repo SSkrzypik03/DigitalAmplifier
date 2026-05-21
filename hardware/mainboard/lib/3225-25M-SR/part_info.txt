@@ -1,0 +1,9 @@
+Manufacturer=SRPASSIVES
+PartNumber=3225-25M-SR
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=4
+Version=1.5
+Released=2024-03-13 06:35:03
+Downloaded=2026-03-27 20:57:53
+3D=Y

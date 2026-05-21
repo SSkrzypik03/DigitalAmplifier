@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SPX5205M5-L_TR
+#/8689949/1447319/2.50/5/3/Integrated Circuit
+DEF SPX5205M5-L_TR IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "SPX5205M5-L_TR" 950 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 950 100 50 H I L CNN
+F3 "https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf" 950 0 50 H I L CNN
+F4 "LDO Voltage Regulators 150mA LOW NOISE LDO" 950 -100 50 H I L CNN "Description"
+F5 "1.45" 950 -200 50 H I L CNN "Height"
+F6 "701-SPX5205M5-L/TR" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX5205M5-L-TR?qs=S%2FCBhQS5rCqlkl0UDVhMhQ%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "MaxLinear, Inc." 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SPX5205M5-L/TR" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VIN 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X EN 3 0 -200 200 R 50 50 0 0 P
+X ADJ 4 1100 0 200 L 50 50 0 0 P
+X VOUT 5 1100 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

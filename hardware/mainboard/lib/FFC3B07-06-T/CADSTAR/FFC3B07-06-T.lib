@@ -1,0 +1,17 @@
+.FFC3B07-06-T :1 ;06W, 1.0MM FFC CONN, R/A,BOT CON
+FFC3B0706T
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=MP1 8=MP2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="MP1" 8="MP2"
+*MXP 8
+*DFN FFC3B07-06-T
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (GCT (GLOBAL CONNECTOR TECHNOLOGY))
+~!Manufacturer_Part_Number (FFC3B07-06-T)
+~!Link Datasheet (https://gct.co/connector/ffc3b07)
+~!Height (2.65mm)
+~!3D_Model (FFC3B07-06-T)
+FFC3B07-06-T
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

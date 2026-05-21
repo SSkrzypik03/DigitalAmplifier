@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ESD207B102ELE6327"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ESD207B102ELE6327")
+        (spec "default")
+    )
+)

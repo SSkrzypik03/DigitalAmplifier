@@ -1,0 +1,16 @@
+.DCP3601CDMR :1 ;Switching Voltage Regulators 36 V, 1 A synchronous step-down converter in SOT23-6L
+SOT95P280X125-6N
+*STM IC
+*NGS
+*PLB 1="BOOT" 2="GND" 3="FB" 4="EN" 5="VIN" 6="SW"
+*MXP 6
+*DFN DCP3601CDMR
+~!Mouser Part Number (511-DCP3601CDMR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/DCP3601CDMR?qs=7%2F6SraaimPTFznHqEkOiQg%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (DCP3601CDMR)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/dcp3601.pdf)
+~!Height (1.25mm)
+~!3D_Model (DCP3601CDMR)
+DCP3601CDMR
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

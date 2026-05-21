@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STPS1L20MF
+PartCategory=Schottky Diode with Dual Cathode
+PackageCategory=Other
+PinCount=3
+Version=3.2
+Released=2022-10-04 02:55:49
+Downloaded=2026-04-07 13:11:01
+3D=N

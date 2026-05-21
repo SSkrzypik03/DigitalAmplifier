@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DR125_330_R'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Eaton", "DR125-330-R" (!) = "", "INDPM125125X600N", "Inductors Precision Moulded", "", "", "Eaton, , 0125 Shielded Wire-wound SMD Inductor with a Ferrite Core, 33 uH +/-20% Wire-Wound 3.84A Idc", "https://www.mouser.de/datasheet/2/87/eaton_dr_high_power_density_high_efficiency_shield-1608690.pdf", "6 mm"
+END_PART
+
+END.

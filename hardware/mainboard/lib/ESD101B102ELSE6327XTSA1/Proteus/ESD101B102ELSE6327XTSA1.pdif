@@ -1,0 +1,110 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ESD101B102ELSE6327XTSA1"
+   (description "TVS Diode ESD 14KV Bi-directional TSLP2")
+   (family "DIO")
+   (package "ESD207B102ELE6327")
+   (attribute "Datasheet Link" "https://www.infineon.com/dgdl/Infineon-ESD101_B1-DS-v01_04-EN.pdf?fileId=db3a30433e9d5d11013e9d6619a20002")
+   (attribute "Geometry.Height" "0mm")
+   (attribute "Mouser Part Number" "726-ESD101B102ELSE63")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/ESD101B102ELSE6327XTSA1?qs=wqPJ3MBjhrhYgaXAaMnHlw%3D%3D")
+   (attribute "Manufacturer_Name" "Infineon")
+   (attribute "Manufacturer_Part_Number" "ESD101B102ELSE6327XTSA1")
+   (gate
+    (symbol "ESD101B102ELSE6327XTSA1")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "ESD101B102ELSE6327XTSA1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 200 -100) (pt 200 100) (pt 400 0) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 600 -100) (pt 600 100) (pt 400 0) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 -80) (pt 400 80))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 360 100) (pt 400 80))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 -80) (pt 440 -100))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 20) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 20) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "ESD207B102ELE6327"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.3 0.5)
+      (pt 0.3 0.5)
+      (pt 0.3 -0.5)
+      (pt -0.3 -0.5)
+      (pt -0.3 0.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.6 0.805)
+      (pt 0.6 0.805)
+      (pt 0.6 -1.4)
+      (pt -0.6 -1.4)
+      (pt -0.6 0.805))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.1 -1)
+      (arc (pt -0.100 -1.000) (pt -0.100 -1.100) (pt 0.100 -0.900) (start -180.0) (sweep 180.0))
+      (pt 0.1 -1)
+      (arc (pt 0.100 -1.000) (pt -0.100 -1.100) (pt 0.100 -0.900) (start -180.0) (sweep .0))
+      (pt -0.1 -1))))
+   (leg 1 (pt 0.000 -0.330) (padstack 0))
+   (leg 2 (pt 0.000 0.330) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.350 0.600 0 0 0.000))
+   )
+   (model "ESD101B102ELSE6327XTSA1.stp"
+    (euler 0 0 -90)
+    (offset 0 0.019999999552965164 0)
+   )
+  )
+ )
+)

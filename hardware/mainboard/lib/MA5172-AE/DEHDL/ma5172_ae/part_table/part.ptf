@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MA5172_AE'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "COILCRAFT", "MA5172-AE" (!) = "", "MA5172AE", "Other", "994-MA5172-AE", "https://www.mouser.co.uk/ProductDetail/Coilcraft/MA5172-AE?qs=ZYnrCdKdyedMvVvFAobk3w%3D%3D", "Fixed Inductors 10uH Unshld 10% 6.1A 26mOhms", "https://www.mouser.it/datasheet/2/597/ma5172-463483.pdf", "28.6 mm"
+END_PART
+
+END.

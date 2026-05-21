@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'L6902D'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "L6902D" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "", "", "L6902D, Switching Regulator, Buck Controller, 1A, Adjustable, 1.235  34 V, 275 kHz, 8-Pin SO", "https://www.st.com/resource/en/datasheet/l6902.pdf", "1.75 mm"
+END_PART
+
+END.

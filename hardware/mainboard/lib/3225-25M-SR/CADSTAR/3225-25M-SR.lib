@@ -1,0 +1,16 @@
+.3225-25M-SR :1 ;Resonator: quartz; 25MHz; +/-10ppm; 9pF; SMD; 3.2x2.5x0.7mm
+"322525MSR"
+*STM Y
+*NGS
+*PLB 1="CRYSTAL_1" 2="GND_1" 3="CRYSTAL_2" 4="GND_2"
+*MXP 4
+*DFN 3225-25M-SR
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (SRPASSIVES)
+~!Manufacturer_Part_Number (3225-25M-SR)
+~!Link Datasheet (https://www.tme.eu/Document/9cb2d0edad968d8543e7bc99995fd180/3235.pdf)
+~!Height (0.7mm)
+~!3D_Model (3225-25M-SR)
+"3225-25M-SR"
+1.1!U 2.1!U 3.1!U 4.1!U 

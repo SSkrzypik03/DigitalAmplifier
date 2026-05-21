@@ -1,0 +1,9 @@
+Manufacturer=MaxLinear, Inc.
+PartNumber=SPX5205M5-L/TR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2022-04-29 11:11:23
+Downloaded=2025-12-12 10:27:22
+3D=Y

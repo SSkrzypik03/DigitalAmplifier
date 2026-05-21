@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USB-B-S-RA
+D Connector USB Type B Receptacle .Single Right Angle Thru Hole
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/2da73933fd867bb01aba3cef730a29a2.pdf
+$ENDCMP
+#
+#End Doc Library

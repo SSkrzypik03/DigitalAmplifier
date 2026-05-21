@@ -1,0 +1,16 @@
+.STL130N4LF8 :1 ;N-channel logic level 40 V, 2.3 m max., 124 A, STripFET F8 Power MOSFET in a PowerFLAT 3.3x3.3 package
+STL9P4LF6AG
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3"
+*MXP 7
+*DFN STL130N4LF8
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (STL130N4LF8)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/stl130n4lf8.pdf)
+~!Height (-)
+~!3D_Model (STL130N4LF8)
+STL130N4LF8
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

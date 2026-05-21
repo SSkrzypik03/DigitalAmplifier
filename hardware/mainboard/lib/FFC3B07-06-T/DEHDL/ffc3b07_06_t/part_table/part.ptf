@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FFC3B07_06_T'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "GCT (GLOBAL CONNECTOR TECHNOLOGY)", "FFC3B07-06-T" (!) = "", "FFC3B0706T", "Other", "", "", "06W, 1.0MM FFC CONN, R/A,BOT CON", "https://gct.co/connector/ffc3b07", "2.65 mm"
+END_PART
+
+END.

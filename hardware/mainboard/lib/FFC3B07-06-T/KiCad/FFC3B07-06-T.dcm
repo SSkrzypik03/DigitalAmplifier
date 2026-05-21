@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FFC3B07-06-T
+D 06W, 1.0MM FFC CONN, R/A,BOT CON
+K
+F https://gct.co/connector/ffc3b07
+$ENDCMP
+#
+#End Doc Library

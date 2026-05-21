@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DR125-330-R"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-06-13-12:20:15)
+    (mountForm default
+        (footprintRef "INDPM125125X600N")
+        (spec "System")
+    )
+)

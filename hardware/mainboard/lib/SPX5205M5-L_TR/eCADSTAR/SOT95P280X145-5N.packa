@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SPX5205M5-L_TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-04-29-11:11:23)
+    (mountForm default
+        (footprintRef "SOT95P280X145-5N")
+        (spec "System")
+    )
+)

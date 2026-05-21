@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ASDMB_24.576MHZ_LY_T'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ABRACON", "ASDMB-24.576MHZ-LY-T" (!) = "", "AbraconASDMB", "Other", "", "", "Oscillator MEMS 24.576MHz +/-10ppm (Stability) 15pF LVCMOS 55% 1.8V/2.5V/3.3V Automotive 4-Pin QFN SMD T/R.", "https://abracon.com/Oscillators/ASDMB.pdf", "0.9 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=COILCRAFT
+PartNumber=MSS1210-473MED
+PartCategory=Inductor
+PackageCategory=Inductors Precision Moulded
+PinCount=2
+Version=1.1
+Released=2021-07-26 06:55:43
+Downloaded=2026-03-27 22:09:17
+3D=Y

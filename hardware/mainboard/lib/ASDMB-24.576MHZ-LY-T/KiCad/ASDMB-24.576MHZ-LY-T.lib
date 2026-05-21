@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ASDMB-24.576MHZ-LY-T
+#/258495/1447319/2.50/4/2/Crystal or Oscillator
+DEF ASDMB-24.576MHZ-LY-T Y 0 30 Y Y 1 F N
+F0 "Y" 1250 300 50 H V L CNN
+F1 "ASDMB-24.576MHZ-LY-T" 1250 200 50 H V L CNN
+F2 "AbraconASDMB" 1250 100 50 H I L CNN
+F3 "https://abracon.com/Oscillators/ASDMB.pdf" 1250 0 50 H I L CNN
+F4 "Oscillator MEMS 24.576MHz +/-10ppm (Stability) 15pF LVCMOS 55% 1.8V/2.5V/3.3V Automotive 4-Pin QFN SMD T/R." 1250 -100 50 H I L CNN "Description"
+F5 "0.9" 1250 -200 50 H I L CNN "Height"
+F6 "" 1250 -300 50 H I L CNN "Farnell Part Number"
+F7 "" 1250 -400 50 H I L CNN "Farnell Price/Stock"
+F8 "ABRACON" 1250 -500 50 H I L CNN "Manufacturer_Name"
+F9 "ASDMB-24.576MHZ-LY-T" 1250 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X STANDBY 1 0 -100 200 R 50 50 0 0 P
+X GND 2 1400 -100 200 L 50 50 0 0 P
+X OUTPUT 3 1400 0 200 L 50 50 0 0 P
+X VDD 4 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

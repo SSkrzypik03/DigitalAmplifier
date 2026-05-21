@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_20348752"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-02-05-12:09:44)
+    (utime 2025-04-11-13:32:51)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "ORJ-3__FCR6842032R_")
+)
+
+
+(pinAssign "ECS_20348752"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-02-05-12:09:44)
+    (utime 2025-04-11-13:32:51)
+    (interface
+        (port "1" (symbPinId 1) (portName "VOUT") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "GND") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "VCC") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_20348752")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "ORJ-3__FCR6842032R_")
+)
+
+
+(part "ORJ-3__FCR6842032R_"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-02-05-12:09:44)
+    (utime 2025-04-11-13:32:51)
+    (packageRef "ORJ-3__FCR6842032R_")
+    (pinAssignRef "ECS_20348752")
+    (interface
+        (port "1" (symbPinId 1) (portName "VOUT") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "GND") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "VCC") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "U")
+    (property "description" "Fiber Optic Receiver Optical 16Mbps -24dBm 2.7V ~ 5.5V 6.5 mA")
+    (property "TME_Electronic_Components_Part_Number" "")
+    (property "TME_Electronic_Components_Price/Stock" "")
+    (property "Manufacturer_Name" "CLIFF ELECTRONIC COMPONENTS")
+    (property "Manufacturer_Part_Number" "ORJ-3 (FCR6842032R)")
+    (property "Datasheet_Link" "rmnndx00")
+    (property "compAreaTopHeight" 11.7)
+)
+
+

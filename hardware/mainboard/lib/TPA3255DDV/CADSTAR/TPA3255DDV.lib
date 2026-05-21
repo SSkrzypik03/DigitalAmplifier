@@ -1,0 +1,17 @@
+.TPA3255DDV :1 ;Audio Amplifiers 325-W Stereo High-Performance, High-Definition, Class-D Amplifier 44-HTSSOP 0 to 70
+SOP64P810X120-44N
+*STM H
+*NGS
+*PLB 1="GVDD_AB" 2="VDD" 3="M1" 4="M2" 5="INPUT_A" 6="INPUT_B" 7="OC_ADJ" 8="FREQ_ADJ" 9="OSC_IOM" 10="OSC_IOP" 11="DVDD" 12="GND_1" 13="GND_2" 14="AVDD" 15="C_START" 16="INPUT_C" 17="INPUT_D" 18="'RESET'" 19="'FAULT'" 20="VBG" 21="'CLIP_OTW'" 22="GVDD_CD" 23="BST_D" 24="BST_C" 25="GND_3" 26="GND_4" 27="OUT_D_1" 28="OUT_D_2" 29="PVDD_CD_1" 30="PVDD_CD_2" 31="PVDD_CD_3" 32="OUT_C" 33="GND_5" 34="GND_6" 35="OUT_B" 36="PVDD_AB_1" 37="PVDD_AB_2" 38="PVDD_AB_3" &
+39="OUT_A_1" 40="OUT_A_2" 41="GND_7" 42="GND_8" 43="BST_B" 44="BST_A"
+*MXP 44
+*DFN TPA3255DDV
+~!Mouser Part Number (595-TPA3255DDV)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPA3255DDV?qs=KuuZdrM3jLyQC3GnfUDTEw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPA3255DDV)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/DKDS-23/444296.pdf)
+~!Height (1.2mm)
+~!3D_Model (TPA3255DDV)
+TPA3255DDV
+1.1!P 2.1!P 3.1!I 4.1!I 5.1!I 6.1!I 7.1!I 8.1!I 9.1!I 10.1!I 11.1!P 12.1!G 13.1!G 14.1!P 15.1!I 16.1!I 17.1!I 18.1!I 19.1!Y 20.1!I 21.1!I 22.1!P 44.1!I 43.1!I 42.1!G 41.1!G 40.1!Y 39.1!Y 38.1!P 37.1!P 36.1!P 35.1!Y 34.1!G 33.1!G 32.1!Y 31.1!P 30.1!P 29.1!P 28.1!Y 27.1!Y 26.1!G 25.1!G 24.1!I 23.1!I 

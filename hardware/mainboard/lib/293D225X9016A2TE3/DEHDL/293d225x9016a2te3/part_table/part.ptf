@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '293D225X9016A2TE3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "293D225X9016A2TE3" (!) = "", "CAPPM3216X180N", "Capacitor Moulded Polarised", "74-293D225X9016A2TE3", "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/293D225X9016A2TE3?qs=D%2Frdk6pj5yQLuJU5TXcoyw%3D%3D", "Solid Tantalum Surface Mount Chip Capacitors TANTAMOUNT(TM), Molded Case, Standard Industrial Grade", "http://www.vishay.com/docs/40002/293d.pdf", "1.8 mm"
+END_PART
+
+END.

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "STL9P4LF6AG"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "STL9P4LF6AG")
+        (spec "default")
+    )
+)

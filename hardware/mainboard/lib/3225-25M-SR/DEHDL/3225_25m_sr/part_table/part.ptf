@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '3225_25M_SR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SRPASSIVES", "3225-25M-SR" (!) = "", "322525MSR", "Other", "", "", "Resonator: quartz; 25MHz; +/-10ppm; 9pF; SMD; 3.2x2.5x0.7mm", "https://www.tme.eu/Document/9cb2d0edad968d8543e7bc99995fd180/3235.pdf", "0.7 mm"
+END_PART
+
+END.

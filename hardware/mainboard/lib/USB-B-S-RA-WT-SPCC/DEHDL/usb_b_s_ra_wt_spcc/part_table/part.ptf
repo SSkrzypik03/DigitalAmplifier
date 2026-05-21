@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'USB_B_S_RA_WT_SPCC'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Adam Tech", "USB-B-S-RA-WT-SPCC" (!) = "", "USBBSRAWTSPCC", "Other", "737-USBBSRAWTSPCC", "https://www.mouser.co.uk/ProductDetail/Adam-Tech/USB-B-S-RA-WT-SPCC?qs=HoCaDK9Nz5cHxCm3vWfCRw%3D%3D", "USB-B (USB TYPE-B) Receptacle Connector 4 Position Through Hole, Right Angle", "https://www.mouser.co.uk/ProductDetail/Adam-Tech/USB-B-S-RA-WT-SPCC?qs=HoCaDK9Nz5cHxCm3vWfCRw%3D%3D", "11.43 mm"
+END_PART
+
+END.

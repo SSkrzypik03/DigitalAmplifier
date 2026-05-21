@@ -1,0 +1,150 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ORJ-3__FCR6842032R_"
+   (description "Fiber Optic Receiver Optical 16Mbps -24dBm 2.7V ~ 5.5V 6.5 mA")
+   (family "ANA")
+   (package "ORJ3FCR6842032R")
+   (attribute "Datasheet Link" "rmnndx00")
+   (attribute "Geometry.Height" "11.7mm")
+   (attribute "TME Electronic Components Part Number" "")
+   (attribute "TME Electronic Components Price/Stock" "")
+   (attribute "Manufacturer_Name" "CLIFF ELECTRONIC COMPONENTS")
+   (attribute "Manufacturer_Part_Number" "ORJ-3 (FCR6842032R)")
+   (gate
+    (symbol "ORJ-3__FCR6842032R_")
+    (pin "VOUT" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "VCC" 3 PS)
+   )
+  )
+  (symbol "ORJ-3__FCR6842032R_"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "ORJ3FCR6842032R"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -8.29 -8.45)
+      (pt 3.21 -8.45)
+      (pt 3.21 2.85)
+      (pt -8.29 2.85)
+      (pt -8.29 -8.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -8.29 -8.45)
+      (pt 3.21 -8.45)
+      (pt 3.21 2.85)
+      (pt -8.29 2.85)
+      (pt -8.29 -8.45))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -9.29 -11.75)
+      (pt 4.21 -11.75)
+      (pt 4.21 3.85)
+      (pt -9.29 3.85)
+      (pt -9.29 -11.75))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -7.29 -8.45)
+      (pt -7.29 -10.75)
+      (pt 2.21 -10.75)
+      (pt 2.21 -8.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -7.29 -8.45)
+      (pt -7.29 -10.75)
+      (pt 2.21 -10.75)
+      (pt 2.21 -8.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 3.3)
+      (arc (pt 0.000 3.300) (pt -0.050 3.300) (pt 0.050 3.400) (start 180.0) (sweep -90.0))
+      (pt 0 3.4)
+      (arc (pt 0.000 3.400) (pt -0.050 3.300) (pt 0.050 3.400) (start 180.0) (sweep 90.0))
+      (pt 0 3.3))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt -2.540 0.000) (padstack 0))
+   (leg 3 (pt -5.080 0.000) (padstack 0))
+   (leg 4 (pt 1.270 -3.750) (padstack 4))
+   (leg 5 (pt -6.350 -3.750) (padstack 5))
+   (padstack 0
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (padstack 1
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (square 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (square 1.300))
+   )
+   (padstack 4
+    (hole 2.6)
+    (plated false)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (padstack 5
+    (hole 2.6)
+    (plated false)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+  )
+ )
+)

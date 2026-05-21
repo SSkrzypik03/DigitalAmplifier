@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MA5172-AE"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-09-07-19:17:29)
+    (mountForm default
+        (footprintRef "MA5172AE")
+        (spec "System")
+    )
+)
