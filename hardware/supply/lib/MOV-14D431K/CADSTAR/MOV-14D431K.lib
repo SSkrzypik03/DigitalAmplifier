@@ -1,0 +1,16 @@
+.MOV-14D431K :1 ;Varistor;Metal Oxide;14 mm;430V;10% Bourns MOV-14D Series Metal Oxide Varistor 460pF 50A 710V
+MOV-14D_5.2MM-T_
+*STM RV
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MOV-14D431K
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (MOV-14D431K)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/MOV-14D431K.pdf)
+~!Height (-)
+~!3D_Model (MOV-14D431K)
+MOV-14D431K
+1.1!U 2.1!U 

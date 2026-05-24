@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SFH_2400
+D Photodiode PIN Chip 850nm Automotive 3-Pin Smart DIL
+K
+F https://look.ams-osram.com/m/603400502021bc6b/original/SFH-2400.pdf
+$ENDCMP
+#
+#End Doc Library

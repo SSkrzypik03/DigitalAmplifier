@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VSOP38338
+D Vishay VSOP38338, 38kHz IR Receiver, 2.5V - 5V, SMT, 2 x 2 x 0.76mm
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA1/137501.pdf
+$ENDCMP
+#
+#End Doc Library

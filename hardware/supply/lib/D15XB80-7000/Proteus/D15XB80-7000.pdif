@@ -1,0 +1,126 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "D15XB80-7000"
+   (description "Bridge DiodesCompact SIPUL E142422Pb free terminalRoHS:Yes")
+   (family "ANA")
+   (package "D25XB1007000")
+   (attribute "Datasheet Link" "https://www.shindengen.co.jp/tools/pdf_generator/?category=br&lang=en&no=D15XB80")
+   (attribute "Geometry.Height" "24.5mm")
+   (attribute "TME Electronic Components Part Number" "")
+   (attribute "TME Electronic Components Price/Stock" "")
+   (attribute "Manufacturer_Name" "Shindengen Electric Manufacturing Co., Ltd.")
+   (attribute "Manufacturer_Part_Number" "D15XB80-7000")
+   (gate
+    (symbol "D15XB80-7000")
+    (pin "+" 1 PS)
+    (pin "~_1" 2 PS)
+    (pin "~_2" 3 PS)
+    (pin "-" 4 PS)
+   )
+  )
+  (symbol "D15XB80-7000"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "D25XB1007000"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.5 3.05)
+      (pt 27.5 3.05)
+      (pt 27.5 -1.55)
+      (pt -2.5 -1.55)
+      (pt -2.5 3.05))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.5 3.05)
+      (pt 27.5 3.05)
+      (pt 27.5 -1.55)
+      (pt -2.5 -1.55)
+      (pt -2.5 3.05))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.5 4.05)
+      (pt 28.5 4.05)
+      (pt 28.5 -2.55)
+      (pt -3.5 -2.55)
+      (pt -3.5 4.05))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 -2.1)
+      (arc (pt 0.000 -2.100) (pt -0.050 -2.100) (pt 0.050 -2.000) (start 180.0) (sweep -90.0))
+      (pt 0 -2)
+      (arc (pt 0.000 -2.000) (pt -0.050 -2.100) (pt 0.050 -2.000) (start 180.0) (sweep 90.0))
+      (pt 0 -2.1))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 10.000 0.000) (padstack 0))
+   (leg 3 (pt 17.500 0.000) (padstack 0))
+   (leg 4 (pt 25.000 0.000) (padstack 0))
+   (padstack 0
+    (hole 1.42)
+    (plated true)
+    (pad (layer TCOP) (round 2.130))
+    (pad (layer INNER) (round 2.130))
+    (pad (layer BCOP) (round 2.130))
+   )
+   (padstack 1
+    (hole 1.42)
+    (plated true)
+    (pad (layer TCOP) (square 2.130))
+    (pad (layer INNER) (round 2.130))
+    (pad (layer BCOP) (square 2.130))
+   )
+   (model "D15XB80-7000.stp"
+    (euler 90 0 0)
+    (offset 12.5 3.0999999046325684 14.100000381469727)
+   )
+  )
+ )
+)

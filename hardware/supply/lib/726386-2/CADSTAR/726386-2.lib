@@ -1,0 +1,16 @@
+.726386-2 :1 ;Contact Features: PCB Contact Termination Area Plating Material Thickness 4.5 MICM | Mating Tab Width 6.35 MM | Contact Mating Area Plating Material Thickness 177.16 MICIN | Mating Tab Width .25 INCH | Mating Tab Thickness .032 INCH | Terminal Plating Material Tin | Contact Underplating Material Thickness 78.74 MICIN | Terminal Size 6.35 | Contact Mating Area Plating Material Thickness 4.5 MICM | PCB Contact Termination Area Plating Material Thickness 177.16 MICIN | Terminal Orientation Straight | Mating Ta
+"726386-2"
+*STM J
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 726386-2
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (726386-2)
+~!Link Datasheet (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F726386%7FG%7Fpdf%7FEnglish%7FENG_CD_726386_G.pdf%7F1-726386-2)
+~!Height (-)
+~!3D_Model (726386-2)
+"726386-2"
+1.1!U 2.1!U 

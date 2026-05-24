@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NRH3010T100MN"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-11-08-16:18:07)
+    (mountForm default
+        (footprintRef "NRH3010T100MN")
+        (spec "System")
+    )
+)

@@ -1,0 +1,16 @@
+.LD2980ABM33TR :1 ;LDO Regulator 3.3V 0.05A SOT23-5 LD2980ABM33TR, Low Dropout Voltage Regulator, 0.05A, 3.3 V +/-0.5%, -3  16 Vin, 5-Pin SOT-23
+SOT95P280X145-5N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="INHIBIT" 4="NC" 5="VOUT"
+*MXP 5
+*DFN LD2980ABM33TR
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (LD2980ABM33TR)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/ld2980.pdf)
+~!Height (1.45mm)
+~!3D_Model (LD2980ABM33TR)
+LD2980ABM33TR
+1.1!I 2.1!P 3.1!I 4.1!U 5.1!Y 

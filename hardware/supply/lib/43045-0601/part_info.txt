@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=43045-0601
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=3.1
+Released=2017-10-16 00:20:11
+Downloaded=2026-01-30 19:37:39
+3D=Y

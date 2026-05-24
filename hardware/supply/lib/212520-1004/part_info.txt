@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=212520-1004
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=5.3
+Released=2021-08-12 05:14:12
+Downloaded=2026-02-03 19:59:47
+3D=Y

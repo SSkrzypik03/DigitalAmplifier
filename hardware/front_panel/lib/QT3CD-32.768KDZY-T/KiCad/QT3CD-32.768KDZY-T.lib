@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model QT3CD-32.768KDZY-T
+#/20008886/1447319/2.50/2/3/Crystal or Oscillator
+DEF QT3CD-32.768KDZY-T Y 0 30 Y Y 1 F N
+F0 "Y" 350 250 50 H V L CNN
+F1 "QT3CD-32.768KDZY-T" 350 150 50 H V L CNN
+F2 "QT3CD32768KDZYT" 350 50 50 H I L CNN
+F3 "" 350 -50 50 H I L CNN
+F4 "Resonator: quartz; 32.768kHz; +/-20ppm; 7pF; SMD; 3.2x1.5x0.9mm" 350 -150 50 H I L CNN "Description"
+F5 "0.9" 350 -250 50 H I L CNN "Height"
+F6 "" 350 -350 50 H I L CNN "TME Electronic Components Part Number"
+F7 "" 350 -450 50 H I L CNN "TME Electronic Components Price/Stock"
+F8 "QST" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "QT3CD-32.768KDZY-T" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 400 0 100 L 50 50 0 0 P
+P 2 0 1 6 120 100 120 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 5 0 1 6 160 140 160 -140 240 -140 240 140 160 140 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 120 0 100 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

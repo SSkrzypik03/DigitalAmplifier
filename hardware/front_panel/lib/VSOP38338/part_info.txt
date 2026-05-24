@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=VSOP38338
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=1.1
+Released=2017-09-12 15:42:32
+Downloaded=2026-05-08 21:46:28
+3D=Y

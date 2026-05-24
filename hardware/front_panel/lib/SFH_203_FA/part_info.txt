@@ -1,0 +1,9 @@
+Manufacturer=ams OSRAM
+PartNumber=SFH 203 FA
+PartCategory=LED
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2017-09-28 13:01:55
+Downloaded=2026-05-17 15:54:09
+3D=Y

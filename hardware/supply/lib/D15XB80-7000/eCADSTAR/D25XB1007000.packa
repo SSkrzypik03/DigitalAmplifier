@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "D15XB80-7000"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-05-17-15:15:01)
+    (mountForm default
+        (footprintRef "D25XB1007000")
+        (spec "System")
+    )
+)

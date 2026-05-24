@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ST8R00WPUR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-11-21-07:05:30)
+    (mountForm default
+        (footprintRef "SON80P400X400X100-9N")
+        (spec "System")
+    )
+)

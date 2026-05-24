@@ -1,0 +1,17 @@
+.52746-1671 :1 ;Easy-On FFC/FPC Connector, 0.50mm Pitch, Slider Series, Right-Angle, Bottom Contact, 2.00mm Height,  Circuits, Gold Plating
+"527461671"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 15=15 16=16 17=MP1 18=MP2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="13" 14="14" 15="15" 16="16" 17="MP1" 18="MP2"
+*MXP 18
+*DFN 52746-1671
+~!Mouser Part Number (538-52746-1671)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/52746-1671?qs=nDwhpid8gJYEmQ9M1KrTnw%3D%3D)
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (52746-1671)
+~!Link Datasheet (https://www.molex.com/pdm_docs/sd/527460671_sd.pdf)
+~!Height (2.2mm)
+~!3D_Model (52746-1671)
+"52746-1671"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 

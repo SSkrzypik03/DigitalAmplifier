@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SFH_203_FA
+D Silicon PIN Photodiode
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036828.pdf
+$ENDCMP
+#
+#End Doc Library

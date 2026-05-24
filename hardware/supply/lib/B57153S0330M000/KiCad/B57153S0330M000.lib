@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model B57153S0330M000
+#/2201528/1447319/2.50/2/2/Thermistor
+DEF B57153S0330M000 RT 0 30 Y Y 1 F N
+F0 "RT" 550 250 50 H V L CNN
+F1 "B57153S0330M000" 550 150 50 H V L CNN
+F2 "B57153S0***M0**" 550 50 50 H I L CNN
+F3 "https://product.tdk.com/system/files/dam/doc/product/protection/current/ntc-limiter/data_sheet/50/db/icl_16/s153.pdf" 550 -50 50 H I L CNN
+F4 "NTC Inrush Current Limiters, Resistance (at 25)=33, Maximum Current=1.3A" 550 -150 50 H I L CNN "Description"
+F5 "13" 550 -250 50 H I L CNN "Height"
+F6 "" 550 -350 50 H I L CNN "TME Electronic Components Part Number"
+F7 "" 550 -450 50 H I L CNN "TME Electronic Components Price/Stock"
+F8 "TDK" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "B57153S0330M000" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 3 0 1 6 220 -80 280 -80 420 80 N
+ENDDRAW
+ENDDEF
+#
+#End Library

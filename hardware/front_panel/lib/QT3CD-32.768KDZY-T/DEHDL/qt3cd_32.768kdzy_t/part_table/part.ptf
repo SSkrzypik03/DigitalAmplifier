@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'QT3CD_32.768KDZY_T'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "QST", "QT3CD-32.768KDZY-T" (!) = "", "QT3CD32768KDZYT", "Other", "", "", "Resonator: quartz; 32.768kHz; +/-20ppm; 7pF; SMD; 3.2x1.5x0.9mm", "", "0.9 mm"
+END_PART
+
+END.

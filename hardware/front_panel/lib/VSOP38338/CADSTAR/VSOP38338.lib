@@ -1,0 +1,16 @@
+.VSOP38338 :1 ;Vishay VSOP38338, 38kHz IR Receiver, 2.5V - 5V, SMT, 2 x 2 x 0.76mm
+SON50P200X200X81-9N-D
+*STM IC
+*NGS
+*PLB 1="N.C._1" 2="VS" 3="OUT" 4="N.C._2" 5="N.C._3" 6="GND_1" 7="IN" 8="GND_2" 9="EP"
+*MXP 9
+*DFN VSOP38338
+~!Mouser Part Number (782-VSOP38338)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VSOP38338?qs=lNOV0pHJI3hgEVpw1emspw%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (VSOP38338)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA1/137501.pdf)
+~!Height (0.81mm)
+~!3D_Model (VSOP38338)
+VSOP38338
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

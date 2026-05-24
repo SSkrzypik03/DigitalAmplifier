@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "FFC2B3510T"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "FFC2B3510T")
+        (spec "default")
+    )
+)

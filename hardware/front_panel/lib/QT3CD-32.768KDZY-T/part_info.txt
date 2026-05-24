@@ -1,0 +1,9 @@
+Manufacturer=QST
+PartNumber=QT3CD-32.768KDZY-T
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2024-10-10 11:50:18
+Downloaded=2026-01-22 20:38:16
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP QT3CD-32.768KDZY-T
+D Resonator: quartz; 32.768kHz; +/-20ppm; 7pF; SMD; 3.2x1.5x0.9mm
+K
+F 
+$ENDCMP
+#
+#End Doc Library

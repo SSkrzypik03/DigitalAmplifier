@@ -1,0 +1,16 @@
+.YBS3010 :1 ;Bridge Rectifiers
+YBS3010
+*STM BR
+*NGS
+*PLB 1="+" 2="-" 3="~_1" 4="~_2"
+*MXP 4
+*DFN YBS3010
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (Yangzhou Yangjie Electronic Technology Co., Ltd.)
+~!Manufacturer_Part_Number (YBS3010)
+~!Link Datasheet (https://www.tme.com/Document/9e7ccd3d26a51702a14bcc151423fd52/YBS3010_ser.pdf)
+~!Height (1.5mm)
+~!3D_Model (YBS3010)
+YBS3010
+1.1!U 2.1!U 3.1!U 4.1!U 

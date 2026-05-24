@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NRH3010T100MN'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TAIYO YUDEN", "NRH3010T100MN" (!) = "", "NRH3010T100MN", "Other", "963-NRH3010T100MN", "https://www.mouser.co.uk/ProductDetail/TAIYO-YUDEN/NRH3010T100MN?qs=PzICbMaShUd95UUkPGlXbA%3D%3D", "NRH3010T100MN", "https://ds.yuden.co.jp/TYCOMPAS/ut/detail?pn=NRH3010T100MN  &u=M", "1 mm"
+END_PART
+
+END.

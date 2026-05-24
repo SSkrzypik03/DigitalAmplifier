@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '212520_1004'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "212520-1004" (!) = "", "2125201004", "Other", "", "", "Mini-Fit Max Vertical Header, Dual Row, 4 Circuits, Tin (Sn) Plating, Black", "https://www.molex.com/pdm_docs/sd/2125201006_sd.pdf", "13.85 mm"
+END_PART
+
+END.

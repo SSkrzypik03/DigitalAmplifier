@@ -1,0 +1,16 @@
+.ASMB-MTB1-0B3A2 :1 ;Standard LEDs - SMD PLCC4,T/Mt,BS/WF Silicone RGB
+ASMBMTB10B3A2
+*STM LED
+*NGS
+*PLB 1="K (RED)" 2="K (GREEN)" 3="K (BLUE)" 4="COM_A"
+*MXP 4
+*DFN ASMB-MTB1-0B3A2
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (Avago Technologies)
+~!Manufacturer_Part_Number (ASMB-MTB1-0B3A2)
+~!Link Datasheet (https://docs.broadcom.com/doc/AV02-4194EN)
+~!Height (2.1mm)
+~!3D_Model (ASMB-MTB1-0B3A2)
+ASMB-MTB1-0B3A2
+1.1!U 2.1!U 3.1!U 4.1!U 

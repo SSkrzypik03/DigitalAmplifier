@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LD2980ABM33TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "LD2980ABM33TR" (!) = "", "SOT95P280X145-5N", "SOT23 (5-Pin)", "", "", "LDO Regulator 3.3V 0.05A SOT23-5 LD2980ABM33TR, Low Dropout Voltage Regulator, 0.05A, 3.3 V +/-0.5%, -3  16 Vin, 5-Pin SOT-23", "https://www.st.com/resource/en/datasheet/ld2980.pdf", "1.45 mm"
+END_PART
+
+END.

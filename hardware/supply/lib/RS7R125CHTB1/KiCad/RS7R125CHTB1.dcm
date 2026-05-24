@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RS7R125CHTB1
+D MOSFETs DFN    150V  125A N-CH
+K
+F 
+$ENDCMP
+#
+#End Doc Library

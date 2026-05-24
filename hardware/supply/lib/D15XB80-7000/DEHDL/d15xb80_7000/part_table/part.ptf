@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'D15XB80_7000'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Shindengen Electric Manufacturing Co., Ltd.", "D15XB80-7000" (!) = "", "D25XB1007000", "Other", "", "", "Bridge DiodesCompact SIPUL E142422Pb free terminalRoHS:Yes", "https://www.shindengen.co.jp/tools/pdf_generator/?category=br&lang=en&no=D15XB80", "24.5 mm"
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "QT3CD-32_768KDZY-T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-10-10-11:50:18)
+    (mountForm default
+        (footprintRef "QT3CD32768KDZYT")
+        (spec "System")
+    )
+)

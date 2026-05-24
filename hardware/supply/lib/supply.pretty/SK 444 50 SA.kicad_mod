@@ -1,0 +1,236 @@
+(footprint "SK 444 50 SA"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "95ed69cd-4a46-4182-a218-845f56696067")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "SK 444 50 SA"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ff10d306-123d-451c-a65f-326d6ce9fb42")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fab0228f-6c17-44a6-965e-a8b0a63888af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8e2d0013-c278-4617-8e6f-53daf07a11d2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start 5.08 -26.58)
+		(end 7.74 -11.58)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "eef82af5-bffc-4806-96a5-6743b7108474")
+	)
+	(fp_rect
+		(start 5.08 -11.58)
+		(end 67.15 -8.08)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "bb43992e-e93b-425d-8f56-e2e982aa2f1c")
+	)
+	(fp_rect
+		(start 10.480909 -26.58)
+		(end 13.140909 -11.58)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "171c0c1c-2b77-4742-a63f-75d1a36d15d4")
+	)
+	(fp_rect
+		(start 15.881818 -26.58)
+		(end 18.541818 -11.58)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "e3c1f137-eb53-42d7-afd8-0262f7f656be")
+	)
+	(fp_rect
+		(start 21.282727 -26.58)
+		(end 23.942727 -11.58)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "e92bf5c4-dceb-4a0c-8e04-c3ef2d05fcc5")
+	)
+	(fp_rect
+		(start 26.683636 -26.58)
+		(end 29.343636 -11.58)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "0a4f7f79-ff5a-4dfd-9a24-db8f79b30193")
+	)
+	(fp_rect
+		(start 32.084545 -26.58)
+		(end 34.744545 -11.58)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "1a3d6911-f171-46bd-8eff-c0921cc4c2c3")
+	)
+	(fp_rect
+		(start 37.485455 -26.58)
+		(end 40.145455 -11.58)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "419068a8-465f-45de-be8a-dc498bda039e")
+	)
+	(fp_rect
+		(start 42.886364 -26.58)
+		(end 45.546364 -11.58)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "762a385f-a918-4e24-b186-829e3dc64ea3")
+	)
+	(fp_rect
+		(start 48.287273 -26.58)
+		(end 50.947273 -11.58)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "a1f19dc4-041b-49c0-9988-e284eb975ada")
+	)
+	(fp_rect
+		(start 53.688182 -26.58)
+		(end 56.348182 -11.58)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "2fe6e774-728a-40cf-b52d-c5ab8cf6818e")
+	)
+	(fp_rect
+		(start 59.089091 -26.58)
+		(end 61.749091 -11.58)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "f7a083a7-69e5-4317-adad-16b13fd91ab9")
+	)
+	(fp_rect
+		(start 64.49 -26.58)
+		(end 67.15 -11.58)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "0d005ae7-4dc1-4b76-a392-a0e1dc83096c")
+	)
+	(fp_rect
+		(start 5.01 -27.27)
+		(end 67.22 -8.05)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "b4a11eef-d4d8-4cf5-9831-2afd8a701a9b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1e73a644-2122-448e-a73c-0b09acf08010")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/sk444.stp"
+		(offset
+			(xyz -162 -5.5 1.5)
+		)
+		(scale
+			(xyz 1 1 2)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

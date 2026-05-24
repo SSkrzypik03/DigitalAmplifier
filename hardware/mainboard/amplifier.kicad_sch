@@ -8283,7 +8283,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Heatsink"
+		(property "Value" "ATS-TI1OP-519-C1-R3"
 			(at 148.59 117.4749 0)
 			(show_name no)
 			(do_not_autoplace no)

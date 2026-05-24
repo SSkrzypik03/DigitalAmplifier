@@ -1,0 +1,16 @@
+.QT3CD-32.768KDZY-T :1 ;Resonator: quartz; 32.768kHz; +/-20ppm; 7pF; SMD; 3.2x1.5x0.9mm
+QT3CD32768KDZYT
+*STM Y
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN QT3CD-32.768KDZY-T
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (QST)
+~!Manufacturer_Part_Number (QT3CD-32.768KDZY-T)
+~!Link Datasheet (-)
+~!Height (0.9mm)
+~!3D_Model (QT3CD-32.768KDZY-T)
+QT3CD-32.768KDZY-T
+1.1!U 2.1!U 

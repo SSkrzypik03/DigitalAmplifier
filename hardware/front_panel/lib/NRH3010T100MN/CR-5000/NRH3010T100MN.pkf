@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "NRH3010T100MN"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "NRH3010T100MN")
+        (spec "default")
+    )
+)

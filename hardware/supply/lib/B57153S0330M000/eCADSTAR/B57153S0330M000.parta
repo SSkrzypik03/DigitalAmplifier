@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_2201528"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-07-16-10:56:40)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "B57153S0330M000")
+)
+
+
+(pinAssign "ECS_2201528"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-07-16-10:56:40)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_2201528")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "B57153S0330M000")
+)
+
+
+(part "B57153S0330M000"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-07-16-10:56:40)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "B57153S0330M000")
+    (pinAssignRef "ECS_2201528")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "RT")
+    (property "description" "NTC Inrush Current Limiters, Resistance (at 25)=33, Maximum Current=1.3A")
+    (property "TME_Electronic_Components_Part_Number" "")
+    (property "TME_Electronic_Components_Price/Stock" "")
+    (property "Manufacturer_Name" "TDK")
+    (property "Manufacturer_Part_Number" "B57153S0330M000")
+    (property "Datasheet_Link" "https://product.tdk.com/system/files/dam/doc/product/protection/current/ntc-limiter/data_sheet/50/db/icl_16/s153.pdf")
+    (property "compAreaTopHeight" 13)
+)
+
+

@@ -1,0 +1,9 @@
+Manufacturer=Avago Technologies
+PartNumber=ASMB-MTB1-0B3A2
+PartCategory=LED
+PackageCategory=Other
+PinCount=4
+Version=1.3
+Released=2021-09-07 05:04:51
+Downloaded=2026-01-19 20:36:40
+3D=Y

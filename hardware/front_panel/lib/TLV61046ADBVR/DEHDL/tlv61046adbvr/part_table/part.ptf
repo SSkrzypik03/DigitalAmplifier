@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TLV61046ADBVR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TLV61046ADBVR" (!) = "", "SOT95P280X145-6N", "SOT23 (6-Pin)", "595-TLV61046ADBVR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV61046ADBVR?qs=5aG0NVq1C4xWWIjQ%252BcBpXg%3D%3D", "Switching Voltage Regulators 28-V Output Voltage Boost Converter with Power Diode and Isolation Switch 6-SOT-23 -40 to 125", "http://www.ti.com/lit/ds/symlink/tlv61046a.pdf", "1.45 mm"
+END_PART
+
+END.

@@ -1,0 +1,105 @@
+
+(EDIF
+  (rename &MOV_14D431K "MOV_14D431K")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2026 05 23 23 23 20)
+      (dataOrigin "375745/1447319/2.50/2/4/Varistor")
+      (program "SamacSys ECAD Model MOV_14D431K"
+        (version "1.1"))))
+  (library
+  (rename &MOV_14D431K "MOV_14D431K")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &MOV_14D431K "MOV_14D431K")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "RV")
+          (property (rename PACKAGENAME "PackageName") (string "MOV_14D431K"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "MOV-14D_5_2MM-T_"))
+          (property (rename &TME_Electronic_Components_Part_Number "TME Electronic Components Part Number") (string ""))
+          (property (rename &TME_Electronic_Components_Price_Stock "TME Electronic Components Price/Stock") (string ""))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "Bourns"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "MOV-14D431K"))
+          (property (rename &Description "Description") (string "Varistor;Metal Oxide;14 mm;430V;10percent Bourns MOV-14D Series Metal Oxide Varistor 460pF 50A 710V"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://componentsearchengine.com/Datasheets/1/MOV-14D431K.pdf"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "MOV_14D431K"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &1)
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -100) (pt 0 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -100))))
+            )
+            (portImplementation
+              (name &2)
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 300 -100) (pt 500 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt 500 -100))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 -50)
+                  (pt 300 -50)
+                  (pt 300 -150)
+                  (pt 0 -150)
+                  (pt 0 -50)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt -50 -200)
+                  (pt 50 -200)
+                  (pt 250 0)
+                  (pt 350 0)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 350 80))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 350 -20))))
+          )
+        )
+      )
+    )
+  )
+)

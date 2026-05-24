@@ -1,0 +1,16 @@
+.TL431IDBVR :1 ;2% Accuracy Adjustable Precision Shunt Regulator
+SOT95P280X145-5N
+*STM IC
+*NGS
+*PLB 1="NC" 2="†" 3="CATHODE" 4="REF" 5="ANODE"
+*MXP 5
+*DFN TL431IDBVR
+~!Mouser Part Number (595-TL431IDBVR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL431IDBVR?qs=tJ5HNKWh3OWJ%2FSshA3ZRGQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TL431IDBVR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tl431)
+~!Height (1.45mm)
+~!3D_Model (TL431IDBVR)
+TL431IDBVR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

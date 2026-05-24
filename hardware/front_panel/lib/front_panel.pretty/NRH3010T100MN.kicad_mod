@@ -1,0 +1,191 @@
+(footprint "NRH3010T100MN"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "NRH3010T100MN-2")
+	(tags "Inductor")
+	(property "Reference" "L**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "d0f4c8cc-d80f-4c93-85ef-0efbc8596eaf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "NRH3010T100MN"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c35fd5c4-d656-4f09-b6a4-74e2a0f7f8fd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1feed7b4-e7de-4146-a22d-0de0b73f7735")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bbae84a0-affa-4b8a-93ab-e7fced53440d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.4 -1.5)
+		(end 0.2 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d9d67d84-4575-4892-802a-2b0d55628281")
+	)
+	(fp_line
+		(start -0.4 1.5)
+		(end 0.2 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6054a986-bf8f-45e7-8211-6e2decedcf83")
+	)
+	(fp_line
+		(start -2.5 -2.5)
+		(end 2.5 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "486698e1-a451-4de7-943e-031c69808c3d")
+	)
+	(fp_line
+		(start -2.5 2.5)
+		(end -2.5 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7132261d-aa09-44c3-b8d5-6c85bf068582")
+	)
+	(fp_line
+		(start 2.5 -2.5)
+		(end 2.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "471d5609-0ed9-4025-a6ca-6da6ed6b7309")
+	)
+	(fp_line
+		(start 2.5 2.5)
+		(end -2.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "60adc37a-f8b5-4fe0-aa25-6254cbb52fed")
+	)
+	(fp_line
+		(start -1.5 -1.5)
+		(end 1.5 -1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "94e7987c-d8b6-4403-8299-1e7b6cc47d54")
+	)
+	(fp_line
+		(start -1.5 1.5)
+		(end -1.5 -1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7a2484c9-1284-42e7-a59a-741dfc073e0d")
+	)
+	(fp_line
+		(start 1.5 -1.5)
+		(end 1.5 1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "869204c7-2257-4cf8-bc61-c780bccdd9cd")
+	)
+	(fp_line
+		(start 1.5 1.5)
+		(end -1.5 1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "474128cb-32ca-4b4e-845a-7c4bdec29d23")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "723f19ba-6e16-4fd3-8829-f5106e1928c0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.1 0)
+		(size 0.8 2.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5ba6e84c-093b-4ca4-a1af-390ab592131a")
+	)
+	(pad "2" smd rect
+		(at 1.1 0)
+		(size 0.8 2.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ca95c4f8-e82b-4be2-884a-58dcd038c73c")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/NRH3010T100MN/3D/NRH3010T100MN.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

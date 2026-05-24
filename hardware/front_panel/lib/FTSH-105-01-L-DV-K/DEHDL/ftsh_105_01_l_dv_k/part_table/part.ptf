@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FTSH_105_01_L_DV_K'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SAMTEC", "FTSH-105-01-L-DV-K" (!) = "", "FTSH10501LDVK", "Other", "", "", "Samtec, FTSH, 10 Way, 2 Row, Straight Pin Header", "https://www.arrow.com/en/products/ftsh-105-01-l-dv-k/samtec", "6.1 mm"
+END_PART
+
+END.

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RS7E200BGTB1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RS7E200BGTB1")
+        (spec "default")
+    )
+)

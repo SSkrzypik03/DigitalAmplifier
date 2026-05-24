@@ -1,0 +1,16 @@
+.D15XB80-7000 :1 ;Bridge DiodesCompact SIPUL E142422Pb free terminalRoHS:Yes
+D25XB1007000
+*STM BR
+*NGS
+*PLB 1="+" 2="~_1" 3="~_2" 4="-"
+*MXP 4
+*DFN D15XB80-7000
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (Shindengen Electric Manufacturing Co., Ltd.)
+~!Manufacturer_Part_Number (D15XB80-7000)
+~!Link Datasheet (https://www.shindengen.co.jp/tools/pdf_generator/?category=br&lang=en&no=D15XB80)
+~!Height (24.5mm)
+~!3D_Model (D15XB80-7000)
+D15XB80-7000
+1.1!U 2.1!U 3.1!U 4.1!U 

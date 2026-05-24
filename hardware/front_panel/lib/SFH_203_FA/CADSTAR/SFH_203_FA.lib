@@ -1,0 +1,16 @@
+.SFH_203_FA :1 ;Silicon PIN Photodiode
+SFH203FA
+*STM LED
+*NGS
+*PLB 1="A" 2="K"
+*MXP 2
+*DFN SFH_203_FA
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (ams OSRAM)
+~!Manufacturer_Part_Number (SFH 203 FA)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036828.pdf)
+~!Height (8.9mm)
+~!3D_Model (SFH_203_FA)
+SFH_203_FA
+1.1!U 2.1!U 

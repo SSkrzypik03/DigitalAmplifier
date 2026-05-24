@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MOV-14D431K
+#/375745/1447319/2.50/2/4/Varistor
+DEF MOV-14D431K RV 0 30 Y Y 1 F N
+F0 "RV" 550 250 50 H V L CNN
+F1 "MOV-14D431K" 550 150 50 H V L CNN
+F2 "MOV-14D(5.2MM-T)" 550 50 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/MOV-14D431K.pdf" 550 -50 50 H I L CNN
+F4 "Varistor;Metal Oxide;14 mm;430V;10% Bourns MOV-14D Series Metal Oxide Varistor 460pF 50A 710V" 550 -150 50 H I L CNN "Description"
+F5 "" 550 -250 50 H I L CNN "Height"
+F6 "" 550 -350 50 H I L CNN "TME Electronic Components Part Number"
+F7 "" 550 -450 50 H I L CNN "TME Electronic Components Price/Stock"
+F8 "Bourns" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "MOV-14D431K" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 4 0 1 6 150 -100 250 -100 450 100 550 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

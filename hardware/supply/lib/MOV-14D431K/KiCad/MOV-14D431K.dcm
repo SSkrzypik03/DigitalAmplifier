@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOV-14D431K
+D Varistor;Metal Oxide;14 mm;430V;10% Bourns MOV-14D Series Metal Oxide Varistor 460pF 50A 710V
+K
+F https://componentsearchengine.com/Datasheets/1/MOV-14D431K.pdf
+$ENDCMP
+#
+#End Doc Library

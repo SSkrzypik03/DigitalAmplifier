@@ -1,0 +1,16 @@
+.B57153S0330M000 :1 ;NTC Inrush Current Limiters, Resistance (at 25)=33, Maximum Current=1.3A
+B57153S0___M0__
+*STM RT
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN B57153S0330M000
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (B57153S0330M000)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/protection/current/ntc-limiter/data_sheet/50/db/icl_16/s153.pdf)
+~!Height (13mm)
+~!3D_Model (B57153S0330M000)
+B57153S0330M000
+1.1!U 2.1!U 

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "YBS3010"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "YBS3010")
+        (spec "default")
+    )
+)

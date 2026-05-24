@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SFH_2400'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ams OSRAM", "SFH 2400" (!) = "", "SFH2400", "Other", "", "", "Photodiode PIN Chip 850nm Automotive 3-Pin Smart DIL", "https://look.ams-osram.com/m/603400502021bc6b/original/SFH-2400.pdf", "1.15 mm"
+END_PART
+
+END.

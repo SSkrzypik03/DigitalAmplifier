@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PS2811-1-F3-A
+D Optoisolator Transistor Output 2500Vrms 1 Channel 4-SSOP
+K
+F https://www.digikey.ph/en/products/detail/cel/PS2811-1-F3-A/770592
+$ENDCMP
+#
+#End Doc Library

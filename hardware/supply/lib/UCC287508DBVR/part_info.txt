@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=UCC287508DBVR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=1.2
+Released=2025-10-02 07:56:20
+Downloaded=2026-01-30 15:22:46
+3D=Y

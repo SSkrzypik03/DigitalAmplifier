@@ -1,0 +1,16 @@
+.74LVC2G17GV_125 :1 ;74LVC2G17 - Dual non-inverting Schmitt trigger with 5 V tolerant input@en-us
+SOT95P275X110-6N
+*STM IC
+*NGS
+*PLB 1="1A" 2="GND" 3="2A" 4="2Y" 5="VCC" 6="1Y"
+*MXP 6
+*DFN 74LVC2G17GV_125
+~!Mouser Part Number (771-74LVC2G17GV-G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC2G17GV125?qs=me8TqzrmIYV0s3Bq3xwtOg%3D%3D)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (74LVC2G17GV,125)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/74LVC2G17.pdf)
+~!Height (1.1mm)
+~!3D_Model (74LVC2G17GV,125)
+"74LVC2G17GV_125"
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

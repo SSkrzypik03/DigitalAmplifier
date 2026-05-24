@@ -1,0 +1,9 @@
+Manufacturer=Yangzhou Yangjie Electronic Technology Co., Ltd.
+PartNumber=YBS3010
+PartCategory=Bridge Rectifier
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2021-10-21 14:54:00
+Downloaded=2026-01-31 16:42:55
+3D=Y

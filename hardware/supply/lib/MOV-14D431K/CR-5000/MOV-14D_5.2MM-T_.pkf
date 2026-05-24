@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "MOV-14D_5_2MM-T_"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "MOV-14D_5_2MM-T_")
+        (spec "default")
+    )
+)

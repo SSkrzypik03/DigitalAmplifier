@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RS7R125CHTB1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-08-09-13:28:24)
+    (mountForm default
+        (footprintRef "RS7E200BGTB1")
+        (spec "System")
+    )
+)

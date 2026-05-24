@@ -1,0 +1,16 @@
+.FTR-MYAA012D :1 ;General Purpose Relays Slim Power 12VDC
+FTRMYAA012D
+*STM K
+*NGS
+*PLB 1="COIL_1" 2="COIL_2" 3="COM" 4="NO"
+*MXP 4
+*DFN FTR-MYAA012D
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (FCL Components)
+~!Manufacturer_Part_Number (FTR-MYAA012D)
+~!Link Datasheet (-)
+~!Height (-)
+~!3D_Model (FTR-MYAA012D)
+FTR-MYAA012D
+1.1!U 2.1!U 3.1!U 4.1!U 

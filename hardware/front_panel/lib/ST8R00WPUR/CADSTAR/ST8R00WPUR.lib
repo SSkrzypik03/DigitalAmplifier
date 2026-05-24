@@ -1,0 +1,16 @@
+.ST8R00WPUR :1 ;Conv DC-DC 4V to 6V Step Up Single-Out 6V to 12V 1A 8-Pin DFN T/R
+SON80P400X400X100-9N
+*STM IC
+*NGS
+*PLB 1="LX" 2="PGND" 3="GND" 4="IN" 5="FB" 6="INH" 7="HV" 8="OUT" 9="EP"
+*MXP 9
+*DFN ST8R00WPUR
+~!Mouser Part Number (511-ST8R00WPUR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST8R00WPUR?qs=VJaATVMq%252BXrX32beJDbIZA%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (ST8R00WPUR)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/st8r00.pdf)
+~!Height (1mm)
+~!3D_Model (ST8R00WPUR)
+ST8R00WPUR
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

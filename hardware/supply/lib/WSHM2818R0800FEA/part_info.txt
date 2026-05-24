@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=WSHM2818R0800FEA
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2018-05-16 08:24:27
+Downloaded=2026-05-23 23:21:12
+3D=Y

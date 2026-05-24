@@ -1,0 +1,16 @@
+.PS2811-1-F3-A :1 ;Optoisolator Transistor Output 2500Vrms 1 Channel 4-SSOP
+SOIC127P700X210-4N
+*STM IC
+*NGS
+*PLB 1="ANNODE" 2="CATHODE" 3="EMITTER" 4="COLLECTOR"
+*MXP 4
+*DFN PS2811-1-F3-A
+~!Mouser Part Number (968-PS2811-1-F3-A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Renesas-Electronics/PS2811-1-F3-A?qs=qSfuJ%252Bfl%2Fd77ds3zyWjujA%3D%3D)
+~!Manufacturer_Name (Renesas Electronics)
+~!Manufacturer_Part_Number (PS2811-1-F3-A)
+~!Link Datasheet (https://www.digikey.ph/en/products/detail/cel/PS2811-1-F3-A/770592)
+~!Height (2.1mm)
+~!3D_Model (PS2811-1-F3-A)
+PS2811-1-F3-A
+1.1!U 2.1!U 4.1!U 3.1!U 

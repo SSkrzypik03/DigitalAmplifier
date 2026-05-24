@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=726386-2
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2017-03-30 08:24:49
+Downloaded=2026-01-30 20:41:11
+3D=Y

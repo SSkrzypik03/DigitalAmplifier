@@ -2625,6 +2625,234 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "digital_amp:SPX5205M5-L_TR"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at -0.762 8.382 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "SPX5205M5-L_TR"
+				(at -8.636 5.842 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "digital_amp:SOT95P280X145-5N"
+				(at 24.13 -94.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Datasheet" "https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf"
+				(at 24.13 -194.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Description" "LDO Voltage Regulators 150mA LOW NOISE LDO"
+				(at 1.778 -13.208 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Height" "1.45"
+				(at 24.13 -394.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Part Number" "701-SPX5205M5-L/TR"
+				(at 24.13 -494.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX5205M5-L-TR?qs=S%2FCBhQS5rCqlkl0UDVhMhQ%3D%3D"
+				(at 24.13 -594.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Name" "MaxLinear, Inc."
+				(at 24.13 -694.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Part_Number" "SPX5205M5-L/TR"
+				(at 24.13 -794.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(symbol "SPX5205M5-L_TR_1_1"
+				(rectangle
+					(start -8.89 3.81)
+					(end 8.89 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at -13.97 2.54 0)
+					(length 5.08)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -11.43 90)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -13.97 -5.08 0)
+					(length 5.08)
+					(name "EN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 13.97 -5.08 180)
+					(length 5.08)
+					(name "ADJ"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 13.97 2.54 180)
+					(length 5.08)
+					(name "VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "digital_amp:STL130N4LF8"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3829,234 +4057,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "psd_libs:SPX5205M5-L_TR"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at -1.27 9.652 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "SPX5205M5-L_TR"
-				(at -8.382 7.112 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "SOT95P280X145-5N"
-				(at 24.13 -94.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Datasheet" "https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf"
-				(at 24.13 -194.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Description" "LDO Voltage Regulators 150mA LOW NOISE LDO"
-				(at 4.318 -20.574 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Height" "1.45"
-				(at 24.13 -394.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Part Number" "701-SPX5205M5-L/TR"
-				(at 24.13 -494.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX5205M5-L-TR?qs=S%2FCBhQS5rCqlkl0UDVhMhQ%3D%3D"
-				(at 24.13 -594.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Name" "MaxLinear, Inc."
-				(at 24.13 -694.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Part_Number" "SPX5205M5-L/TR"
-				(at 24.13 -794.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(symbol "SPX5205M5-L_TR_1_1"
-				(rectangle
-					(start -8.89 5.08)
-					(end 8.89 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin power_in line
-					(at -13.97 3.81 0)
-					(length 5.08)
-					(name "VIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -10.16 90)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -13.97 -3.81 0)
-					(length 5.08)
-					(name "EN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 13.97 -3.81 180)
-					(length 5.08)
-					(name "ADJ"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 13.97 3.81 180)
-					(length 5.08)
-					(name "VOUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 	)
 	(rectangle
 		(start 15.494 16.002)
@@ -4081,16 +4081,6 @@
 			(type none)
 		)
 		(uuid "ef1814b3-4aee-475e-ab50-18b7c4907f60")
-	)
-	(text "przerob te 8V na 5.5V"
-		(exclude_from_sim no)
-		(at 256.794 59.436 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "2e6a8a5d-18dd-485a-b802-64db724d659d")
 	)
 	(text "\"PI\" FILTER\nFc = 11.8kHz"
 		(exclude_from_sim no)
@@ -5784,6 +5774,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 104.14) (xy 170.18 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8de5d430-fb83-4cb5-9ad3-c96e4b8f1612")
+	)
+	(wire
+		(pts
 			(xy 113.03 62.23) (xy 113.03 63.5)
 		)
 		(stroke
@@ -6586,13 +6586,13 @@
 		(at 160.02 26.67 180)
 		(effects
 			(font
-				(size 1.016 1.016)
+				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
 		(uuid "600e3387-ff0b-4ab4-b7c9-3e08c2498350")
 	)
-	(label "supply_filtered"
+	(label "SUPPLY_FILTERED"
 		(at 45.72 27.94 0)
 		(effects
 			(font
@@ -6602,317 +6602,15 @@
 		)
 		(uuid "677fcb79-fe79-4bca-8bf8-8b3a5c0debd3")
 	)
-	(label "8V_SW"
+	(label "6V_SW"
 		(at 241.3 26.67 180)
 		(effects
 			(font
-				(size 1.016 1.016)
+				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
 		(uuid "ce67b08c-4a86-4593-8ffe-79051b5b775c")
-	)
-	(symbol
-		(lib_id "psd_libs:SPX5205M5-L_TR")
-		(at 57.15 106.68 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "00c7003e-9d84-4a85-a72e-284611858c57")
-		(property "Reference" "U7"
-			(at 57.15 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SPX5205M5-L_TR"
-			(at 57.15 99.06 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "digital_amp:SOT95P280X145-5N"
-			(at 81.28 201.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf"
-			(at 81.28 301.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "LDO Voltage Regulators 150mA LOW NOISE LDO"
-			(at 61.468 127.254 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "1.45"
-			(at 81.28 501.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "701-SPX5205M5-L/TR"
-			(at 81.28 601.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX5205M5-L-TR?qs=S%2FCBhQS5rCqlkl0UDVhMhQ%3D%3D"
-			(at 81.28 701.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "MaxLinear, Inc."
-			(at 81.28 801.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SPX5205M5-L/TR"
-			(at 81.28 901.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "1"
-			(uuid "1316c633-f7b1-4c02-96e1-615c538be337")
-		)
-		(pin "3"
-			(uuid "4a6cf8be-620d-4f1d-94db-2b46d2674965")
-		)
-		(pin "2"
-			(uuid "e14b2f5d-166a-4b5b-b7a0-c74d336be309")
-		)
-		(pin "4"
-			(uuid "ecbad9ed-475f-47cc-9134-54fe75c718be")
-		)
-		(pin "5"
-			(uuid "ca44bf1b-41b5-415b-9d55-2f741d5faa5d")
-		)
-		(instances
-			(project "DigitalAmplifier"
-				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
-					(reference "U7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "psd_libs:SPX5205M5-L_TR")
-		(at 57.15 146.05 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "01e1db9b-8438-4593-b57a-c40989d09a53")
-		(property "Reference" "U9"
-			(at 57.15 135.89 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SPX5205M5-L_TR"
-			(at 57.15 138.43 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "digital_amp:SOT95P280X145-5N"
-			(at 81.28 240.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf"
-			(at 81.28 340.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "LDO Voltage Regulators 150mA LOW NOISE LDO"
-			(at 61.468 166.624 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "1.45"
-			(at 81.28 540.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "701-SPX5205M5-L/TR"
-			(at 81.28 640.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX5205M5-L-TR?qs=S%2FCBhQS5rCqlkl0UDVhMhQ%3D%3D"
-			(at 81.28 740.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "MaxLinear, Inc."
-			(at 81.28 840.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SPX5205M5-L/TR"
-			(at 81.28 940.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "1"
-			(uuid "6c04cee3-8f6c-423a-8919-ff47a6351b6a")
-		)
-		(pin "3"
-			(uuid "59f14307-198b-41fc-ba21-f3478df96b68")
-		)
-		(pin "2"
-			(uuid "2db1806c-6feb-42b4-8bf9-1dc8d6ab27aa")
-		)
-		(pin "4"
-			(uuid "adae7a20-7a1c-490f-a24a-5596d4f5757e")
-		)
-		(pin "5"
-			(uuid "c68c7966-de84-4ea0-9258-abee596a9aff")
-		)
-		(instances
-			(project "DigitalAmplifier"
-				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
-					(reference "U9")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
@@ -7601,6 +7299,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 170.18 104.14 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0f8b275f-35d2-4ebf-a7b4-019dc99da7ae")
+		(property "Reference" "#FLG05"
+			(at 170.18 102.235 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 170.18 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 170.18 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 170.18 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 170.18 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "34c4a9f0-b092-4887-9a26-a4a136946986")
+		)
+		(instances
+			(project "DigitalAmplifier"
+				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
+					(reference "#FLG05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 135.89 50.8 0)
 		(unit 1)
@@ -8177,6 +7953,157 @@
 		)
 	)
 	(symbol
+		(lib_id "digital_amp:SPX5205M5-L_TR")
+		(at 57.15 144.78 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "242e4f8a-662d-4616-84c3-1edcf4e28f32")
+		(property "Reference" "U9"
+			(at 57.15 135.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SPX5205M5-L_TR"
+			(at 57.15 138.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "digital_amp:SOT95P280X145-5N"
+			(at 81.28 239.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf"
+			(at 81.28 339.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "LDO Voltage Regulators 150mA LOW NOISE LDO"
+			(at 58.928 157.988 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.45"
+			(at 81.28 539.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "701-SPX5205M5-L/TR"
+			(at 81.28 639.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX5205M5-L-TR?qs=S%2FCBhQS5rCqlkl0UDVhMhQ%3D%3D"
+			(at 81.28 739.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "MaxLinear, Inc."
+			(at 81.28 839.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SPX5205M5-L/TR"
+			(at 81.28 939.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "4"
+			(uuid "8994619a-ae11-4f0a-9b16-92197004a46f")
+		)
+		(pin "2"
+			(uuid "6bd2c943-16ca-48d5-ba81-7e7b18cfc791")
+		)
+		(pin "1"
+			(uuid "d9d47324-d7e8-4308-a191-8cb509691fa1")
+		)
+		(pin "3"
+			(uuid "dacca1e7-1814-493c-bc8d-22e9e93db05e")
+		)
+		(pin "5"
+			(uuid "81edcd3c-ae45-4104-bc4b-9aed5ae52243")
+		)
+		(instances
+			(project "DigitalAmplifier"
+				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
+					(reference "U9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
 		(at 105.41 118.11 0)
@@ -8264,7 +8191,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2be9a9af-d726-4923-bb55-246a06c443f9")
 		(property "Reference" "#PWR0156"
 			(at 257.81 29.21 0)
@@ -8277,14 +8203,15 @@
 				)
 			)
 		)
-		(property "Value" "+8V"
-			(at 257.81 20.32 0)
+		(property "Value" "+6V"
+			(at 255.778 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -9862,157 +9789,6 @@
 		)
 	)
 	(symbol
-		(lib_id "psd_libs:SPX5205M5-L_TR")
-		(at 105.41 146.05 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "427527f2-a8d0-4b0f-bfb8-2f8a03b288a2")
-		(property "Reference" "U16"
-			(at 105.41 135.89 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SPX5205M5-L_TR"
-			(at 105.41 138.43 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "digital_amp:SOT95P280X145-5N"
-			(at 129.54 240.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf"
-			(at 129.54 340.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "LDO Voltage Regulators 150mA LOW NOISE LDO"
-			(at 109.728 166.624 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "1.45"
-			(at 129.54 540.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "701-SPX5205M5-L/TR"
-			(at 129.54 640.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX5205M5-L-TR?qs=S%2FCBhQS5rCqlkl0UDVhMhQ%3D%3D"
-			(at 129.54 740.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "MaxLinear, Inc."
-			(at 129.54 840.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SPX5205M5-L/TR"
-			(at 129.54 940.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "1"
-			(uuid "bd870404-88f6-4fcd-ba12-39fb72554068")
-		)
-		(pin "3"
-			(uuid "ec1dd7ce-200a-4dc4-9156-09f365461835")
-		)
-		(pin "2"
-			(uuid "84e732f3-ea40-4cbd-a689-55a6d930fb51")
-		)
-		(pin "4"
-			(uuid "76f73f70-eccf-4291-86aa-88c9b1b414ab")
-		)
-		(pin "5"
-			(uuid "5895d317-3d50-439b-b3fd-43b8d916ac3d")
-		)
-		(instances
-			(project "DigitalAmplifier"
-				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
-					(reference "U16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
 		(at 81.28 157.48 0)
@@ -10166,6 +9942,83 @@
 			(project "DigitalAmplifier"
 				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 170.18 109.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4691cc84-de44-4737-a796-887e0735244e")
+		(property "Reference" "#PWR076"
+			(at 170.18 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 170.18 113.03 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 170.18 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 170.18 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 170.18 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "baf8bdeb-8136-4c3f-b732-9ad2cffb4838")
+		)
+		(instances
+			(project "DigitalAmplifier"
+				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -10428,6 +10281,157 @@
 			(project "DigitalAmplifier"
 				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "digital_amp:SPX5205M5-L_TR")
+		(at 57.15 105.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f41e4c0-be30-48da-9d2f-b8cb0b9d2e0d")
+		(property "Reference" "U7"
+			(at 57.15 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SPX5205M5-L_TR"
+			(at 57.15 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "digital_amp:SOT95P280X145-5N"
+			(at 81.28 200.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf"
+			(at 81.28 300.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "LDO Voltage Regulators 150mA LOW NOISE LDO"
+			(at 58.928 118.618 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.45"
+			(at 81.28 500.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "701-SPX5205M5-L/TR"
+			(at 81.28 600.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX5205M5-L-TR?qs=S%2FCBhQS5rCqlkl0UDVhMhQ%3D%3D"
+			(at 81.28 700.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "MaxLinear, Inc."
+			(at 81.28 800.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SPX5205M5-L/TR"
+			(at 81.28 900.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "4"
+			(uuid "67429c39-d402-4d47-bc79-998828d46abd")
+		)
+		(pin "2"
+			(uuid "df7356bc-d6ae-472f-b62f-5ea4031473e2")
+		)
+		(pin "1"
+			(uuid "ef294a1b-a0dc-4c44-bbde-a2d85bdab18f")
+		)
+		(pin "3"
+			(uuid "3e06970e-f033-44c8-84c1-3005c642fb78")
+		)
+		(pin "5"
+			(uuid "64211116-d00e-49b5-8ef0-786b0ff922b1")
+		)
+		(instances
+			(project "DigitalAmplifier"
+				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -11368,7 +11372,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "74a85475-41d0-448e-9f78-5d11acfaa095")
 		(property "Reference" "#PWR04"
 			(at 20.32 105.41 0)
@@ -11381,14 +11384,15 @@
 				)
 			)
 		)
-		(property "Value" "+8V"
-			(at 20.32 96.52 0)
+		(property "Value" "+6V"
+			(at 17.272 97.536 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -11590,6 +11594,157 @@
 			(project "DigitalAmplifier"
 				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "digital_amp:SPX5205M5-L_TR")
+		(at 105.41 144.78 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d04ff03-c754-49e3-8ab4-53c9a8d44299")
+		(property "Reference" "U16"
+			(at 105.41 135.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SPX5205M5-L_TR"
+			(at 105.41 138.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "digital_amp:SOT95P280X145-5N"
+			(at 129.54 239.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf"
+			(at 129.54 339.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "LDO Voltage Regulators 150mA LOW NOISE LDO"
+			(at 107.188 157.988 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.45"
+			(at 129.54 539.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "701-SPX5205M5-L/TR"
+			(at 129.54 639.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX5205M5-L-TR?qs=S%2FCBhQS5rCqlkl0UDVhMhQ%3D%3D"
+			(at 129.54 739.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "MaxLinear, Inc."
+			(at 129.54 839.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SPX5205M5-L/TR"
+			(at 129.54 939.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "4"
+			(uuid "7b7567b0-d7fb-4496-bd2e-c9ee8dab266e")
+		)
+		(pin "2"
+			(uuid "4bebc1a5-c0f5-42d7-bf53-4819292ea9d3")
+		)
+		(pin "1"
+			(uuid "431af15b-a01c-47ae-9ff4-234cc96edf26")
+		)
+		(pin "3"
+			(uuid "2fd08d0d-08ed-454a-acb7-aff7db829b07")
+		)
+		(pin "5"
+			(uuid "c6ac6690-d787-42df-85c3-01ae2f6a976e")
+		)
+		(instances
+			(project "DigitalAmplifier"
+				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
+					(reference "U16")
 					(unit 1)
 				)
 			)
@@ -12097,7 +12252,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "18k"
+		(property "Value" "13k"
 			(at 252.476 38.862 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13183,6 +13338,157 @@
 			(project "DigitalAmplifier"
 				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
 					(reference "#PWR0153")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "digital_amp:SPX5205M5-L_TR")
+		(at 105.41 105.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a9d8ea82-e66b-42a6-a87f-4b0730d13b19")
+		(property "Reference" "U6"
+			(at 105.41 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SPX5205M5-L_TR"
+			(at 105.41 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "digital_amp:SOT95P280X145-5N"
+			(at 129.54 200.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf"
+			(at 129.54 300.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "LDO Voltage Regulators 150mA LOW NOISE LDO"
+			(at 107.188 118.618 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.45"
+			(at 129.54 500.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "701-SPX5205M5-L/TR"
+			(at 129.54 600.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX5205M5-L-TR?qs=S%2FCBhQS5rCqlkl0UDVhMhQ%3D%3D"
+			(at 129.54 700.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "MaxLinear, Inc."
+			(at 129.54 800.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SPX5205M5-L/TR"
+			(at 129.54 900.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "4"
+			(uuid "39b62d86-405f-49ef-b721-ba037cee7fa7")
+		)
+		(pin "2"
+			(uuid "16f4d380-3ab6-4cc7-bbfd-f5e2dac095bf")
+		)
+		(pin "1"
+			(uuid "bda1b65a-8408-4327-903f-58967ab869d7")
+		)
+		(pin "3"
+			(uuid "b80384c7-c126-49fa-a2d9-a8963d0057b2")
+		)
+		(pin "5"
+			(uuid "a8ee536d-e44b-463c-b1a0-0a8d0bba5dae")
+		)
+		(instances
+			(project "DigitalAmplifier"
+				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -15687,157 +15993,6 @@
 			(project "DigitalAmplifier"
 				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
 					(reference "#PWR0185")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "psd_libs:SPX5205M5-L_TR")
-		(at 105.41 106.68 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f8179bac-b031-4e3c-99e0-33ef6d8259dd")
-		(property "Reference" "U6"
-			(at 105.41 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SPX5205M5-L_TR"
-			(at 105.41 99.06 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "digital_amp:SOT95P280X145-5N"
-			(at 129.54 201.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.fr/datasheet/2/146/SPX5205-1889004.pdf"
-			(at 129.54 301.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "LDO Voltage Regulators 150mA LOW NOISE LDO"
-			(at 109.728 127.254 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "1.45"
-			(at 129.54 501.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "701-SPX5205M5-L/TR"
-			(at 129.54 601.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX5205M5-L-TR?qs=S%2FCBhQS5rCqlkl0UDVhMhQ%3D%3D"
-			(at 129.54 701.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "MaxLinear, Inc."
-			(at 129.54 801.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SPX5205M5-L/TR"
-			(at 129.54 901.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "1"
-			(uuid "44f9a43c-7a49-4fd9-a408-411f08158700")
-		)
-		(pin "3"
-			(uuid "5fb08e88-7679-4487-b8b1-06f730e1b22a")
-		)
-		(pin "2"
-			(uuid "ae7a021e-1d1f-4c71-835b-8812e0ec3a0f")
-		)
-		(pin "4"
-			(uuid "7e4f065b-3fe5-4195-8469-e4f3079b9160")
-		)
-		(pin "5"
-			(uuid "e73d0f90-c8af-4daf-9a75-69ac18a1a222")
-		)
-		(instances
-			(project "DigitalAmplifier"
-				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/fe27f4eb-6af3-4e58-bb24-034b4d8f6fe2"
-					(reference "U6")
 					(unit 1)
 				)
 			)

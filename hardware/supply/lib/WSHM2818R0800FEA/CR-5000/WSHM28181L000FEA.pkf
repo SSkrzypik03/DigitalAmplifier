@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "WSHM28181L000FEA"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "WSHM28181L000FEA")
+        (spec "default")
+    )
+)

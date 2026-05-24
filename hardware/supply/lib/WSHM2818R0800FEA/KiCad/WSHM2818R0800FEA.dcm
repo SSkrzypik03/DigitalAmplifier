@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WSHM2818R0800FEA
+D Current Sense Resistors - SMD .08ohms 7watt 1%
+K
+F http://www.vishay.com/docs/30188/wshm2818.pdf
+$ENDCMP
+#
+#End Doc Library

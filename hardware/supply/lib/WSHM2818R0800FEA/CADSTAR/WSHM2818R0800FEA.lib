@@ -1,0 +1,16 @@
+.WSHM2818R0800FEA :1 ;Current Sense Resistors - SMD .08ohms 7watt 1%
+WSHM28181L000FEA
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN WSHM2818R0800FEA
+~!Mouser Part Number (71-WSHM2818R0800FEA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSHM2818R0800FEA?qs=Blj4iBE%2FJuOQrqykvjderw%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (WSHM2818R0800FEA)
+~!Link Datasheet (http://www.vishay.com/docs/30188/wshm2818.pdf)
+~!Height (-)
+~!3D_Model (WSHM2818R0800FEA)
+WSHM2818R0800FEA
+1.1!U 2.1!U 

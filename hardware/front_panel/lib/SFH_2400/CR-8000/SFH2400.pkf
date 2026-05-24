@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SFH2400"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SFH2400")
+        (spec "default")
+    )
+)

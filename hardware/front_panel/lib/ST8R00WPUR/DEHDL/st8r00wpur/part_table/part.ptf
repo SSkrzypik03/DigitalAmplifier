@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ST8R00WPUR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "ST8R00WPUR" (!) = "", "SON80P400X400X100-9N", "Small Outline No-lead", "511-ST8R00WPUR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST8R00WPUR?qs=VJaATVMq%252BXrX32beJDbIZA%3D%3D", "Conv DC-DC 4V to 6V Step Up Single-Out 6V to 12V 1A 8-Pin DFN T/R", "https://www.st.com/resource/en/datasheet/st8r00.pdf", "1 mm"
+END_PART
+
+END.

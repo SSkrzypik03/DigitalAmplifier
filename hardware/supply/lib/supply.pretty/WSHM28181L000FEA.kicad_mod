@@ -1,0 +1,152 @@
+(footprint "WSHM28181L000FEA"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "WSHM28181L000FEA")
+	(tags "Resistor")
+	(property "Reference" "R**"
+		(at -0.317 -3.895 0)
+		(layer "F.SilkS")
+		(uuid "fe0bf7c9-177c-493e-a29b-9847a88fecd0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "WSHM28181L000FEA"
+		(at -0.317 -3.895 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "336b47b4-5ec0-4f8f-ad33-bae5267eb10b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ba72153e-64b5-424f-8ae1-dde7b2ed6772")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39421d20-ec50-45b3-aa60-2c0ccc82e8fb")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center -2.12 -3.154)
+		(end -2.12 -3.03807)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "4de52914-13fe-40f5-ad71-fe82fb6662d7")
+	)
+	(fp_rect
+		(start -4.03 -2.71)
+		(end 3.98 2.7)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "9e4e3bdc-239c-4a2d-85e8-8c2d2f5fa00a")
+	)
+	(fp_line
+		(start -3.55 -2.3)
+		(end 3.55 -2.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "380d07f1-4d7f-4aba-8b06-75df77a27231")
+	)
+	(fp_line
+		(start -3.55 2.3)
+		(end -3.55 -2.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b8336705-5f09-456a-845f-e041a7ea2ea6")
+	)
+	(fp_line
+		(start 3.55 -2.3)
+		(end 3.55 2.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8cefa8d1-cf67-484d-82c8-bc2be1f190f7")
+	)
+	(fp_line
+		(start 3.55 2.3)
+		(end -3.55 2.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "730028c1-c7a5-4926-9018-fddd260ad44c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.317 -3.895 0)
+		(layer "F.Fab")
+		(uuid "49490ee0-ba69-4f66-9bfb-9dcbf2187e7d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.055 0)
+		(size 3.5 5.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "dc374fbd-da56-4a4c-81b3-91d67039e64e")
+	)
+	(pad "2" smd rect
+		(at 2.055 0)
+		(size 3.5 5.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "af48b447-1e35-4cb7-a2d0-f1b850c04c5b")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/WSHM2818R0800FEA/3D/WSHM2818R0800FEA.stp"
+		(offset
+			(xyz 0 -2.210000005 0.1500000037)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

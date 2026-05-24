@@ -1,0 +1,9 @@
+Manufacturer=Shindengen Electric Manufacturing Co., Ltd.
+PartNumber=D15XB80-7000
+PartCategory=Bridge Rectifier
+PackageCategory=Other
+PinCount=4
+Version=2.3
+Released=2024-04-16 09:37:14
+Downloaded=2026-01-31 16:40:49
+3D=Y

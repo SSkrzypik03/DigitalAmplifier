@@ -1,0 +1,16 @@
+.SFH_2400 :1 ;Photodiode PIN Chip 850nm Automotive 3-Pin Smart DIL
+SFH2400
+*STM D
+*NGS
+*PLB 1="CATHODE" 2="N.C." 3="ANODE"
+*MXP 3
+*DFN SFH_2400
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (ams OSRAM)
+~!Manufacturer_Part_Number (SFH 2400)
+~!Link Datasheet (https://look.ams-osram.com/m/603400502021bc6b/original/SFH-2400.pdf)
+~!Height (1.15mm)
+~!3D_Model (SFH_2400)
+SFH_2400
+1.1!U 2.1!U 3.1!U 

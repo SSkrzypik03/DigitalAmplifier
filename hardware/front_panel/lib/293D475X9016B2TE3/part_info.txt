@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=293D475X9016B2TE3
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor Moulded Polarised
+PinCount=2
+Version=3.1
+Released=2023-03-07 09:17:56
+Downloaded=2026-01-22 19:57:27
+3D=Y

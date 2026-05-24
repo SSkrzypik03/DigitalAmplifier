@@ -5409,7 +5409,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 83.82) (xy 31.75 83.82)
+			(xy 19.05 83.82) (xy 38.1 83.82)
 		)
 		(stroke
 			(width 0)
@@ -5539,16 +5539,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 73.66) (xy 101.6 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31d3e04a-c58e-4df2-a571-1fae6399057f")
-	)
-	(wire
-		(pts
 			(xy 17.78 48.26) (xy 38.1 48.26)
 		)
 		(stroke
@@ -5586,16 +5576,6 @@
 			(type default)
 		)
 		(uuid "36745cfa-92b1-4ce1-b7cb-1583e2ce85c2")
-	)
-	(wire
-		(pts
-			(xy 85.09 78.74) (xy 101.6 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38da7874-76cf-4ca5-9a2a-367cca9dbf31")
 	)
 	(wire
 		(pts
@@ -5729,7 +5709,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 60.96) (xy 31.75 60.96)
+			(xy 29.21 60.96) (xy 38.1 60.96)
 		)
 		(stroke
 			(width 0)
@@ -5799,7 +5779,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 73.66) (xy 80.01 73.66)
+			(xy 78.74 73.66) (xy 101.6 73.66)
 		)
 		(stroke
 			(width 0)
@@ -5899,7 +5879,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 81.28) (xy 31.75 81.28)
+			(xy 27.94 81.28) (xy 38.1 81.28)
 		)
 		(stroke
 			(width 0)
@@ -5916,16 +5896,6 @@
 			(type default)
 		)
 		(uuid "5ff9424b-e97e-4bca-a950-ae7656bd3f32")
-	)
-	(wire
-		(pts
-			(xy 36.83 83.82) (xy 38.1 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "631af0b1-a62e-4dbe-9fed-3ae4dc1de447")
 	)
 	(wire
 		(pts
@@ -5976,16 +5946,6 @@
 			(type default)
 		)
 		(uuid "67527414-10a5-486d-a7d6-de548899fa75")
-	)
-	(wire
-		(pts
-			(xy 85.09 53.34) (xy 91.44 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68058f73-d95b-4b91-b02f-d5625a66793b")
 	)
 	(wire
 		(pts
@@ -6046,16 +6006,6 @@
 			(type default)
 		)
 		(uuid "700b385f-9a53-48a9-99b5-90995867600e")
-	)
-	(wire
-		(pts
-			(xy 36.83 81.28) (xy 38.1 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "706284a7-1363-43d6-b930-7fbb10150de4")
 	)
 	(wire
 		(pts
@@ -6206,16 +6156,6 @@
 			(type default)
 		)
 		(uuid "780038d1-e5a1-43b5-9110-98c0e486a6a4")
-	)
-	(wire
-		(pts
-			(xy 36.83 60.96) (xy 38.1 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78b6f423-f2ac-48d8-9366-c34570c85e5b")
 	)
 	(wire
 		(pts
@@ -6459,7 +6399,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 78.74) (xy 80.01 78.74)
+			(xy 78.74 78.74) (xy 101.6 78.74)
 		)
 		(stroke
 			(width 0)
@@ -6719,7 +6659,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 53.34) (xy 80.01 53.34)
+			(xy 78.74 53.34) (xy 91.44 53.34)
 		)
 		(stroke
 			(width 0)
@@ -7829,85 +7769,6 @@
 		(uuid "eac70067-c43a-4b8c-b6e4-8fa900fe6872")
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 82.55 78.74 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "056124bf-264b-46e6-8aba-36e750490b6d")
-		(property "Reference" "R36"
-			(at 85.852 77.978 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 79.756 77.978 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 82.55 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 82.55 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9c7b5842-6e8e-4b32-8556-11d4973ebeb8")
-		)
-		(pin "2"
-			(uuid "08dd7b90-c6e2-454d-9986-3dc6a739c6d9")
-		)
-		(instances
-			(project "DigitalAmplifier"
-				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/887e0acf-dad8-4c0e-86b2-431f9857d480"
-					(reference "R36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 44.45 180.34 0)
 		(unit 1)
@@ -8296,85 +8157,6 @@
 			(project "DigitalAmplifier"
 				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/887e0acf-dad8-4c0e-86b2-431f9857d480"
 					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 34.29 60.96 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "16a6f5a8-aed1-4736-923f-fdbc6cdf4b0a")
-		(property "Reference" "R1"
-			(at 37.592 60.198 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 31.496 60.198 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 34.29 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 34.29 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 34.29 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8d6fd171-d316-4394-bbf7-d5799c1a2933")
-		)
-		(pin "2"
-			(uuid "e1dd3160-ac71-40d3-a325-0c20c59fd5fc")
-		)
-		(instances
-			(project "DigitalAmplifier"
-				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/887e0acf-dad8-4c0e-86b2-431f9857d480"
-					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -8848,85 +8630,6 @@
 			(project "DigitalAmplifier"
 				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/887e0acf-dad8-4c0e-86b2-431f9857d480"
 					(reference "#PWR034")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 34.29 81.28 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2c1a0ed6-85e3-447a-8fb8-ca0685c672b1")
-		(property "Reference" "R6"
-			(at 37.592 80.518 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 31.496 80.518 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 34.29 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 34.29 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 34.29 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fef743ce-5954-4b6c-9bf2-081f5f5f314a")
-		)
-		(pin "2"
-			(uuid "c4095756-99de-4509-bf18-a9dc82a177ab")
-		)
-		(instances
-			(project "DigitalAmplifier"
-				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/887e0acf-dad8-4c0e-86b2-431f9857d480"
-					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -11120,85 +10823,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 34.29 83.82 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "89dfce54-79c3-4632-8779-83b6da261e99")
-		(property "Reference" "R31"
-			(at 37.592 83.058 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 31.496 83.058 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 34.29 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 34.29 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 34.29 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8f80dd1c-892d-4828-a030-85621740e32a")
-		)
-		(pin "2"
-			(uuid "a8bd7ced-8cd3-4f11-8e5e-bf6396adc4ce")
-		)
-		(instances
-			(project "DigitalAmplifier"
-				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/887e0acf-dad8-4c0e-86b2-431f9857d480"
-					(reference "R31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "digital_amp:FTSH-105-01-L-DV-K")
 		(at 184.15 25.4 0)
 		(unit 1)
@@ -11358,85 +10982,6 @@
 			(project "DigitalAmplifier"
 				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/887e0acf-dad8-4c0e-86b2-431f9857d480"
 					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 82.55 53.34 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "8b7386eb-c3e0-460d-90ff-0f350cc8775a")
-		(property "Reference" "R102"
-			(at 86.36 52.578 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 79.756 52.578 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 82.55 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 82.55 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4e402c80-52db-487c-8dda-1fa6f89489ce")
-		)
-		(pin "2"
-			(uuid "de7fa27d-0fb8-422a-8db5-85614981e3c9")
-		)
-		(instances
-			(project "DigitalAmplifier"
-				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/887e0acf-dad8-4c0e-86b2-431f9857d480"
-					(reference "R102")
 					(unit 1)
 				)
 			)
@@ -13461,85 +13006,6 @@
 			(project "DigitalAmplifier"
 				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/887e0acf-dad8-4c0e-86b2-431f9857d480"
 					(reference "JP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 82.55 73.66 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "fc315c9c-661a-49e2-9b29-e1fdbb5fb15a")
-		(property "Reference" "R35"
-			(at 85.852 72.898 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 79.756 72.898 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 82.55 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 82.55 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "76e608f2-0ac4-4463-b0d2-e5d855e62e75")
-		)
-		(pin "2"
-			(uuid "1fc6f2c9-6d00-4e0b-b170-12ba54201ef4")
-		)
-		(instances
-			(project "DigitalAmplifier"
-				(path "/e3753081-ae39-4b3c-a50f-943021dc4dad/887e0acf-dad8-4c0e-86b2-431f9857d480"
-					(reference "R35")
 					(unit 1)
 				)
 			)

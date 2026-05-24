@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SFH_203_FA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ams OSRAM", "SFH 203 FA" (!) = "", "SFH203FA", "Other", "", "", "Silicon PIN Photodiode", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036828.pdf", "8.9 mm"
+END_PART
+
+END.

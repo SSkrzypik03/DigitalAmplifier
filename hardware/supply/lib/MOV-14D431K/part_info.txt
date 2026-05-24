@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=MOV-14D431K
+PartCategory=Varistor
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2017-05-11 11:41:27
+Downloaded=2026-05-23 23:23:20
+3D=Y

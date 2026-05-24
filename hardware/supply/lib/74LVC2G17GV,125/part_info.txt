@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=74LVC2G17GV,125
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=3.1
+Released=2022-06-25 04:30:06
+Downloaded=2026-02-03 17:36:30
+3D=Y

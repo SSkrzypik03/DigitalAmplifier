@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=52746-1671
+PartCategory=Connector
+PackageCategory=Other
+PinCount=18
+Version=2.4
+Released=2017-12-19 17:50:46
+Downloaded=2026-01-19 20:02:22
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LD2980ABM33TR
+D LDO Regulator 3.3V 0.05A SOT23-5 LD2980ABM33TR, Low Dropout Voltage Regulator, 0.05A, 3.3 V +/-0.5%, -3  16 Vin, 5-Pin SOT-23
+K
+F https://www.st.com/resource/en/datasheet/ld2980.pdf
+$ENDCMP
+#
+#End Doc Library

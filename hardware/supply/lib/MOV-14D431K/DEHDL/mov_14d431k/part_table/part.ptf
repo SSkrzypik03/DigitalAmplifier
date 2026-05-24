@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MOV_14D431K'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Bourns", "MOV-14D431K" (!) = "", "MOV-14D(5.2MM-T)", "Other", "", "", "Varistor;Metal Oxide;14 mm;430V;10% Bourns MOV-14D Series Metal Oxide Varistor 460pF 50A 710V", "https://componentsearchengine.com/Datasheets/1/MOV-14D431K.pdf"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PS2811_1_F3_A'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Renesas Electronics", "PS2811-1-F3-A" (!) = "", "SOIC127P700X210-4N", "Small Outline Packages", "968-PS2811-1-F3-A", "https://www.mouser.co.uk/ProductDetail/Renesas-Electronics/PS2811-1-F3-A?qs=qSfuJ%252Bfl%2Fd77ds3zyWjujA%3D%3D", "Optoisolator Transistor Output 2500Vrms 1 Channel 4-SSOP", "https://www.digikey.ph/en/products/detail/cel/PS2811-1-F3-A/770592", "2.1 mm"
+END_PART
+
+END.

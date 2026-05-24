@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'YBS3010'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Yangzhou Yangjie Electronic Technology Co., Ltd.", "YBS3010" (!) = "", "YBS3010", "Other", "", "", "Bridge Rectifiers", "https://www.tme.com/Document/9e7ccd3d26a51702a14bcc151423fd52/YBS3010_ser.pdf", "1.5 mm"
+END_PART
+
+END.

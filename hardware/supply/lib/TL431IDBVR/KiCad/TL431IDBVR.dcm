@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TL431IDBVR
+D 2% Accuracy Adjustable Precision Shunt Regulator
+K
+F http://www.ti.com/lit/gpn/tl431
+$ENDCMP
+#
+#End Doc Library

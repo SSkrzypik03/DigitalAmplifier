@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TLV61046ADBVR
+PartCategory=Power Supply
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=1.1
+Released=2019-02-14 15:02:20
+Downloaded=2026-01-20 20:10:17
+3D=Y

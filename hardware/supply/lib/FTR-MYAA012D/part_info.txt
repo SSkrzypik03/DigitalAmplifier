@@ -1,0 +1,9 @@
+Manufacturer=FCL Components
+PartNumber=FTR-MYAA012D
+PartCategory=Relay or Contactor
+PackageCategory=Other
+PinCount=4
+Version=2.1
+Released=2020-02-16 23:03:13
+Downloaded=2026-02-02 21:29:46
+3D=Y

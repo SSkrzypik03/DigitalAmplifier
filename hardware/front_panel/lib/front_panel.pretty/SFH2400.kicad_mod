@@ -1,0 +1,238 @@
+(footprint "SFH2400"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "3-SMD, Gull Wing")
+	(tags "Photodiode")
+	(property "Reference" "D**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "8445e5f0-345b-4d82-abe2-fce78357257b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SFH2400"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6fb7c7f9-5813-42ff-a47b-225751de55d9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0701a851-d7bd-40af-9d18-0a294402989b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c9a9e82d-d5f7-4097-9f63-6b381d6a2d4e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.6 0)
+		(end -3.6 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "781eca49-bfbc-4c93-9b17-459fe90fbd3b")
+	)
+	(fp_line
+		(start -3.5 0)
+		(end -3.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6b4250ff-616f-4a51-b888-71cffe4af4f4")
+	)
+	(fp_line
+		(start -1.3 1)
+		(end 0.8 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bea21140-6469-4a06-b760-b4d735531779")
+	)
+	(fp_line
+		(start 0.8 -1)
+		(end -1.3 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f29b4228-d1c0-4ecf-9e79-c84dc8c8428d")
+	)
+	(fp_arc
+		(start -3.6 0)
+		(mid -3.55 -0.05)
+		(end -3.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "94c677d8-1afd-4294-88eb-d7a02ffc6e6c")
+	)
+	(fp_arc
+		(start -3.5 0)
+		(mid -3.55 0.05)
+		(end -3.6 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "56ad9910-ce95-4f78-883a-eb2d3502e0a9")
+	)
+	(fp_line
+		(start -4 -2.15)
+		(end 4 -2.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "32b5b44b-ef5f-4d6b-a918-5bb12d8d032c")
+	)
+	(fp_line
+		(start -4 2.15)
+		(end -4 -2.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0de9e770-5505-4f79-9cc1-112974dddc24")
+	)
+	(fp_line
+		(start 4 -2.15)
+		(end 4 2.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4eae9a4c-ed9f-43cf-9cb7-f4af6116aa34")
+	)
+	(fp_line
+		(start 4 2.15)
+		(end -4 2.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "594e453b-dbc7-4144-b7b2-ea7eb86d71dc")
+	)
+	(fp_line
+		(start -1.3 -1)
+		(end 1.3 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a2432c1a-9fbb-4dd9-972b-b970e67e8d6d")
+	)
+	(fp_line
+		(start -1.3 1)
+		(end -1.3 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "17083b14-4104-4d2a-bc45-7c643cf8fe1f")
+	)
+	(fp_line
+		(start 1.3 -1)
+		(end 1.3 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6754126b-bb26-4b4a-bb50-ba7d0ba7b0a7")
+	)
+	(fp_line
+		(start 1.3 1)
+		(end -1.3 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "72a8d8cd-9c97-4f84-a417-a29a916e9469")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "4d5ab9c2-d08b-4279-a182-4312a36458ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.1 0 90)
+		(size 1.3 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "27110c2e-3d4e-4ac1-8212-32086a944386")
+	)
+	(pad "2" smd rect
+		(at 2.1 -0.65 90)
+		(size 1 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d2bf082f-ac56-483d-abfc-e590676091c5")
+	)
+	(pad "3" smd rect
+		(at 2.1 0.65 90)
+		(size 1 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b1a35b00-77c6-43aa-8a07-c4728e2024ad")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/SFH_2400/3D/SFH_2400.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

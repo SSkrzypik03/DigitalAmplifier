@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B57153S0330M000
+D NTC Inrush Current Limiters, Resistance (at 25)=33, Maximum Current=1.3A
+K
+F https://product.tdk.com/system/files/dam/doc/product/protection/current/ntc-limiter/data_sheet/50/db/icl_16/s153.pdf
+$ENDCMP
+#
+#End Doc Library

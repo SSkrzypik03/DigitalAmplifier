@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'UCC287508DBVR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "UCC287508DBVR" (!) = "", "SOT95P280X145-6N", "SOT23 (6-Pin)", "", "", "Converter Offline Flyback, Secondary Side SR Topology 100kHz SOT-23-6", "https://www.ti.com/lit/ds/symlink/ucc28750.pdf?ts=1759323086966&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FUCC28750", "1.45 mm"
+END_PART
+
+END.

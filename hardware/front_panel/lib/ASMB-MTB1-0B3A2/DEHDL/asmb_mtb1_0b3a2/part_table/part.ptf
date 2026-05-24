@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ASMB_MTB1_0B3A2'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Avago Technologies", "ASMB-MTB1-0B3A2" (!) = "", "ASMBMTB10B3A2", "Other", "", "", "Standard LEDs - SMD PLCC4,T/Mt,BS/WF Silicone RGB", "https://docs.broadcom.com/doc/AV02-4194EN", "2.1 mm"
+END_PART
+
+END.

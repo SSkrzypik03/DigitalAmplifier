@@ -1,0 +1,16 @@
+.212520-1004 :1 ;Mini-Fit Max Vertical Header, Dual Row, 4 Circuits, Tin (Sn) Plating, Black
+"2125201004"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 5
+*DFN 212520-1004
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (212520-1004)
+~!Link Datasheet (https://www.molex.com/pdm_docs/sd/2125201006_sd.pdf)
+~!Height (13.85mm)
+~!3D_Model (212520-1004)
+"212520-1004"
+1.1!U 2.1!U 3.1!U 4.1!U 

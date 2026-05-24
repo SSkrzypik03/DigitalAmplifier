@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'WSHM2818R0800FEA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Vishay", "WSHM2818R0800FEA" (!) = "", "WSHM28181L000FEA", "Other", "71-WSHM2818R0800FEA", "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSHM2818R0800FEA?qs=Blj4iBE%2FJuOQrqykvjderw%3D%3D", "Current Sense Resistors - SMD .08ohms 7watt 1%", "http://www.vishay.com/docs/30188/wshm2818.pdf"
+END_PART
+
+END.

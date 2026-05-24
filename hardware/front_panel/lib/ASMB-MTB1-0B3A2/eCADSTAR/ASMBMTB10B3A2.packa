@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ASMB-MTB1-0B3A2"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-09-07-05:04:51)
+    (mountForm default
+        (footprintRef "ASMBMTB10B3A2")
+        (spec "System")
+    )
+)

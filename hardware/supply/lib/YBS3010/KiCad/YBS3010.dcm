@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP YBS3010
+D Bridge Rectifiers
+K
+F https://www.tme.com/Document/9e7ccd3d26a51702a14bcc151423fd52/YBS3010_ser.pdf
+$ENDCMP
+#
+#End Doc Library

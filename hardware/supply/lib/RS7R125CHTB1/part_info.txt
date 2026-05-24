@@ -1,0 +1,9 @@
+Manufacturer=ROHM Semiconductor
+PartNumber=RS7R125CHTB1
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=10
+Version=1.1
+Released=2025-11-22 12:21:07
+Downloaded=2026-04-21 14:34:38
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST8R00WPUR
+D Conv DC-DC 4V to 6V Step Up Single-Out 6V to 12V 1A 8-Pin DFN T/R
+K
+F https://www.st.com/resource/en/datasheet/st8r00.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,185 @@
+(footprint "MOV-14D_5.2MM-T_"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "MOV-14D(5.2MM-T)")
+	(tags "Varistor")
+	(property "Reference" "RV**"
+		(at -0.382 0.112 0)
+		(layer "F.SilkS")
+		(uuid "8fe1e2d2-c528-4ece-b993-a37ff9748d41")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "MOV-14D(5.2MM-T)"
+		(at -0.382 0.112 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e7a8d367-5ad3-463a-b5d4-f792ed38dca9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "04c03a58-3995-4fcb-8dc8-a47b74926db8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3147aa88-7e65-43b5-898e-1294b8f4b42f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -8.25 -2.6)
+		(end 8.25 -2.6)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "399e5c2e-035f-41c4-95e5-b4061d01dba1")
+	)
+	(fp_line
+		(start -8.25 2.4)
+		(end -8.25 -2.6)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0b54346d-9f9b-40af-85fa-ae1180980234")
+	)
+	(fp_line
+		(start 8.25 -2.6)
+		(end 8.25 2.6)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0fdf493c-a37e-4936-b822-8bcd410033c1")
+	)
+	(fp_line
+		(start 8.25 2.6)
+		(end -8.25 2.6)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "55c5c6b7-c6fa-453f-b9f2-9e1431c961a5")
+	)
+	(fp_circle
+		(center -8.833 0.015)
+		(end -8.833 0.057)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "91edd2a9-327a-4ceb-ac70-1d2e2a8bcfe9")
+	)
+	(fp_line
+		(start -8.25 -2.6)
+		(end 8.25 -2.6)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "050f7c03-da13-43ca-8426-6b95817c59f2")
+	)
+	(fp_line
+		(start -8.25 2.6)
+		(end -8.25 -2.6)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a1a7b74a-f631-4d10-9717-ffd04a1e63df")
+	)
+	(fp_line
+		(start 8.25 -2.6)
+		(end 8.25 2.6)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e7956168-8d4b-4d38-901f-891f7d199c02")
+	)
+	(fp_line
+		(start 8.25 2.6)
+		(end -8.25 2.6)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0f723053-7ef2-456c-9172-5e0e7307f0ef")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.382 0.112 0)
+		(layer "F.Fab")
+		(uuid "77d3b20b-8298-4651-9f6d-31a5194895bf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -3.75 0)
+		(size 1.4 1.4)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1b667572-7a16-48b6-b963-b12ec3c22e21")
+	)
+	(pad "2" thru_hole circle
+		(at 3.75 0)
+		(size 1.4 1.4)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ca22edc3-5e12-40b0-9d7d-913992b51142")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/MOV-14D431K/3D/MOV-14D431K.stp"
+		(offset
+			(xyz 0.02999999888 -1.840000006 12.60000019)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 0 0)
+		)
+	)
+)

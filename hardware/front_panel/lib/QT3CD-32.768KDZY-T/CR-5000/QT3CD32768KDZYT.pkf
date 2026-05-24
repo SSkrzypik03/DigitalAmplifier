@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "QT3CD32768KDZYT"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "QT3CD32768KDZYT")
+        (spec "default")
+    )
+)

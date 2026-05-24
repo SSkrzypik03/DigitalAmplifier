@@ -3251,7 +3251,7 @@
 	)
 	(text "IN [-1.5,1.5V] SE\nOUT [0,3.3V] Vcm: 1.65V"
 		(exclude_from_sim no)
-		(at 181.102 66.548 0)
+		(at 181.61 66.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3270,16 +3270,6 @@
 			(justify left)
 		)
 		(uuid "899f6e17-fdb8-4696-9612-930658c72ee2")
-	)
-	(text "AVDD 10u????"
-		(exclude_from_sim no)
-		(at 51.562 206.756 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "bab0b67c-656f-4128-a060-b05abb44af35")
 	)
 	(text "AUDIO CODEC"
 		(exclude_from_sim no)
@@ -3354,7 +3344,7 @@
 		(uuid "1bf45660-d6e8-4fbd-a0b0-73d8618a989f")
 	)
 	(junction
-		(at 149.86 97.155)
+		(at 149.86 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1cedc1cb-36c5-4b62-9a13-33310054acfc")
@@ -3426,7 +3416,7 @@
 		(uuid "3b6c076e-27af-4a42-97eb-268f77580b30")
 	)
 	(junction
-		(at 114.3 99.695)
+		(at 114.3 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3c93bdef-4584-4358-8459-b9728e93c85c")
@@ -3492,7 +3482,7 @@
 		(uuid "5cf8b911-b166-4190-ac33-c68e0ef306d5")
 	)
 	(junction
-		(at 104.14 73.025)
+		(at 104.14 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "60a17b57-4755-4a06-86ea-ac98b4b65ccf")
@@ -3552,7 +3542,7 @@
 		(uuid "78e4191c-72b2-429e-a9d5-7fcd7578f28a")
 	)
 	(junction
-		(at 148.59 97.155)
+		(at 148.59 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7b627e5c-4449-4f42-b4be-39ed7b2f44d7")
@@ -3618,7 +3608,7 @@
 		(uuid "9423c4d1-459d-4748-b97d-6d5573e5a96c")
 	)
 	(junction
-		(at 104.14 99.695)
+		(at 104.14 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95acca0d-1007-4e69-9a15-66d6fdeda952")
@@ -3732,7 +3722,7 @@
 		(uuid "c34fddfc-5626-4ffd-8baf-1472a137a7ce")
 	)
 	(junction
-		(at 130.81 90.805)
+		(at 130.81 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c7869478-5cae-45d3-a6d4-18752d314c6d")
@@ -3798,7 +3788,7 @@
 		(uuid "e4b3af2a-458b-4ff7-be01-415667e45046")
 	)
 	(junction
-		(at 125.73 99.695)
+		(at 125.73 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e65c41c9-be85-4d17-84cf-a1ac5715baa8")
@@ -3864,13 +3854,13 @@
 		(uuid "f7b8488e-3a46-4b6a-8a26-9cc8e65f50bd")
 	)
 	(junction
-		(at 161.29 75.565)
+		(at 161.29 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f847708c-3d34-43c8-b689-8727cf1b04bd")
 	)
 	(junction
-		(at 142.24 85.725)
+		(at 142.24 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f895a260-2821-484b-a594-93f0ddc12e8a")
@@ -3973,7 +3963,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 85.725) (xy 142.24 85.725)
+			(xy 139.7 86.36) (xy 142.24 86.36)
 		)
 		(stroke
 			(width 0)
@@ -4103,7 +4093,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 90.805) (xy 125.73 89.535)
+			(xy 125.73 91.44) (xy 125.73 90.17)
 		)
 		(stroke
 			(width 0)
@@ -4233,7 +4223,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 73.025) (xy 104.14 90.805)
+			(xy 104.14 73.66) (xy 104.14 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4443,7 +4433,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 97.155) (xy 148.59 90.805)
+			(xy 148.59 97.79) (xy 148.59 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4503,7 +4493,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 99.695) (xy 104.14 99.695)
+			(xy 100.33 100.33) (xy 104.14 100.33)
 		)
 		(stroke
 			(width 0)
@@ -4543,7 +4533,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 99.695) (xy 132.08 99.695)
+			(xy 125.73 100.33) (xy 132.08 100.33)
 		)
 		(stroke
 			(width 0)
@@ -4583,7 +4573,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 85.725) (xy 161.29 75.565)
+			(xy 161.29 86.36) (xy 161.29 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4633,7 +4623,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 99.695) (xy 125.73 98.425)
+			(xy 125.73 100.33) (xy 125.73 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4713,7 +4703,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 99.695) (xy 104.14 99.695)
+			(xy 105.41 100.33) (xy 104.14 100.33)
 		)
 		(stroke
 			(width 0)
@@ -4813,7 +4803,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 85.725) (xy 130.81 85.725)
+			(xy 132.08 86.36) (xy 130.81 86.36)
 		)
 		(stroke
 			(width 0)
@@ -4873,7 +4863,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 97.155) (xy 163.83 97.155)
+			(xy 149.86 97.79) (xy 163.83 97.79)
 		)
 		(stroke
 			(width 0)
@@ -5013,7 +5003,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 97.155) (xy 149.86 97.155)
+			(xy 148.59 97.79) (xy 149.86 97.79)
 		)
 		(stroke
 			(width 0)
@@ -5033,7 +5023,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 75.565) (xy 161.29 75.565)
+			(xy 160.02 76.2) (xy 161.29 76.2)
 		)
 		(stroke
 			(width 0)
@@ -5063,7 +5053,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 90.805) (xy 130.81 94.615)
+			(xy 130.81 91.44) (xy 130.81 95.25)
 		)
 		(stroke
 			(width 0)
@@ -5373,7 +5363,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 97.155) (xy 148.59 97.155)
+			(xy 147.32 97.79) (xy 148.59 97.79)
 		)
 		(stroke
 			(width 0)
@@ -5383,7 +5373,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 99.695) (xy 114.3 99.695)
+			(xy 113.03 100.33) (xy 114.3 100.33)
 		)
 		(stroke
 			(width 0)
@@ -5553,7 +5543,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 85.725) (xy 146.05 85.725)
+			(xy 142.24 86.36) (xy 146.05 86.36)
 		)
 		(stroke
 			(width 0)
@@ -5793,7 +5783,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 97.155) (xy 180.34 97.155)
+			(xy 171.45 97.79) (xy 180.34 97.79)
 		)
 		(stroke
 			(width 0)
@@ -5823,7 +5813,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 90.805) (xy 130.81 85.725)
+			(xy 130.81 91.44) (xy 130.81 86.36)
 		)
 		(stroke
 			(width 0)
@@ -5833,7 +5823,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 78.105) (xy 144.78 78.105)
+			(xy 142.24 78.74) (xy 144.78 78.74)
 		)
 		(stroke
 			(width 0)
@@ -5903,7 +5893,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 85.725) (xy 161.29 85.725)
+			(xy 153.67 86.36) (xy 161.29 86.36)
 		)
 		(stroke
 			(width 0)
@@ -5963,7 +5953,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 85.725) (xy 142.24 78.105)
+			(xy 142.24 86.36) (xy 142.24 78.74)
 		)
 		(stroke
 			(width 0)
@@ -6003,7 +5993,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 99.695) (xy 91.44 99.695)
+			(xy 92.71 100.33) (xy 91.44 100.33)
 		)
 		(stroke
 			(width 0)
@@ -6033,7 +6023,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 63.5) (xy 104.14 73.025)
+			(xy 104.14 63.5) (xy 104.14 73.66)
 		)
 		(stroke
 			(width 0)
@@ -6043,7 +6033,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 99.695) (xy 115.57 99.695)
+			(xy 114.3 100.33) (xy 115.57 100.33)
 		)
 		(stroke
 			(width 0)
@@ -6053,7 +6043,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 99.695) (xy 125.73 99.695)
+			(xy 123.19 100.33) (xy 125.73 100.33)
 		)
 		(stroke
 			(width 0)
@@ -6063,7 +6053,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 98.425) (xy 104.14 99.695)
+			(xy 104.14 99.06) (xy 104.14 100.33)
 		)
 		(stroke
 			(width 0)
@@ -6383,7 +6373,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 109.855) (xy 149.86 97.155)
+			(xy 149.86 110.49) (xy 149.86 97.79)
 		)
 		(stroke
 			(width 0)
@@ -6513,7 +6503,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 94.615) (xy 132.08 94.615)
+			(xy 130.81 95.25) (xy 132.08 95.25)
 		)
 		(stroke
 			(width 0)
@@ -6943,7 +6933,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 73.025) (xy 144.78 73.025)
+			(xy 104.14 73.66) (xy 144.78 73.66)
 		)
 		(stroke
 			(width 0)
@@ -7393,7 +7383,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 109.855) (xy 133.35 109.855)
+			(xy 114.3 110.49) (xy 133.35 110.49)
 		)
 		(stroke
 			(width 0)
@@ -7423,7 +7413,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 75.565) (xy 180.34 75.565)
+			(xy 172.72 76.2) (xy 180.34 76.2)
 		)
 		(stroke
 			(width 0)
@@ -7643,7 +7633,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 75.565) (xy 165.1 75.565)
+			(xy 161.29 76.2) (xy 165.1 76.2)
 		)
 		(stroke
 			(width 0)
@@ -7683,7 +7673,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 90.805) (xy 130.81 90.805)
+			(xy 148.59 91.44) (xy 130.81 91.44)
 		)
 		(stroke
 			(width 0)
@@ -7753,7 +7743,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 109.855) (xy 149.86 109.855)
+			(xy 140.97 110.49) (xy 149.86 110.49)
 		)
 		(stroke
 			(width 0)
@@ -7883,7 +7873,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 109.855) (xy 114.3 99.695)
+			(xy 114.3 110.49) (xy 114.3 100.33)
 		)
 		(stroke
 			(width 0)
@@ -8032,7 +8022,7 @@
 		(uuid "2cb6b42f-e2e5-4e67-b308-d88d89f7e793")
 	)
 	(label "IN_RN"
-		(at 180.34 75.565 180)
+		(at 180.34 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8222,7 +8212,7 @@
 		(uuid "d85357ef-1aab-4eb2-a452-f69a3165f54a")
 	)
 	(label "IN_RP"
-		(at 180.34 97.155 180)
+		(at 180.34 97.79 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8285,7 +8275,7 @@
 	)
 	(hierarchical_label "RCA_IN_R"
 		(shape input)
-		(at 91.44 99.695 180)
+		(at 91.44 100.33 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8450,7 +8440,7 @@
 		(dnp no)
 		(uuid "0100b846-2703-4caa-b869-b9e1fdbbf7d3")
 		(property "Reference" "U12"
-			(at 126.746 132.842 0)
+			(at 125.984 133.604 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8460,7 +8450,7 @@
 			)
 		)
 		(property "Value" "OPA2365AID"
-			(at 125.73 134.62 0)
+			(at 129.54 135.382 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8622,7 +8612,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 168.91 75.565 90)
+		(at 168.91 76.2 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8632,7 +8622,7 @@
 		(dnp no)
 		(uuid "023a2584-3d4b-4407-8040-3fc4763a32a5")
 		(property "Reference" "C51"
-			(at 171.45 72.263 90)
+			(at 171.45 72.898 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8643,7 +8633,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 170.942 79.121 90)
+			(at 170.942 79.756 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8654,7 +8644,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 172.72 74.5998 0)
+			(at 172.72 75.2348 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8665,7 +8655,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 75.565 0)
+			(at 168.91 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8676,7 +8666,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 168.91 75.565 0)
+			(at 168.91 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9028,10 +9018,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0a43fb1c-470e-4923-9dd1-608479292e28")
 		(property "Reference" "U5"
-			(at 215.9 102.87 0)
+			(at 218.186 107.442 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9040,8 +9029,8 @@
 				)
 			)
 		)
-		(property "Value" "Opamp_Quad"
-			(at 215.9 105.41 0)
+		(property "Value" "AD8694"
+			(at 219.71 109.474 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9980,7 +9969,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 125.73 89.535 0)
+		(at 125.73 90.17 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -9991,7 +9980,7 @@
 		(dnp no)
 		(uuid "19200b93-aaea-400d-b3c5-78765fdff68d")
 		(property "Reference" "#PWR078"
-			(at 125.73 83.185 0)
+			(at 125.73 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10002,7 +9991,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 125.73 85.979 0)
+			(at 125.73 86.614 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10012,7 +10001,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 89.535 0)
+			(at 125.73 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10023,7 +10012,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 89.535 0)
+			(at 125.73 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10034,7 +10023,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 125.73 89.535 0)
+			(at 125.73 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11330,7 +11319,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 104.14 94.615 0)
+		(at 104.14 95.25 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -11341,7 +11330,7 @@
 		(dnp no)
 		(uuid "33117f40-dd6a-4c82-96e6-82b859e94b1a")
 		(property "Reference" "R28"
-			(at 109.22 93.599 0)
+			(at 109.22 94.234 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11352,7 +11341,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 108.966 91.821 0)
+			(at 108.966 92.456 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11363,7 +11352,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.918 94.615 90)
+			(at 105.918 95.25 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11374,7 +11363,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 94.615 0)
+			(at 104.14 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11385,7 +11374,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 104.14 94.615 0)
+			(at 104.14 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11744,7 +11733,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "1u"
 			(at 40.64 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11894,10 +11883,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3c3b535b-9262-4bbb-a708-c72f99e2af13")
 		(property "Reference" "U10"
-			(at 270.51 120.6499 0)
+			(at 266.446 132.334 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11907,8 +11895,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Opamp_Quad"
-			(at 270.51 123.1899 0)
+		(property "Value" "AD8694"
+			(at 266.446 133.858 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12217,7 +12205,7 @@
 		(dnp no)
 		(uuid "4010d994-020f-4638-b264-2e4f460cfc05")
 		(property "Reference" "U10"
-			(at 153.924 59.944 0)
+			(at 156.21 55.626 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12226,7 +12214,7 @@
 				)
 			)
 		)
-		(property "Value" "Opamp_Quad"
+		(property "Value" "AD8694"
 			(at 157.226 57.404 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14787,10 +14775,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6bc5a8a9-22c1-479f-bec9-dfc57a07d20c")
 		(property "Reference" "U10"
-			(at 139.7 20.32 0)
+			(at 141.478 24.638 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14799,8 +14786,8 @@
 				)
 			)
 		)
-		(property "Value" "Opamp_Quad"
-			(at 139.7 22.86 0)
+		(property "Value" "AD8694"
+			(at 142.748 26.416 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15182,7 +15169,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 149.86 85.725 90)
+		(at 149.86 86.36 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -15193,7 +15180,7 @@
 		(dnp no)
 		(uuid "74a5df95-4bde-4441-89e9-3ffc0ec0f100")
 		(property "Reference" "R114"
-			(at 151.638 87.757 90)
+			(at 151.638 88.392 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15204,7 +15191,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 151.6878 83.6969 90)
+			(at 151.6878 84.3319 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15215,7 +15202,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 149.86 83.947 90)
+			(at 149.86 84.582 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15226,7 +15213,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 85.725 0)
+			(at 149.86 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15237,7 +15224,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 149.86 85.725 0)
+			(at 149.86 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15831,7 +15818,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "100n"
 			(at 34.29 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16223,7 +16210,7 @@
 		(dnp no)
 		(uuid "8b70846c-7f0f-413d-bcaf-288b917a871a")
 		(property "Reference" "U5"
-			(at 215.9 92.71 0)
+			(at 217.932 87.122 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16232,8 +16219,8 @@
 				)
 			)
 		)
-		(property "Value" "Opamp_Quad"
-			(at 215.9 90.17 0)
+		(property "Value" "AD8694"
+			(at 219.456 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16372,7 +16359,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 135.89 85.725 90)
+		(at 135.89 86.36 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -16383,7 +16370,7 @@
 		(dnp no)
 		(uuid "8bbd3674-3841-43ba-8ee9-e2042b261eb2")
 		(property "Reference" "R113"
-			(at 137.668 87.757 90)
+			(at 137.668 88.392 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16394,7 +16381,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 137.7178 83.6969 90)
+			(at 137.7178 84.3319 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16405,7 +16392,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 135.89 83.947 90)
+			(at 135.89 84.582 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16416,7 +16403,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 85.725 0)
+			(at 135.89 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16427,7 +16414,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 135.89 85.725 0)
+			(at 135.89 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16462,10 +16449,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8c0947c9-e02e-42a2-9ac5-bcb8b8118c44")
 		(property "Reference" "U5"
-			(at 215.9 45.72 0)
+			(at 216.662 49.276 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16474,8 +16460,8 @@
 				)
 			)
 		)
-		(property "Value" "Opamp_Quad"
-			(at 215.9 48.26 0)
+		(property "Value" "AD8694"
+			(at 218.44 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16614,7 +16600,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 167.64 97.155 90)
+		(at 167.64 97.79 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16624,7 +16610,7 @@
 		(dnp no)
 		(uuid "8ee71808-a7d3-4d7d-9045-7de84813b36f")
 		(property "Reference" "C50"
-			(at 170.18 93.853 90)
+			(at 170.18 94.488 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16635,7 +16621,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 169.672 100.711 90)
+			(at 169.672 101.346 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16646,7 +16632,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 171.45 96.1898 0)
+			(at 171.45 96.8248 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16657,7 +16643,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 97.155 0)
+			(at 167.64 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16668,7 +16654,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 167.64 97.155 0)
+			(at 167.64 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17024,10 +17010,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "96aeb50c-3d21-45a8-a07f-1cade643d4f4")
 		(property "Reference" "U5"
-			(at 270.51 87.6299 0)
+			(at 267.716 99.314 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17037,8 +17022,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Opamp_Quad"
-			(at 270.51 90.1699 0)
+		(property "Value" "AD8694"
+			(at 267.716 101.092 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17980,7 +17965,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 125.73 94.615 0)
+		(at 125.73 95.25 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -17991,7 +17976,7 @@
 		(dnp no)
 		(uuid "a4816165-3e6e-4883-b4f6-9c4ecf16187e")
 		(property "Reference" "C47"
-			(at 125.73 96.901 0)
+			(at 125.73 97.536 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18002,7 +17987,7 @@
 			)
 		)
 		(property "Value" "1n"
-			(at 126.238 92.329 0)
+			(at 126.238 92.964 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18013,7 +17998,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 126.6952 90.805 0)
+			(at 126.6952 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18024,7 +18009,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 94.615 0)
+			(at 125.73 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18035,7 +18020,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 125.73 94.615 0)
+			(at 125.73 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18224,7 +18209,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 137.16 109.855 90)
+		(at 137.16 110.49 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -18235,7 +18220,7 @@
 		(dnp no)
 		(uuid "aa2019a8-8c71-4b73-9871-ca6293b772f6")
 		(property "Reference" "C48"
-			(at 139.192 113.157 90)
+			(at 139.192 113.792 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18246,7 +18231,7 @@
 			)
 		)
 		(property "Value" "2.05n"
-			(at 139.954 106.299 90)
+			(at 139.954 106.934 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18257,7 +18242,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 140.97 110.8202 0)
+			(at 140.97 111.4552 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18268,7 +18253,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 109.855 0)
+			(at 137.16 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18279,7 +18264,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 137.16 109.855 0)
+			(at 137.16 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18528,7 +18513,7 @@
 	)
 	(symbol
 		(lib_id "Device:Opamp_Quad")
-		(at 139.7 97.155 0)
+		(at 139.7 97.79 0)
 		(mirror x)
 		(unit 4)
 		(body_style 1)
@@ -18540,7 +18525,7 @@
 		(fields_autoplaced yes)
 		(uuid "aa65e826-269e-4eef-8724-e9b2b580129f")
 		(property "Reference" "U10"
-			(at 139.7 107.315 0)
+			(at 139.7 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18549,8 +18534,8 @@
 				)
 			)
 		)
-		(property "Value" "Opamp_Quad"
-			(at 139.7 104.775 0)
+		(property "Value" "AD8694"
+			(at 139.7 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18560,7 +18545,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
-			(at 139.7 97.155 0)
+			(at 139.7 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18571,7 +18556,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 97.155 0)
+			(at 139.7 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18582,7 +18567,7 @@
 			)
 		)
 		(property "Description" "Quad operational amplifier"
-			(at 139.7 97.155 0)
+			(at 139.7 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18593,7 +18578,7 @@
 			)
 		)
 		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
-			(at 139.7 97.155 0)
+			(at 139.7 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18604,7 +18589,7 @@
 			)
 		)
 		(property "Sim.Name" "kicad_builtin_opamp_quad"
-			(at 139.7 97.155 0)
+			(at 139.7 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18615,7 +18600,7 @@
 			)
 		)
 		(property "Sim.Device" "SUBCKT"
-			(at 139.7 97.155 0)
+			(at 139.7 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18626,7 +18611,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=out1 2=in1- 3=in1+ 4=vcc 5=in2+ 6=in2- 7=out2 8=out3 9=in3- 10=in3+ 11=vee 12=in4+ 13=in4- 14=out4"
-			(at 139.7 97.155 0)
+			(at 139.7 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19265,7 +19250,7 @@
 		(dnp no)
 		(uuid "b02166a1-6a92-4cb3-96f5-b1c0fd0aa302")
 		(property "Reference" "U5"
-			(at 215.9 35.56 0)
+			(at 217.678 28.956 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19274,8 +19259,8 @@
 				)
 			)
 		)
-		(property "Value" "Opamp_Quad"
-			(at 215.9 33.02 0)
+		(property "Value" "AD8694"
+			(at 219.202 30.734 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20058,7 +20043,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 109.22 99.695 90)
+		(at 109.22 100.33 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -20069,7 +20054,7 @@
 		(dnp no)
 		(uuid "bdef7c9f-149d-48f4-82ab-a9c2020196f2")
 		(property "Reference" "R29"
-			(at 110.998 101.727 90)
+			(at 110.998 102.362 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20080,7 +20065,7 @@
 			)
 		)
 		(property "Value" "1.18k"
-			(at 111.76 97.409 90)
+			(at 111.76 98.044 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20091,7 +20076,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 109.22 97.917 90)
+			(at 109.22 98.552 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20102,7 +20087,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 99.695 0)
+			(at 109.22 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20113,7 +20098,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 109.22 99.695 0)
+			(at 109.22 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21128,7 +21113,7 @@
 	)
 	(symbol
 		(lib_id "Device:Opamp_Quad")
-		(at 152.4 75.565 0)
+		(at 152.4 76.2 0)
 		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21138,7 +21123,7 @@
 		(dnp no)
 		(uuid "dbe83214-6a15-45e4-9c5f-8d97e3267b2a")
 		(property "Reference" "U10"
-			(at 153.162 68.58 0)
+			(at 155.702 70.739 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21147,8 +21132,8 @@
 				)
 			)
 		)
-		(property "Value" "Opamp_Quad"
-			(at 156.972 70.866 0)
+		(property "Value" "AD8694"
+			(at 156.718 72.644 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21158,7 +21143,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
-			(at 152.4 75.565 0)
+			(at 152.4 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21169,7 +21154,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 75.565 0)
+			(at 152.4 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21180,7 +21165,7 @@
 			)
 		)
 		(property "Description" "Quad operational amplifier"
-			(at 152.4 75.565 0)
+			(at 152.4 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21191,7 +21176,7 @@
 			)
 		)
 		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
-			(at 152.4 75.565 0)
+			(at 152.4 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21202,7 +21187,7 @@
 			)
 		)
 		(property "Sim.Name" "kicad_builtin_opamp_quad"
-			(at 152.4 75.565 0)
+			(at 152.4 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21213,7 +21198,7 @@
 			)
 		)
 		(property "Sim.Device" "SUBCKT"
-			(at 152.4 75.565 0)
+			(at 152.4 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21224,7 +21209,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=out1 2=in1- 3=in1+ 4=vcc 5=in2+ 6=in2- 7=out2 8=out3 9=in3- 10=in3+ 11=vee 12=in4+ 13=in4- 14=out4"
-			(at 152.4 75.565 0)
+			(at 152.4 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21449,7 +21434,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 119.38 99.695 90)
+		(at 119.38 100.33 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -21460,7 +21445,7 @@
 		(dnp no)
 		(uuid "df9f47f7-d920-4c74-8731-b9af86ad0e19")
 		(property "Reference" "R30"
-			(at 121.158 101.727 90)
+			(at 121.158 102.362 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21471,7 +21456,7 @@
 			)
 		)
 		(property "Value" "1.65k"
-			(at 121.412 97.409 90)
+			(at 121.412 98.044 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21482,7 +21467,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 119.38 97.917 90)
+			(at 119.38 98.552 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21493,7 +21478,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 99.695 0)
+			(at 119.38 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21504,7 +21489,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 119.38 99.695 0)
+			(at 119.38 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21781,7 +21766,7 @@
 		(dnp no)
 		(uuid "e707eb3b-728e-4c6d-aaca-8dfd68257212")
 		(property "Reference" "U12"
-			(at 126.238 165.862 0)
+			(at 125.476 167.386 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21791,7 +21776,7 @@
 			)
 		)
 		(property "Value" "OPA2365AID"
-			(at 124.968 167.64 0)
+			(at 128.778 169.418 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22206,7 +22191,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 96.52 99.695 90)
+		(at 96.52 100.33 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -22217,7 +22202,7 @@
 		(dnp no)
 		(uuid "f55dd886-0a2e-486d-a5b2-624118f72d7f")
 		(property "Reference" "C33"
-			(at 98.552 102.997 90)
+			(at 98.552 103.632 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22228,7 +22213,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 98.298 95.885 90)
+			(at 98.298 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22239,7 +22224,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 100.33 100.6602 0)
+			(at 100.33 101.2952 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22250,7 +22235,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 99.695 0)
+			(at 96.52 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22261,7 +22246,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 96.52 99.695 0)
+			(at 96.52 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

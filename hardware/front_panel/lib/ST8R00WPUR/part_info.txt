@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ST8R00WPUR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=2.1
+Released=2019-11-21 07:05:30
+Downloaded=2026-01-17 17:04:02
+3D=Y

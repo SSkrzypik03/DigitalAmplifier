@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VSOP38338'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "VSOP38338" (!) = "", "SON50P200X200X81-9N-D", "Small Outline No-lead", "782-VSOP38338", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VSOP38338?qs=lNOV0pHJI3hgEVpw1emspw%3D%3D", "Vishay VSOP38338, 38kHz IR Receiver, 2.5V - 5V, SMT, 2 x 2 x 0.76mm", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA1/137501.pdf", "0.81 mm"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '52746_1671'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "52746-1671" (!) = "", "527461671", "Other", "538-52746-1671", "https://www.mouser.co.uk/ProductDetail/Molex/52746-1671?qs=nDwhpid8gJYEmQ9M1KrTnw%3D%3D", "Easy-On FFC/FPC Connector, 0.50mm Pitch, Slider Series, Right-Angle, Bottom Contact, 2.00mm Height,  Circuits, Gold Plating", "https://www.molex.com/pdm_docs/sd/527460671_sd.pdf", "2.2 mm"
+END_PART
+
+END.

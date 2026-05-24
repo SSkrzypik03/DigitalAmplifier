@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_20008886"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-10-10-11:50:18)
+    (utime 2024-10-14-11:26:49)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "QT3CD-32_768KDZY-T")
+)
+
+
+(pinAssign "ECS_20008886"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-10-10-11:50:18)
+    (utime 2024-10-14-11:26:49)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_20008886")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "QT3CD-32_768KDZY-T")
+)
+
+
+(part "QT3CD-32_768KDZY-T"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-10-10-11:50:18)
+    (utime 2024-10-14-11:26:49)
+    (packageRef "QT3CD-32_768KDZY-T")
+    (pinAssignRef "ECS_20008886")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Y")
+    (property "description" "Resonator: quartz; 32.768kHz; +/-20ppm; 7pF; SMD; 3.2x1.5x0.9mm")
+    (property "TME_Electronic_Components_Part_Number" "")
+    (property "TME_Electronic_Components_Price/Stock" "")
+    (property "Manufacturer_Name" "QST")
+    (property "Manufacturer_Part_Number" "QT3CD-32.768KDZY-T")
+    (property "Datasheet_Link" "")
+    (property "compAreaTopHeight" 0.9)
+)
+
+
