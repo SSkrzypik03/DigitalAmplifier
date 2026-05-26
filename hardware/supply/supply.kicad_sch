@@ -37,7 +37,7 @@
 					(justify right)
 				)
 			)
-			(property "Footprint" "supply:2125201004"
+			(property "Footprint" "supply:43045-04YY_121314"
 				(at -2.54 -8.89 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -244,7 +244,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -5.08 0)
+					(at -5.08 0 0)
 					(length 3.81)
 					(name "Pin_2"
 						(effects
@@ -262,7 +262,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 0 0)
+					(at -5.08 -5.08 0)
 					(length 3.81)
 					(name "Pin_3"
 						(effects
@@ -4572,6 +4572,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 59.69) (xy 78.74 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24b08343-17fa-406c-814c-73152d188eeb")
+	)
+	(wire
+		(pts
 			(xy 53.34 129.54) (xy 53.34 130.81)
 		)
 		(stroke
@@ -4819,6 +4829,16 @@
 			(type default)
 		)
 		(uuid "5c8b95ff-b1d1-42c1-b73b-9e17cf858c49")
+	)
+	(wire
+		(pts
+			(xy 77.47 57.15) (xy 78.74 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f1755ef-a904-4639-8b9c-9159d797e049")
 	)
 	(wire
 		(pts
@@ -5102,16 +5122,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 59.69) (xy 78.74 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "925c16d8-1e18-476d-85bf-7c04b5993cbd")
-	)
-	(wire
-		(pts
 			(xy 101.6 60.96) (xy 102.87 60.96)
 		)
 		(stroke
@@ -5312,16 +5322,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 64.77) (xy 77.47 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bba5219b-422c-4879-a47c-f7c1fe9e9aca")
-	)
-	(wire
-		(pts
 			(xy 161.29 101.6) (xy 161.29 102.87)
 		)
 		(stroke
@@ -5362,7 +5362,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 62.23) (xy 78.74 62.23)
+			(xy 77.47 64.77) (xy 78.74 64.77)
 		)
 		(stroke
 			(width 0)
@@ -5502,7 +5502,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 57.15) (xy 78.74 57.15)
+			(xy 77.47 59.69) (xy 78.74 59.69)
 		)
 		(stroke
 			(width 0)
@@ -5542,7 +5542,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 59.69) (xy 78.74 59.69)
+			(xy 77.47 62.23) (xy 78.74 62.23)
 		)
 		(stroke
 			(width 0)
@@ -8571,7 +8571,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "supply:2125201004"
+		(property "Footprint" "supply:43045-04YY_121314"
 			(at 227.33 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -9496,8 +9496,7 @@
 	(symbol
 		(lib_name "Conn_01x04_1")
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 72.39 59.69 0)
-		(mirror y)
+		(at 72.39 62.23 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9507,7 +9506,7 @@
 		(dnp no)
 		(uuid "b2054855-c6cd-49d4-a533-7d82651806c1")
 		(property "Reference" "J2"
-			(at 73.152 53.086 0)
+			(at 73.152 68.834 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9518,7 +9517,7 @@
 			)
 		)
 		(property "Value" "Screw"
-			(at 71.12 54.864 0)
+			(at 71.12 67.056 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9528,8 +9527,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "supply:2125201004"
-			(at 74.93 68.58 0)
+		(property "Footprint" "supply:43045-04YY_121314"
+			(at 74.93 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9540,7 +9539,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 59.69 0)
+			(at 72.39 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9551,7 +9550,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 74.93 68.58 0)
+			(at 74.93 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9562,7 +9561,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 72.39 59.69 0)
+			(at 72.39 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9573,7 +9572,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 72.39 59.69 0)
+			(at 72.39 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9584,7 +9583,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 72.39 59.69 0)
+			(at 72.39 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9595,7 +9594,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 72.39 59.69 0)
+			(at 72.39 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9606,7 +9605,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 72.39 59.69 0)
+			(at 72.39 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9617,7 +9616,7 @@
 			)
 		)
 		(property "TME Electronic Components Part Number" ""
-			(at 72.39 59.69 0)
+			(at 72.39 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9628,7 +9627,7 @@
 			)
 		)
 		(property "TME Electronic Components Price/Stock" ""
-			(at 72.39 59.69 0)
+			(at 72.39 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
