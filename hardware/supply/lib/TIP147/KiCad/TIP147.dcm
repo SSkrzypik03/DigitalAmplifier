@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TIP147
+D TIP147, Darlington Transistor, PNP 20 A 100 V HFE:500, 3-Pin, TO-247
+K
+F https://www.st.com/resource/en/datasheet/tip142.pdf
+$ENDCMP
+#
+#End Doc Library

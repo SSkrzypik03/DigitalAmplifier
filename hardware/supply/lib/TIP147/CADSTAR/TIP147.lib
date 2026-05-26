@@ -1,0 +1,16 @@
+.TIP147 :1 ;TIP147, Darlington Transistor, PNP 20 A 100 V HFE:500, 3-Pin, TO-247
+TO545P515X1560X2445-3P
+*STM Q
+*NGS
+*PLB 1="B" 2="C" 3="E"
+*MXP 3
+*DFN TIP147
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (TIP147)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/tip142.pdf)
+~!Height (5.15mm)
+~!3D_Model (TIP147)
+TIP147
+1.1!U 2.1!U 3.1!U 

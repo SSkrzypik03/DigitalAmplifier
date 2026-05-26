@@ -1,0 +1,172 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TIP147"
+   (description "TIP147, Darlington Transistor, PNP 20 A 100 V HFE:500, 3-Pin, TO-247")
+   (family "TRX")
+   (package "TO545P515X1560X2445-3P")
+   (attribute "Datasheet Link" "https://www.st.com/resource/en/datasheet/tip142.pdf")
+   (attribute "Geometry.Height" "5.15mm")
+   (attribute "TME Electronic Components Part Number" "")
+   (attribute "TME Electronic Components Price/Stock" "")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "TIP147")
+   (gate
+    (symbol "TIP147")
+    (pin "B" 1 PS)
+    (pin "E" 3 PS)
+    (pin "C" 2 PS)
+   )
+  )
+  (symbol "TIP147"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 15)
+    (circle (pt 460 0) (pt 440 0))
+   )
+   (graphic
+    (stroke 15)
+    (circle (pt 660 -400) (pt 640 -400))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 700 300) (pt 700 -500) (pt 100 -500) (pt 100 300) (pt 700 300) (closed))
+   )
+   (graphic
+    (stroke 20)
+    (path (pt 550 80) (pt 550 -70))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 550 30) (pt 650 130))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 550 -20) (pt 650 -120))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 150 -40) (pt 150 40) (pt 350 40) (pt 350 -40) (pt 150 -40) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 490 -300) (pt 410 -300) (pt 410 -100) (pt 490 -100) (pt 490 -300) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 450 -100) (pt 450 0) (pt 350 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 450 0) (pt 550 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 650 130) (pt 650 200) (pt 700 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 650 -120) (pt 650 -400))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 450 -300) (pt 450 -400) (pt 700 -400))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 150 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 630 -80) (pt 610 -100) (pt 590 -60) (pt 630 -80))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 80 -20) (rot 0) (just TOP RIGHT) (visible false))
+    (number (pt 80 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 800 -400) (rot 0) (mir X) (visible true))
+    (name (pt 80 -20) (rot 0) (just TOP RIGHT) (visible false))
+    (number (pt 80 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 800 200) (rot 0) (mir X) (visible true))
+    (name (pt 80 -20) (rot 0) (just TOP RIGHT) (visible false))
+    (number (pt 80 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TO545P515X1560X2445-3P"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.675 3.25)
+      (pt 13.575 3.25)
+      (pt 13.575 -2.4)
+      (pt -2.675 -2.4)
+      (pt -2.675 3.25))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.425 3)
+      (pt 13.325 3)
+      (pt 13.325 -2.15)
+      (pt -2.425 -2.15)
+      (pt -2.425 3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2.425 0.275)
+      (pt 0.3 3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 13.325 -2.15)
+      (pt 13.325 3)
+      (pt -2.425 3)
+      (pt -2.425 0))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 5.45 0) (padstack 0))
+   (leg 3 (pt 10.9 0) (padstack 0))
+   (padstack 0
+    (hole 1.81)
+    (plated true)
+    (pad (layer TCOP) (round 2.715))
+    (pad (layer INNER) (round 2.715))
+    (pad (layer BCOP) (round 2.715))
+   )
+   (padstack 1
+    (hole 1.81)
+    (plated true)
+    (pad (layer TCOP) (square 2.715))
+    (pad (layer INNER) (round 2.715))
+    (pad (layer BCOP) (square 2.715))
+   )
+   (model "TIP147.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)
