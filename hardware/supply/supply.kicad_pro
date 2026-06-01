@@ -594,7 +594,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../prod/PCBs/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "supply.step",
@@ -670,13 +670,13 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Manufacturer_Name",
           "name": "Manufacturer_Name",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,

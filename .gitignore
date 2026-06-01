@@ -1,0 +1,5 @@
+*.kicad_prl
+.history_trim/
+
+__pycache__/
+*.pyc

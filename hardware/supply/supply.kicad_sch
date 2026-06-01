@@ -5664,6 +5664,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0603FR-074K7L"
+			(at 147.32 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "75210634-dd64-4320-adec-8c2790b96450")
 		)
@@ -5839,7 +5850,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -6609,6 +6620,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "726386-2"
+			(at 19.05 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a9c5715a-de53-421c-b2b0-dd9735f3ab5e")
 		)
@@ -7098,6 +7120,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0154004.DRT"
+			(at 106.68 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0c27072a-a093-4c89-9896-353400b2e707")
 		)
@@ -7411,6 +7444,17 @@
 			)
 		)
 		(property "TME Electronic Components Price/Stock" ""
+			(at 31.75 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0031.8201"
 			(at 31.75 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -7901,6 +7945,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW06030000Z0EA"
+			(at 19.05 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3dde6159-fcb2-4960-b389-272fbd9b7ce6")
 		)
@@ -8278,6 +8333,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW06030000Z0EA"
+			(at 46.99 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6bcda9a9-c8d7-450d-b965-d902be8cc7dc")
 		)
@@ -8529,6 +8595,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "SK_444 5_SA"
+			(at 92.71 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "supply"
 				(path "/17dc3663-9ca8-462b-a2cd-fc76c304d627"
@@ -8671,6 +8748,17 @@
 			)
 		)
 		(property "TME Electronic Components Price/Stock" ""
+			(at 227.33 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "43045-04YY_121314"
 			(at 227.33 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -8845,6 +8933,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "726386-2"
+			(at 55.88 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2cfb729e-f781-4240-a4da-0aa57132afac")
 		)
@@ -8863,7 +8962,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9227,6 +9326,17 @@
 			)
 		)
 		(property "TME Electronic Components Price/Stock" ""
+			(at 55.88 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "726386-2"
 			(at 55.88 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -9627,6 +9737,17 @@
 			)
 		)
 		(property "TME Electronic Components Price/Stock" ""
+			(at 72.39 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "43045-04YY_121314"
 			(at 72.39 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -10287,6 +10408,17 @@
 			)
 		)
 		(property "TME Electronic Components Price/Stock" ""
+			(at 36.83 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "10D561"
 			(at 36.83 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -11235,6 +11367,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "BC857C"
+			(at 135.89 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "97b84df6-1c35-46f2-a481-82de8d3f29a7")
 		)
@@ -11710,6 +11853,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "726386-2"
+			(at 19.05 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fbffff74-00fc-4512-b48f-06261141139b")
 		)
@@ -11776,6 +11930,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 161.29 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0603FR-074K7L"
 			(at 161.29 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -11942,6 +12107,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW06030000Z0EA"
+			(at 33.02 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "41b5c7d5-ff9c-4652-ba2f-cb2e5c7275f9")
 		)
@@ -12041,7 +12217,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)

@@ -6689,6 +6689,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 179.07 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bd018f58-974a-43d1-9ff6-997e37d568d8")
 		)
@@ -6848,6 +6859,28 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10A105KB8NNNC"
+			(at 113.03 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 113.03 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "140e072e-3e1d-43ca-9f51-f0f63cc411e0")
 		)
@@ -6919,6 +6952,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 152.4 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10C101JB8NNNC"
+			(at 152.4 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 152.4 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -7012,6 +7067,17 @@
 		)
 		(property "Manufacturer_Part_Number" "CR0402-FX-5602GLF"
 			(at 138.684 114.808 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 120.65 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7193,6 +7259,28 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 232.156 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "STPS1L20MF"
+			(at 236.22 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 236.22 31.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7597,6 +7685,28 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "ERA-2ARC2612X"
+			(at 165.1 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 165.1 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ae65f0af-1469-43c8-a13b-d8f8de85e922")
 		)
@@ -7845,6 +7955,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 196.85 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b085e57c-5a8c-409b-bb19-c90da47b2d9f")
 		)
@@ -7927,6 +8048,17 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "293D226X9010A2TE3"
+			(at 35.56 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 35.56 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -8077,6 +8209,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 57.15 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "4"
@@ -8347,6 +8490,28 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "STPS3L60S"
+			(at 120.65 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 120.65 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "04a2f48a-5542-496e-973d-410eb3b5a2a4")
 		)
@@ -8439,6 +8604,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 81.28 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a1b2cc79-382b-47aa-8f51-64c918929fc2")
 		)
@@ -8521,6 +8697,17 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "ECA1JHG220"
+			(at 44.45 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 44.45 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8701,6 +8888,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 72.39 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7edfc06d-5f89-4dcb-8406-06023deb24dc")
 		)
@@ -8845,6 +9043,17 @@
 				(justify left top)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 140.97 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "7"
 			(uuid "4c71975e-e84c-442f-91c5-52153565e50c")
 		)
@@ -8952,6 +9161,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 31.75 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b1bab4bc-3385-4979-98b5-563912b41d85")
 		)
@@ -9024,6 +9244,28 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 110.49 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0603B104K500CT"
+			(at 110.49 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 110.49 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9202,6 +9444,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 143.51 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e7831a64-27c5-4455-83e5-66e2dfd1e584")
 		)
@@ -9361,6 +9614,17 @@
 		)
 		(property "Manufacturer_Part_Number" "0154001.DRT"
 			(at 189.23 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 189.23 26.67 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9684,7 +9948,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" " 744776118"
+		(property "Manufacturer_Part_Number" "744776118"
+			(at 246.38 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 246.38 26.67 90)
 			(hide yes)
 			(show_name no)
@@ -9932,6 +10207,28 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "WR06X2202FTL"
+			(at 72.39 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 72.39 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f1ec5592-530c-429b-b19e-e1b2ee3c5338")
 		)
@@ -10091,6 +10388,17 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "293D226X9010A2TE3"
+			(at 257.81 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 257.81 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -10271,6 +10579,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 129.54 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1d679b2c-ef97-4dfa-b954-28db5bc37413")
 		)
@@ -10411,6 +10730,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 57.15 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "4"
@@ -10669,6 +10999,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 120.65 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ac6a23da-819f-4f2f-8bf9-ddef6183d660")
 		)
@@ -10740,6 +11081,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 173.99 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ3GEYJ114V"
+			(at 173.99 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 173.99 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -10909,6 +11272,28 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10A105KB8NNNC"
+			(at 57.15 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 57.15 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "57225b0b-b0e5-4f3f-9bfe-673ddf92d1ac")
 		)
@@ -10991,6 +11376,17 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "293D226X9010A2TE3"
+			(at 21.59 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 21.59 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -11093,6 +11489,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 233.68 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dcafa7f8-0085-4730-9550-af2f262ee962")
 		)
@@ -11185,6 +11592,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 240.03 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a1119bef-7f61-43cc-be89-1ee22dfec7bd")
 		)
@@ -11266,6 +11684,28 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CC0603JRX7R9BB333"
+			(at 161.29 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 161.29 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0563dca6-2a44-44b3-9751-b3471bc287ae")
 		)
@@ -11337,6 +11777,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 173.99 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ3EKF7871V"
+			(at 173.99 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 173.99 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -11497,6 +11959,28 @@
 		)
 		(property "Description" "Schottky diode"
 			(at 133.35 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BZX384-C56"
+			(at 133.35 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 133.35 31.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11724,6 +12208,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 105.41 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "4"
@@ -12060,6 +12555,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 129.54 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d21ca9c2-7a6f-4461-8417-0d6a3300c874")
 		)
@@ -12297,6 +12803,17 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" " RC0402BR-07220KL"
+			(at 251.46 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 251.46 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -12553,6 +13070,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 120.65 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b38a6656-846f-4ed5-b279-ca19f03be1a4")
 		)
@@ -12635,6 +13163,17 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "ERA2AEB333X"
+			(at 72.39 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 72.39 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -12784,6 +13323,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 73.66 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "10"
@@ -13000,6 +13550,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 72.39 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "898d94e9-1c46-4286-8858-885b9a0ace7c")
 		)
@@ -13071,6 +13632,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 64.77 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10B224KO8NNNC"
+			(at 64.77 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 64.77 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -13240,6 +13823,17 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "ERA2AEB333X"
+			(at 72.39 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 72.39 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -13470,6 +14064,17 @@
 				(justify left top)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 105.41 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "39b62d86-405f-49ef-b721-ba037cee7fa7")
 		)
@@ -13560,7 +14165,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" " RC0402BR-07220KL"
+		(property "Manufacturer_Part_Number" "RC0402BR-07220KL"
+			(at 233.68 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 233.68 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -13663,6 +14279,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 81.28 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "80930c4d-7239-4f80-a7de-038e05341d69")
 		)
@@ -13734,6 +14361,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 165.1 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0603B102K500CT"
+			(at 165.1 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 165.1 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -13837,6 +14486,28 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 163.83 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "STPS3L40S"
+			(at 163.83 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 163.83 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -14008,6 +14679,28 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "L5973D013TR"
+			(at 219.71 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 219.71 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "901ba027-c28b-41fc-9d0e-d21bb41fcf9f")
 		)
@@ -14112,6 +14805,17 @@
 		)
 		(property "Manufacturer_Part_Number" "0154001.DRT"
 			(at 25.4 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 25.4 27.94 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14289,6 +14993,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 27.94 142.24 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d8945979-93a4-44c4-8b4b-065000d6aa67")
 		)
@@ -14448,6 +15163,28 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0603FR-076K8L"
+			(at 161.29 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 161.29 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ccad95a6-e843-45ea-9e55-71880ae059b7")
 		)
@@ -14530,6 +15267,17 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "ERA-2ARC2612X"
+			(at 251.46 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 251.46 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -14777,6 +15525,28 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "ERJ3EKF5112V"
+			(at 64.77 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 64.77 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0f6d5927-2ad9-4669-be8a-3e8f9cbe3772")
 		)
@@ -14860,6 +15630,17 @@
 		)
 		(property "Manufacturer_Part_Number" "ERA2AEB333X"
 			(at 144.272 151.892 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 120.65 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14960,6 +15741,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 38.1 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "87864a0d-eb4a-4fdd-920c-54e8a4c75935")
 		)
@@ -15032,6 +15824,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 135.89 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM1885C1H222JA01D"
+			(at 135.89 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 135.89 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -15512,6 +16326,28 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "WR06X1000FTL"
+			(at 135.89 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 135.89 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bb267412-f2bb-4806-b0af-1030e172221c")
 		)
@@ -15660,6 +16496,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 205.74 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0603B104K500CT"
+			(at 205.74 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 205.74 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -15819,6 +16677,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 81.28 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0603C823K5RACTU"
+			(at 81.28 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 81.28 72.39 0)
 			(hide yes)
 			(show_name no)

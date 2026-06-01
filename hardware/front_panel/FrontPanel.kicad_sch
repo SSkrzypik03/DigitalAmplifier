@@ -6755,16 +6755,6 @@
 		)
 		(uuid "1126f2f7-134d-4733-a1e5-0c4a67f26f4c")
 	)
-	(text "czy ffc nie sa odwrotnie"
-		(exclude_from_sim no)
-		(at 189.484 168.148 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "19cd4bc1-e3e9-4d55-a9cd-d682ed0a9a85")
-	)
 	(text "OLED CONNECTOR"
 		(exclude_from_sim no)
 		(at 142.494 131.318 0)
@@ -11582,6 +11572,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW06031M00FKEA"
+			(at 231.14 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c3d26353-b12c-4e43-b6b6-e29b7b6bb9a7")
 		)
@@ -11654,6 +11655,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 104.14 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
 			(at 104.14 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -11892,6 +11904,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 161.29 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW06031M00FKEA"
 			(at 161.29 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -12242,6 +12265,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "WR06X3900FTL"
+			(at 193.04 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ba9ced94-f82e-4b9b-8569-ea0ca6842761")
 		)
@@ -12324,6 +12358,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 256.54 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0ed8601d-33d9-459f-a400-284c89a488f3")
 		)
@@ -12396,6 +12441,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 50.8 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
 			(at 50.8 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -13121,6 +13177,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0603FR-0749R9L"
+			(at 99.06 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "95518c38-fabd-410f-9cb0-25925cba52f1")
 		)
@@ -13635,6 +13702,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0603FR-0710KL"
+			(at 198.12 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8ee633cf-180e-466b-9d2c-d6a7d11e2277")
 		)
@@ -13706,6 +13784,17 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 243.84 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "293D106X9010A2TE3"
 			(at 243.84 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -13941,6 +14030,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 95.25 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10B105KA8NNNC"
 			(at 95.25 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -14188,6 +14288,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 215.9 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3b094bd6-a8cc-4b66-9fde-7230ec23c7e7")
 		)
@@ -14347,6 +14458,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 246.38 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4007a748-ce29-4fa1-88ec-baf00264ddd2")
 		)
@@ -14493,6 +14615,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 165.1 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10B105KA8NNNC"
 			(at 165.1 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -14816,6 +14949,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 226.06 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2e0ac301-3622-43f4-998b-9f884824ffb9")
 		)
@@ -15129,6 +15273,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW06031M00FKEA"
+			(at 270.51 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "64514a4d-41a2-423a-8ae9-b88918e66d9b")
 		)
@@ -15288,6 +15443,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW06031M00FKEA"
+			(at 220.98 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3364f323-e970-44f5-bbd1-68593ef1d500")
 		)
@@ -15360,6 +15526,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 207.01 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
 			(at 207.01 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -16103,6 +16280,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 275.59 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b02ed0e5-ad6e-4194-acb4-ad1745719374")
 		)
@@ -16175,6 +16363,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 100.33 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0603FR-0749R9L"
+			(at 100.33 99.06 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16496,6 +16695,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10B105KA8NNNC"
+			(at 86.36 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dab8ee75-7343-4cbe-9cb4-a61d732ccf3f")
 		)
@@ -16732,6 +16942,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 114.3 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f0369479-b032-46e9-9446-0c6466aebaf8")
 		)
@@ -16814,6 +17035,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 265.43 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c1acc8c8-9856-416a-a83f-f98ecc7e2f5c")
 		)
@@ -16886,6 +17118,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 209.55 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
 			(at 209.55 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -17267,6 +17510,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 16.51 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6e8510c5-1d7e-4e91-9b98-3a6619f5ee8f")
 		)
@@ -17591,6 +17845,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW06031M00FKEA"
+			(at 175.26 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "214e0f47-a3ad-4f79-b2a4-009a5a08340e")
 		)
@@ -17816,6 +18081,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 102.87 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10A475KO8NNNC"
 			(at 102.87 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -18062,6 +18338,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 170.18 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0eacfa51-b3f1-43cb-86a8-f2494b696b21")
 		)
@@ -18211,6 +18498,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 260.35 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW06031M00FKEA"
 			(at 260.35 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -18379,6 +18677,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10A475KO8NNNC"
+			(at 104.14 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5c125923-081d-40bf-96db-a04d729317c7")
 		)
@@ -18525,6 +18834,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 148.59 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10B105KA8NNNC"
 			(at 148.59 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -18695,6 +19015,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 92.71 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b81ba8de-5a24-417a-a843-a56a9acf7529")
 		)
@@ -18716,7 +19047,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -18849,6 +19180,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 241.3 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW06031M00FKEA"
 			(at 241.3 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -19173,6 +19515,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW06031M00FKEA"
+			(at 212.09 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bdfd657d-e99c-4baa-8e85-fb171ab4a5b3")
 		)
@@ -19321,6 +19674,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 43.18 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10B224KO8NNNC"
 			(at 43.18 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -19581,6 +19945,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0603FR-07100RL"
+			(at 29.21 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "62b18999-f120-48c9-893e-8cb4b5e168b0")
 		)
@@ -19729,6 +20104,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 43.18 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10B105KA8NNNC"
 			(at 43.18 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -20401,6 +20787,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "FFC2B35-10-T"
+			(at 256.54 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "f15a3e31-26e1-4100-9c34-f76ded798111")
 		)
@@ -20573,6 +20970,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 148.59 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0603FR-0710KL"
 			(at 148.59 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -20908,6 +21316,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0603FR-0710KL"
+			(at 151.13 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fb0e04f3-6829-4b2f-8406-4847a3c96a1f")
 		)
@@ -20980,6 +21399,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 99.06 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
 			(at 99.06 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -21223,6 +21653,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0603FR-0710KL"
+			(at 162.56 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "49115904-3986-4a53-a2ee-b5b756639e84")
 		)
@@ -21372,6 +21813,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 109.22 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
 			(at 109.22 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -21631,6 +22083,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10C220JB8NNNC"
+			(at 19.05 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7290c310-3ccc-4873-af8d-b9522465b1d0")
 		)
@@ -21867,6 +22330,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW06031M00FKEA"
+			(at 251.46 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7d4c7d33-10ed-4450-8e39-df24b80082c3")
 		)
@@ -21939,6 +22413,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 119.38 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
 			(at 119.38 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -22602,6 +23087,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 165.1 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9d400544-38c1-4524-b21c-6cc6d1e872df")
 		)
@@ -22916,6 +23412,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "BAT-HLD-012-SMT"
+			(at 193.04 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "37e22580-6cb7-4a72-b73d-ab7b8947d55b")
 		)
@@ -23075,6 +23582,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 60.96 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7b8e0ee0-97ab-4ae1-ba52-bed572d3f8a9")
 		)
@@ -23147,6 +23665,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 72.39 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
 			(at 72.39 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -23316,6 +23845,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 236.22 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3e9bdcb5-13b3-4b8e-b190-1ec7e4e2d876")
 		)
@@ -23387,6 +23927,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 165.1 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0603FR-0710KL"
 			(at 165.1 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -23787,6 +24338,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10B105KA8NNNC"
+			(at 93.98 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f0dd5529-2c99-49e1-a591-fd7f43478f0e")
 		)
@@ -23808,7 +24370,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -23946,6 +24508,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "LD1117S33TR"
+			(at 226.06 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "47757c25-937a-4b57-ba34-7d28ea37d623")
 		)
@@ -23970,7 +24543,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -24297,6 +24870,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10C220JB8NNNC"
+			(at 25.4 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1b8acac5-8737-40ee-a877-4652747e6ad9")
 		)
@@ -24366,6 +24950,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 207.01 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10B105KA8NNNC"
 			(at 207.01 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -24447,6 +25042,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 180.34 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0603FR-0710KL"
 			(at 180.34 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -24862,6 +25468,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "293D106X9010A2TE3"
+			(at 215.9 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a9fa06a7-117c-4b1b-9312-1f2888db9687")
 		)
@@ -24944,6 +25561,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW06031M00FKEA"
+			(at 280.67 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8679d5be-5c86-4270-a781-af32f3839fd2")
 		)
@@ -24965,7 +25593,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -25580,6 +26208,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10B105KA8NNNC"
+			(at 77.47 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5a205004-0fa5-4511-9f06-b215321beb37")
 		)
@@ -25971,6 +26610,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 26.67 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ff63ef00-2b0d-4aef-9ff9-0defa9076941")
 		)
@@ -26040,6 +26690,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 180.34 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10B105KA8NNNC"
 			(at 180.34 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -26122,6 +26783,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 236.22 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
 			(at 236.22 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -26622,6 +27294,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
+			(at 151.13 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "398a9a11-6d3c-4a6a-930c-80bd1b2bd106")
 		)
@@ -26694,6 +27377,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 38.1 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805B104K500CT"
 			(at 38.1 181.61 0)
 			(hide yes)
 			(show_name no)
