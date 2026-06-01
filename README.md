@@ -2,30 +2,33 @@
 
 High-performance Class-D audio amplifier project based on the TPA3255 platform with Post-Filter Feedback (PFFB), combined with a dedicated DSP subsystem powered by STM32F446.
 
-The amplifier is designed as a fully integrated stereo solution delivering **2x75W output power**, with emphasis on:
-- low distortion,
-- high efficiency,
-- modular hardware architecture,
-- robust power delivery and protection systems.
-
+The project aims to deliver a compact and fully integrated stereo amplifier capable of 2×75 W output power while combining modern digital signal processing with high audio performance and efficient power conversion.
 ---
 
 # Main Features
 
+## Audio & Electronics
+
 - Class-D topology based on TPA3255
 - Post-Filter Feedback (PFFB) architecture
 - DSP processing using STM32F446
-- 2x75W RMS output power
-- Modular internal architecture
-- Aluminum enclosure with glass front panel
-- 3.83" OLED display
-- IR remote control support
-- RCA line input
-- PREOUT output
-- USB Type-C input
-- S/PDIF input
+- 2×75 W RMS output power
 - THD+N: TBD after laboratory measurements
 - IMD: TBD after laboratory measurements
+
+## Connectivity & User Interface
+
+- USB Type-C input
+- S/PDIF input
+- RCA line input
+- PREOUT output
+- 3.83" OLED display
+- IR remote control
+
+## Mechanical Design
+
+- Aluminum enclosure
+- Glass front panel
 
 ---
 
@@ -82,3 +85,18 @@ DigitalAmplifier/
 ├── spice/
 └── README.md
 ```
+
+---
+
+# Credits
+
+Special thanks to [@vivadela](https://github.com/vivadela) for valuable support with the CAD design and mechanical development of the project.
+---
+
+# Support the Project
+
+If you find this project interesting or useful and would like to support its development, you can make a voluntary donation:
+
+☕ http://buycoffee.to/sskrzypik03
+
+Your support helps cover the costs of PCB manufacturing, prototyping and components.
