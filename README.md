@@ -100,6 +100,8 @@ The project is developed as Open Source from the very beginning, with a strong f
 
 If you would like to support my work and contribute to the project's future development, you can buy me a coffee:
 
+<a href="https://buycoffee.to/sskrzypik03" target="_blank"><img src="https://buycoffee.to/static/img/share/share-button-white.png" style="width: 234px; height: 61px" alt="Buy a coffee for SSkrzypik03 at buycoffee.to"></a>
+
 ☕ http://buycoffee.to/sskrzypik03
 
 
