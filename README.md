@@ -5,6 +5,7 @@ High-performance Class-D audio amplifier project based on the TPA3255 platform w
 The project aims to deliver a compact and fully integrated stereo amplifier capable of 2×75 W output power while combining modern digital signal processing with high audio performance and efficient power conversion.
 ---
 
+
 # Main Features
 
 ## Audio & Electronics
@@ -88,15 +89,21 @@ DigitalAmplifier/
 
 ---
 
+
+# Support the Project
+
+After building and validating a fully functional prototype, I plan to expand the project with an integrated audio streamer based on a Cortex-A35 processor running Linux or Android. This will enable music playback from services such as YouTube, Spotify, and TIDAL.
+
+I would also like to further refine the industrial design, giving the amplifier a more modern and polished appearance.
+
+The project is developed as Open Source from the very beginning, with a strong focus on quality, attention to detail, and long-term development.
+
+If you would like to support my work and contribute to the project's future development, you can buy me a coffee:
+
+☕ http://buycoffee.to/sskrzypik03
+
+
 # Credits
 
 Special thanks to [@vivadela](https://github.com/vivadela) for valuable support with the CAD design and mechanical development of the project.
 ---
-
-# Support the Project
-
-If you find this project interesting or useful and would like to support its development, you can make a voluntary donation:
-
-☕ http://buycoffee.to/sskrzypik03
-
-Your support helps cover the costs of PCB manufacturing, prototyping and components.
