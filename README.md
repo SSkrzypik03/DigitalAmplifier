@@ -35,22 +35,38 @@ The project aims to deliver a compact and fully integrated stereo amplifier capa
 
 # Hardware Overview
 
-## Amplifier PCB
-![Amplifier PCB](img/mainboard.jpg)
+### Front View
 
-## Front Panel PCB
-![Front Panel PCB](img/front_panel.jpg)
+<img src="img/front_view_1.jpg" width="900">
 
-## Power Supply PCB
-![Power Supply PCB](img/psu.jpg)
+<img src="img/front_view_2.jpg" width="900">
 
----
+### Rear View
 
-# Complete Amplifier Assembly
+<img src="img/rear_view_2.jpg" width="900">
 
-![Complete Amplifier](img/amplifier.jpg)
+### Internal View (Cover Removed)
 
----
+<img src="img/top_view.jpg" width="900">
+
+## System Architecture
+
+<img src="img/diagram.jpg" width="900">
+
+## Printed Circuit Boards
+
+### Main Amplifier PCB
+
+<img src="img/pcb_mainboard.jpg" width="900">
+
+### Front Panel PCB
+
+<img src="img/pcb_frontpanel.jpg" width="900">
+
+### Power Supply PCB
+
+<img src="img/pcb_psu.jpg">
+
 
 # Project Status
 
