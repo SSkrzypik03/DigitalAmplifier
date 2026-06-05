@@ -1,12 +1,24 @@
-# DigitalAmplifier
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/volumia_logo_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="img/volumia_logo_white.png">
+    <img alt="Volumia Logo" src="img/volumia_logo_white.png" width="800">
+  </picture>
+</p>
 
-High-performance Class-D audio amplifier project based on the TPA3255 platform with Post-Filter Feedback (PFFB), combined with a dedicated DSP subsystem powered by STM32F446.
+<p align="center">
+  High-performance Class-D audio amplifier with integrated DSP and PFFB
+</p>
 
-The project aims to deliver a compact and fully integrated stereo amplifier capable of 2×75 W output power while combining modern digital signal processing with high audio performance and efficient power conversion.
 ---
 
+## Overview
 
-# Main Features
+Volumia is a high-performance stereo Class-D amplifier project based on the TPA3255 platform with Post-Filter Feedback (PFFB) and a dedicated STM32F446 DSP subsystem.
+
+The goal is to deliver a compact and fully integrated 2×75 W amplifier combining digital signal processing, high audio quality and efficient power conversion.
+
+## Main Features
 
 ## Audio & Electronics
 
