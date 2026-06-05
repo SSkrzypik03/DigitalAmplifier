@@ -1,5 +1,12 @@
 *.kicad_prl
 .history_trim/
 
+*-autosave.kicad_sch
+*-autosave.kicad_pcb
+
+*-backups/
+
+*.lck
+
 __pycache__/
 *.pyc
